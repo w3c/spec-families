@@ -27,7 +27,7 @@ const fetchSeries = (url, page = 1, previousResponse = []) => {
     };
 
 (async function() {
-    const W3CSeries = await fetchSeries(`https://api.w3.org/specification-series?apikey=${apikey}`);
+    const W3CSeries = await fetchSeries(`https://api.w3.org/specification-series?apikey=${apikey}&retired=false`);
     const W3CSeriesTitles = W3CSeries.map((item) => item.title);
     let hasErrors = false;
 
