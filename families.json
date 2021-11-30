@@ -394,7 +394,6 @@
             "spoken-html",
             "wot-usecases",
             "audio-eq-cookbook",
-            "miniapp-lifecycle",
             "webnn",
             "epub-a11y-eaa-mapping",
             "did-cbor-representation",
@@ -810,7 +809,10 @@
     {
         "name": "MiniApp",
         "series": [
-            "mini-app-white-paper"
+            "mini-app-white-paper",
+            "miniapp-lifecycle",
+            "miniapp-packaging",
+            "miniapp-manifest"
         ]
     },
     {
@@ -2250,12 +2252,6 @@
         "series": [
             "webcodecs",
             "webcodecs-avc-codec-registration"
-        ]
-    },
-    {
-        "name": "Miniapp",
-        "series": [
-            "miniapp-manifest"
         ]
     },
     {
