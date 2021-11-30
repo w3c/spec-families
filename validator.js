@@ -6,7 +6,7 @@ const fetch = require("node-fetch");
 function findDuplicate(data) {
     const result = [];
     data.forEach((item) => {
-        if (result.indexOf(item) === -1 && data.filter((i) => i === item).length > 1) {
+        if (result.indexOf(item) === -1 && data.filter((i) => i.toLowerCase() === item.toLowerCase()).length > 1) {
             result.push(item);
         }
     });
