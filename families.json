@@ -9,18 +9,18 @@
   {
     "name": "Accessibility Conformance Testing",
     "series": [
-      "act-rules-format",
-      "act-rules-aspects"
+      "act-rules-aspects",
+      "act-rules-format"
     ]
   },
   {
     "name": "Accessibility User Requirements",
     "series": [
-      "raur",
-      "xaur",
+      "coga-user-research",
       "low-vision-needs",
       "media-accessibility-reqs",
-      "coga-user-research"
+      "raur",
+      "xaur"
     ]
   },
   {
@@ -75,9 +75,9 @@
   {
     "name": "CC/PP",
     "series": [
-      "CCPP-struct-vocab",
+      "CCPP",
       "CCPP-COORDINATION",
-      "CCPP"
+      "CCPP-struct-vocab"
     ]
   },
   {
@@ -512,9 +512,9 @@
   {
     "name": "Character Model for the World Wide Web",
     "series": [
+      "charmod",
       "charmod-norm",
-      "charreq",
-      "charmod"
+      "charreq"
     ]
   },
   {
@@ -563,34 +563,34 @@
     "name": "DID",
     "series": [
       "did-core",
-      "did-use-cases",
-      "did-spec-registries"
+      "did-spec-registries",
+      "did-use-cases"
     ]
   },
   {
     "name": "DOM",
     "series": [
-      "dom",
-      "DOM-Parsing",
       "DOM-Content-Models-and-Load-Save",
-      "DOM-Val"
+      "DOM-Parsing",
+      "DOM-Val",
+      "dom"
     ]
   },
   {
     "name": "Data on the Web Best Practices",
     "series": [
       "dwbp",
+      "dwbp-ucr",
       "vocab-dqv",
-      "vocab-duv",
-      "dwbp-ucr"
+      "vocab-duv"
     ]
   },
   {
     "name": "Dataset exchange",
     "series": [
+      "dcat-ucr",
       "dx-prof",
       "dx-prof-conneg",
-      "dcat-ucr",
       "vocab-adms",
       "void"
     ]
@@ -598,30 +598,30 @@
   {
     "name": "Device API",
     "series": [
-      "netinfo-usecases",
-      "hnreq",
+      "dap-api-reqs",
       "dap-policy-reqs",
       "dap-privacy-reqs",
-      "dap-api-reqs"
+      "hnreq",
+      "netinfo-usecases"
     ]
   },
   {
     "name": "Device Description",
     "series": [
-      "dd-structures",
       "DDR-Simple-API",
-      "ddr-core-vocabulary",
       "DDR-requirements",
+      "dd-ecosystem",
       "dd-landscape",
-      "dd-ecosystem"
+      "dd-structures",
+      "ddr-core-vocabulary"
     ]
   },
   {
     "name": "Device Independence",
     "series": [
-      "di-dco",
-      "di-atdi",
       "acdi",
+      "di-atdi",
+      "di-dco",
       "di-princ"
     ]
   },
@@ -663,63 +663,63 @@
     "name": "EARL",
     "series": [
       "Content-in-RDF",
-      "HTTP-in-RDF",
-      "WAET",
       "EARL-Guide",
-      "Pointers-in-RDF",
       "EARL-Requirements",
       "EARL-Schema",
+      "HTTP-in-RDF",
+      "Pointers-in-RDF",
+      "WAET",
       "accessibility-metrics-report"
     ]
   },
   {
     "name": "egov",
     "series": [
-      "gov-data",
-      "egov-improving"
+      "egov-improving",
+      "gov-data"
     ]
   },
   {
     "name": "EME",
     "series": [
-      "encrypted-media",
-      "eme-stream-mp4",
-      "eme-stream-registry",
       "eme-initdata-cenc",
       "eme-initdata-keyids",
-      "eme-initdata-registry"
+      "eme-initdata-registry",
+      "eme-stream-mp4",
+      "eme-stream-registry",
+      "encrypted-media"
     ]
   },
   {
     "name": "EMMA",
     "series": [
+      "EMMAreqs",
       "emma",
-      "emma-usecases",
-      "EMMAreqs"
+      "emma-usecases"
     ]
   },
   {
     "name": "EPUB",
     "series": [
       "epub",
-      "epub-rs",
       "epub-a11y",
       "epub-a11y-tech",
-      "epub-overview"
+      "epub-overview",
+      "epub-rs"
     ]
   },
   {
     "name": "EXI",
     "series": [
-      "exi-for-json",
-      "exi-c14n",
-      "exi-profile",
-      "exi-primer",
       "exi",
-      "exi-evaluation",
-      "exi-impacts",
       "exi-best-practices",
+      "exi-c14n",
+      "exi-evaluation",
+      "exi-for-json",
+      "exi-impacts",
       "exi-measurements",
+      "exi-primer",
+      "exi-profile",
       "xbc-characterization",
       "xbc-measurement",
       "xbc-properties",
@@ -729,8 +729,8 @@
   {
     "name": "EmotionML",
     "series": [
-      "emotionml",
-      "emotion-voc"
+      "emotion-voc",
+      "emotionml"
     ]
   },
   {
@@ -755,9 +755,9 @@
     "name": "GRDDL",
     "series": [
       "grddl",
-      "grddl-tests",
       "grddl-primer",
-      "grddl-scenarios"
+      "grddl-scenarios",
+      "grddl-tests"
     ]
   },
   {
@@ -781,10 +781,10 @@
   {
     "name": "Geospatial data",
     "series": [
-      "eo-qb",
-      "sdw-bp",
-      "qb4st",
       "covjson-overview",
+      "eo-qb",
+      "qb4st",
+      "sdw-bp",
       "sdw-ucr"
     ]
   },
@@ -792,47 +792,47 @@
     "name": "HCLS",
     "series": [
       "hcls-dataset",
+      "hcls-kb",
       "hcls-orb",
+      "hcls-senselab",
       "hcls-sioc",
       "hcls-swan",
-      "hcls-swansioc",
-      "hcls-kb",
-      "hcls-senselab"
+      "hcls-swansioc"
     ]
   },
   {
     "name": "HTML",
     "series": [
+      "CX",
+      "S6Group2",
+      "XHTMLplusSMIL",
+      "backplane",
       "html",
-      "html-media-capture",
-      "html-imports",
-      "html-bidi",
-      "html-longdesc",
-      "microdata-rdf",
-      "html-diff",
-      "html-templates",
-      "html-ruby-extensions",
-      "respimg-usecases",
-      "ruby-use-cases",
       "html-author",
+      "html-bidi",
+      "html-data-guide",
+      "html-design-principles",
+      "html-diff",
+      "html-imports",
+      "html-longdesc",
       "html-main-element",
       "html-markup",
-      "html-data-guide",
-      "html-xml-tf-report",
-      "xhtml-media-types",
-      "offline-webapps",
-      "html-design-principles",
-      "xbl-primer",
-      "backplane",
-      "xml-events",
-      "xhtml-schema",
-      "XHTMLplusSMIL",
-      "CX",
-      "ruby",
+      "html-media-capture",
       "html-mobile",
-      "xh",
+      "html-ruby-extensions",
+      "html-templates",
+      "html-xml-tf-report",
       "imagemap",
-      "S6Group2"
+      "microdata-rdf",
+      "offline-webapps",
+      "respimg-usecases",
+      "ruby",
+      "ruby-use-cases",
+      "xbl-primer",
+      "xh",
+      "xhtml-media-types",
+      "xhtml-schema",
+      "xml-events"
     ]
   },
   {
@@ -895,9 +895,9 @@
   {
     "name": "Internationalization for HTML",
     "series": [
-      "predefined-counter-styles",
+      "i18n-html-tech-bidi",
       "i18n-html-tech-lang",
-      "i18n-html-tech-bidi"
+      "predefined-counter-styles"
     ]
   },
   {
@@ -924,34 +924,34 @@
   {
     "name": "Language Gap Analysis",
     "series": [
-      "grek-gap",
-      "latn-hu-gap",
-      "latn-nl-gap",
-      "cans-iu-cr-gap",
-      "cher-gap",
-      "geor-gap",
-      "khmr-gap",
-      "gujr-gap",
-      "java-gap",
-      "taml-gap",
-      "thai-gap",
-      "jpan-gap",
-      "clreq-gap",
-      "mong-gap",
-      "beng-gap",
-      "tibt-gap",
-      "deva-gap",
-      "laoo-gap",
-      "guru-gap",
-      "elreq-gap",
-      "typography",
-      "nkoo-gap",
       "adlm-gap",
       "alreq-gap",
-      "osge-osa-gap",
+      "beng-gap",
+      "cans-iu-cr-gap",
+      "cher-gap",
+      "clreq-gap",
+      "deva-gap",
+      "elreq-gap",
+      "geor-gap",
+      "grek-gap",
+      "gujr-gap",
+      "guru-gap",
       "hebr-gap",
+      "java-gap",
+      "jpan-gap",
+      "khmr-gap",
+      "laoo-gap",
       "latn-de-gap",
-      "latn-fr-gap"
+      "latn-fr-gap",
+      "latn-hu-gap",
+      "latn-nl-gap",
+      "mong-gap",
+      "nkoo-gap",
+      "osge-osa-gap",
+      "taml-gap",
+      "thai-gap",
+      "tibt-gap",
+      "typography"
     ]
   },
   {
@@ -970,13 +970,13 @@
     "name": "Linked Data Platform",
     "series": [
       "ldn",
-      "ldpatch",
-      "ldp-paging",
-      "ldp-primer",
       "ldp",
       "ldp-acr",
       "ldp-bp",
-      "ldp-ucr"
+      "ldp-paging",
+      "ldp-primer",
+      "ldp-ucr",
+      "ldpatch"
     ]
   },
   {
@@ -996,29 +996,29 @@
     "name": "MMI",
     "series": [
       "mmi-arch",
+      "mmi-auth",
+      "mmi-dev-feedback",
       "mmi-discovery",
+      "mmi-framework",
       "mmi-interop",
       "mmi-mcbp",
-      "mmi-auth",
-      "mmi-suggestions",
-      "mmi-dev-feedback",
-      "modality-interface",
-      "mmi-framework",
       "mmi-reqs",
-      "mmi-use-cases"
+      "mmi-suggestions",
+      "mmi-use-cases",
+      "modality-interface"
     ]
   },
   {
     "name": "MSE",
     "series": [
+      "eme-initdata-webm",
+      "eme-stream-webm",
       "media-source",
       "mse-byte-stream-format-isobmff",
       "mse-byte-stream-format-mp2t",
       "mse-byte-stream-format-mpeg-audio",
       "mse-byte-stream-format-registry",
-      "mse-byte-stream-format-webm",
-      "eme-initdata-webm",
-      "eme-stream-webm"
+      "mse-byte-stream-format-webm"
     ]
   },
   {
@@ -1031,9 +1031,9 @@
     "name": "MathML",
     "series": [
       "MathML",
-      "mathml-for-css",
       "arabic-math",
       "mathml-bvar",
+      "mathml-for-css",
       "mathml-types",
       "mathml-units"
     ]
@@ -1047,15 +1047,15 @@
   {
     "name": "Media Capture",
     "series": [
-      "mediacapture-streams",
-      "mediacapture-fromelement",
-      "mst-content-hint",
-      "mediastream-recording",
-      "screen-capture",
+      "capture-scenarios",
       "image-capture",
       "mediacapture-depth",
-      "capture-scenarios",
-      "openscreenprotocol"
+      "mediacapture-fromelement",
+      "mediacapture-streams",
+      "mediastream-recording",
+      "mst-content-hint",
+      "openscreenprotocol",
+      "screen-capture"
     ]
   },
   {
@@ -1075,9 +1075,9 @@
   {
     "name": "Media Resources",
     "series": [
-      "mediaont-api",
+      "media-annot-reqs",
       "mediaont",
-      "media-annot-reqs"
+      "mediaont-api"
     ]
   },
   {
@@ -1103,8 +1103,8 @@
     "series": [
       "mini-app-white-paper",
       "miniapp-lifecycle",
-      "miniapp-packaging",
-      "miniapp-manifest"
+      "miniapp-manifest",
+      "miniapp-packaging"
     ]
   },
   {
@@ -1116,17 +1116,17 @@
   {
     "name": "Mobile Best Practices",
     "series": [
-      "mwabp",
       "ct-landscape",
+      "di-testing",
+      "mobile-bp",
+      "mobile-bp-scope",
+      "mobileOK",
+      "mobileOK-basic-tests",
+      "mwabp",
+      "mwbp-wcag",
       "powder-dr",
       "powder-formal",
-      "powder-grouping",
-      "mobileOK",
-      "mwbp-wcag",
-      "di-testing",
-      "mobileOK-basic-tests",
-      "mobile-bp",
-      "mobile-bp-scope"
+      "powder-grouping"
     ]
   },
   {
@@ -1151,27 +1151,27 @@
   {
     "name": "OWL",
     "series": [
-      "rif-owl-rl",
-      "owl-overview",
-      "owl-primer",
-      "owl-direct-semantics",
-      "owl-profiles",
-      "owl-syntax",
       "owl-conformance",
-      "owl-quick-reference",
+      "owl-direct-semantics",
       "owl-dr-linear",
-      "owl-rdf-based-semantics",
-      "owl-manchester-syntax",
-      "owl-xml-serialization",
-      "owl-new-features",
-      "owl-mapping-to-rdf",
-      "owl-ref",
       "owl-features",
-      "webont-req",
       "owl-guide",
+      "owl-manchester-syntax",
+      "owl-mapping-to-rdf",
+      "owl-new-features",
+      "owl-overview",
       "owl-parsing",
+      "owl-primer",
+      "owl-profiles",
+      "owl-quick-reference",
+      "owl-rdf-based-semantics",
+      "owl-ref",
+      "owl-syntax",
+      "owl-xml-serialization",
       "owl-xmlsyntax",
-      "swbp-specified-values"
+      "rif-owl-rl",
+      "swbp-specified-values",
+      "webont-req"
     ]
   },
   {
@@ -1183,8 +1183,8 @@
   {
     "name": "PICS",
     "series": [
-      "PICS-labels",
       "DSig-label",
+      "PICS-labels",
       "PICS-services",
       "PICSRules"
     ]
@@ -1198,8 +1198,8 @@
   {
     "name": "PNG",
     "series": [
-      "png-hdr-pq",
-      "PNG"
+      "PNG",
+      "png-hdr-pq"
     ]
   },
   {
@@ -1211,27 +1211,27 @@
   {
     "name": "POWDER",
     "series": [
-      "powder-test",
       "powder-primer",
+      "powder-test",
       "powder-use-cases"
     ]
   },
   {
     "name": "PROV",
     "series": [
-      "prov-primer",
-      "prov-dm",
-      "prov-sem",
-      "prov-implementations",
-      "prov-xml",
-      "prov-links",
       "prov-aq",
-      "prov-n",
       "prov-constraints",
-      "prov-o",
       "prov-dc",
+      "prov-dictionary",
+      "prov-dm",
+      "prov-implementations",
+      "prov-links",
+      "prov-n",
+      "prov-o",
       "prov-overview",
-      "prov-dictionary"
+      "prov-primer",
+      "prov-sem",
+      "prov-xml"
     ]
   },
   {
@@ -1251,13 +1251,13 @@
     "series": [
       "hr-time",
       "navigation-timing",
-      "resource-timing",
-      "user-timing",
-      "server-timing",
+      "paint-timing",
       "performance-timeline",
-      "timing-entrytypes-registry",
       "reporting",
-      "paint-timing"
+      "resource-timing",
+      "server-timing",
+      "timing-entrytypes-registry",
+      "user-timing"
     ]
   },
   {
@@ -1275,10 +1275,10 @@
   {
     "name": "Personalization semantics",
     "series": [
-      "personalization-semantics-requirements",
       "personalization-semantics",
       "personalization-semantics-content",
       "personalization-semantics-help",
+      "personalization-semantics-requirements",
       "personalization-semantics-tools"
     ]
   },
@@ -1329,18 +1329,18 @@
   {
     "name": "QA Framework",
     "series": [
-      "test-methodology",
-      "test-metadata",
       "qa-handbook",
+      "qaframe-spec",
       "spec-variability",
-      "qaframe-spec"
+      "test-metadata",
+      "test-methodology"
     ]
   },
   {
     "name": "RDB2RDF",
     "series": [
-      "rdb-direct-mapping",
       "r2rml",
+      "rdb-direct-mapping",
       "rdb2rdf-implementations",
       "rdb2rdf-test-cases",
       "rdb2rdf-ucr"
@@ -1349,66 +1349,66 @@
   {
     "name": "RDF",
     "series": [
-      "rdf-primer",
-      "rdf-mt",
-      "rdf-datasets",
+      "ld-glossary",
+      "n-quads",
       "n-triples",
       "rdf-concepts",
-      "rdf-new",
-      "rdf-syntax-grammar",
-      "rdf-schema",
-      "rdf-testcases",
-      "turtle",
-      "trig",
-      "n-quads",
+      "rdf-datasets",
       "rdf-json",
-      "ld-glossary",
+      "rdf-mt",
+      "rdf-new",
       "rdf-plain-literal",
-      "swbp-vocab-pub",
-      "swbp-n-aryRelations",
-      "sw-oosd-primer",
+      "rdf-primer",
+      "rdf-schema",
+      "rdf-syntax-grammar",
+      "rdf-testcases",
+      "rdf-uml",
       "rdftm-survey",
+      "sw-oosd-primer",
       "swbp-classes-as-values",
-      "rdf-uml"
+      "swbp-n-aryRelations",
+      "swbp-vocab-pub",
+      "trig",
+      "turtle"
     ]
   },
   {
     "name": "RDF Vocabulary",
     "series": [
+      "rdfcal",
       "vcard-rdf",
       "vocab-data-cube",
-      "vocab-org",
-      "vocab-regorg",
       "vocab-data-cube-use-cases",
+      "vocab-org",
       "vocab-people",
-      "rdfcal"
+      "vocab-regorg"
     ]
   },
   {
     "name": "RDFa",
     "series": [
-      "rdfa-core",
       "html-rdfa",
-      "xhtml-rdfa",
+      "rdfa-core",
       "rdfa-lite",
-      "rdfa-primer"
+      "rdfa-primer",
+      "xhtml-rdfa"
     ]
   },
   {
     "name": "RIF",
     "series": [
-      "rif-in-rdf",
-      "rif-ucr",
-      "rif-overview",
-      "rif-xml-data",
       "rif-bld",
-      "rif-prd",
       "rif-core",
-      "rif-primer",
       "rif-dtb",
-      "rif-rdf-owl",
       "rif-fld",
-      "rif-test"
+      "rif-in-rdf",
+      "rif-overview",
+      "rif-prd",
+      "rif-primer",
+      "rif-rdf-owl",
+      "rif-test",
+      "rif-ucr",
+      "rif-xml-data"
     ]
   },
   {
@@ -1452,10 +1452,10 @@
   {
     "name": "SHACL",
     "series": [
-      "shacl-ucr",
       "shacl",
       "shacl-af",
-      "shacl-js"
+      "shacl-js",
+      "shacl-ucr"
     ]
   },
   {
@@ -1467,66 +1467,66 @@
   {
     "name": "SKOS",
     "series": [
+      "skos-primer",
       "skos-reference",
-      "skos-ucr",
-      "skos-primer"
+      "skos-ucr"
     ]
   },
   {
     "name": "SMIL",
     "series": [
+      "SYMM-modules",
       "smil",
-      "smil-animation",
-      "SYMM-modules"
+      "smil-animation"
     ]
   },
   {
     "name": "SML",
     "series": [
-      "sml-xlink-ref-scheme",
-      "sml-epr-ref-scheme",
       "sml",
-      "sml-if"
+      "sml-epr-ref-scheme",
+      "sml-if",
+      "sml-xlink-ref-scheme"
     ]
   },
   {
     "name": "SOAP",
     "series": [
-      "soapjms",
       "SOAP",
-      "soap-testcollection",
-      "soap-ror-httpbinding",
-      "xml-media-types",
-      "xop",
-      "soap-rep",
-      "soap-mtom",
-      "xopinc-FAQ",
       "soap-af",
+      "soap-email",
+      "soap-mtom",
       "soap-n11n",
-      "xmlp-scenarios",
+      "soap-rep",
+      "soap-ror-httpbinding",
+      "soap-testcollection",
+      "soapjms",
+      "xml-media-types",
       "xmlp-reqs",
-      "soap-email"
+      "xmlp-scenarios",
+      "xop",
+      "xopinc-FAQ"
     ]
   },
   {
     "name": "SPARQL",
     "series": [
       "rdf-sparql-XMLres",
-      "sparql-protocol",
-      "sparql-query",
-      "sparql-entailment",
-      "sparql-results-csv-tsv",
-      "sparql-federated-query",
-      "sparql-results-json",
-      "sparql-http-rdf-update",
-      "sparql-service-description",
-      "sparql-overview",
-      "sparql-update",
-      "sparql-property-paths",
-      "sparql-features",
+      "rdf-sparql-json-res",
       "rdf-sparql-protocol",
       "rdf-sparql-query",
-      "rdf-sparql-json-res"
+      "sparql-entailment",
+      "sparql-features",
+      "sparql-federated-query",
+      "sparql-http-rdf-update",
+      "sparql-overview",
+      "sparql-property-paths",
+      "sparql-protocol",
+      "sparql-query",
+      "sparql-results-csv-tsv",
+      "sparql-results-json",
+      "sparql-service-description",
+      "sparql-update"
     ]
   },
   {
@@ -1539,28 +1539,28 @@
     "name": "SSML",
     "series": [
       "speech-synthesis",
-      "ssmlreqs",
-      "ssml-sayas"
+      "ssml-sayas",
+      "ssmlreqs"
     ]
   },
   {
     "name": "SVG",
     "series": [
       "SVG",
-      "svg-paths",
-      "svg-markers",
-      "svg-strokes",
-      "svg-integration",
+      "SVG-Transforms",
       "SVGColor",
       "SVGColorPrimer",
-      "SVGParam",
-      "SVGParamPrimer",
-      "SVG-Transforms",
-      "SVGTiny",
       "SVGFilter",
       "SVGFilterPrimer",
+      "SVGParam",
+      "SVGParamPrimer",
+      "SVGReqs",
+      "SVGTiny",
       "rex-reqs",
-      "SVGReqs"
+      "svg-integration",
+      "svg-markers",
+      "svg-paths",
+      "svg-strokes"
     ]
   },
   {
@@ -1596,22 +1596,22 @@
   {
     "name": "Semantic Sensor Network",
     "series": [
-      "vocab-ssn-ext",
-      "vocab-ssn"
+      "vocab-ssn",
+      "vocab-ssn-ext"
     ]
   },
   {
     "name": "Sensor API",
     "series": [
-      "orientation-sensor",
-      "generic-sensor",
-      "gyroscope",
       "accelerometer",
-      "magnetometer",
       "ambient-light",
-      "proximity",
+      "generic-sensor",
       "geolocation-sensor",
-      "motion-sensors"
+      "gyroscope",
+      "magnetometer",
+      "motion-sensors",
+      "orientation-sensor",
+      "proximity"
     ]
   },
   {
@@ -1623,8 +1623,8 @@
   {
     "name": "Social Web",
     "series": [
-      "post-type-discovery",
       "jf2",
+      "post-type-discovery",
       "social-web-protocols"
     ]
   },
@@ -1649,67 +1649,67 @@
   {
     "name": "TBD",
     "series": [
-      "pointerevents",
-      "COWL",
-      "audioproc",
-      "poi-core",
-      "coga-usable",
-      "webcodecs-codec-registry",
       "ATAG-wombat",
-      "css-roadmap",
-      "font",
+      "COWL",
+      "IFT",
+      "SVGCompositing",
+      "WGSL",
+      "Window",
+      "audio-eq-cookbook",
+      "audioproc",
+      "coga-usable",
+      "css-2d-transforms",
+      "css-3d-transforms",
       "css-border",
       "css-linebox",
+      "css-nesting",
+      "css-roadmap",
+      "did-cbor-representation",
+      "did-imp-guide",
+      "did-rubric",
+      "epub-a11y-eaa-mapping",
+      "epub-multi-rend",
+      "epub-ssv",
+      "epub-tts",
+      "font",
+      "i18n-glossary",
+      "imsc-hrm",
+      "localizable-manifests",
+      "mathml-core",
+      "naur",
+      "poi-core",
+      "pointerevents",
+      "rdfa-syntax",
+      "remote-meetings",
+      "saur",
+      "secure-payment-confirmation",
+      "spoken-html",
       "swbp-skos-core-guide",
       "swbp-skos-core-spec",
-      "rdfa-syntax",
-      "web-forms",
-      "Window",
-      "css-2d-transforms",
-      "SVGCompositing",
-      "css-3d-transforms",
-      "epub-multi-rend",
-      "webgpu",
-      "WGSL",
-      "spoken-html",
-      "wot-usecases",
-      "audio-eq-cookbook",
-      "webnn",
-      "epub-a11y-eaa-mapping",
-      "did-cbor-representation",
-      "i18n-glossary",
+      "virtual-keyboard",
       "viss-core",
       "viss-transport",
-      "epub-tts",
-      "mathml-core",
-      "localizable-manifests",
-      "virtual-keyboard",
-      "did-rubric",
-      "did-imp-guide",
-      "css-nesting",
-      "webxr-depth-sensing",
-      "webxr-hit-test",
-      "webxr-dom-overlays",
-      "secure-payment-confirmation",
-      "IFT",
-      "webxr-lighting-estimation",
+      "web-forms",
+      "webcodecs-codec-registry",
+      "webgpu",
+      "webnn",
       "webrtc-encoded-transform",
-      "saur",
-      "naur",
-      "remote-meetings",
-      "epub-ssv",
-      "imsc-hrm"
+      "webxr-depth-sensing",
+      "webxr-dom-overlays",
+      "webxr-hit-test",
+      "webxr-lighting-estimation",
+      "wot-usecases"
     ]
   },
   {
     "name": "TTML",
     "series": [
-      "ttml-profile-registry",
-      "ttml-imsc",
-      "ttml",
       "imsc-reqs",
-      "ttml-sdp-us",
-      "ttaf-req"
+      "ttaf-req",
+      "ttml",
+      "ttml-imsc",
+      "ttml-profile-registry",
+      "ttml-sdp-us"
     ]
   },
   {
@@ -1721,29 +1721,29 @@
   {
     "name": "Tabular Data",
     "series": [
-      "csvw-html",
-      "tabular-data-primer",
-      "csvw-ucr",
       "csv2json",
       "csv2rdf",
+      "csvw-html",
+      "csvw-ucr",
       "tabular-data-model",
+      "tabular-data-primer",
       "tabular-metadata"
     ]
   },
   {
     "name": "Text Layout Requirements",
     "series": [
-      "clreq",
-      "jlreq",
-      "mlreq",
-      "tlreq",
-      "ilreq-taml",
-      "simple-ruby",
-      "ilreq",
-      "klreq",
-      "elreq",
       "alreq",
-      "dpub-latinreq"
+      "clreq",
+      "dpub-latinreq",
+      "elreq",
+      "ilreq",
+      "ilreq-taml",
+      "jlreq",
+      "klreq",
+      "mlreq",
+      "simple-ruby",
+      "tlreq"
     ]
   },
   {
@@ -1755,9 +1755,9 @@
   {
     "name": "Time Ontology",
     "series": [
-      "vocab-owl-time-rel",
+      "owl-time",
       "vocab-owl-time-agg",
-      "owl-time"
+      "vocab-owl-time-rel"
     ]
   },
   {
@@ -1771,8 +1771,8 @@
     "series": [
       "UAAG",
       "UAAG-Reference",
-      "UAAG-requirements",
-      "UAAG-TECHS"
+      "UAAG-TECHS",
+      "UAAG-requirements"
     ]
   },
   {
@@ -1812,46 +1812,46 @@
   {
     "name": "Voice Browsers",
     "series": [
+      "voice",
       "voicexml",
-      "vxmlreqs",
-      "voice"
+      "vxmlreqs"
     ]
   },
   {
     "name": "WAI-ARIA",
     "series": [
-      "html-aria",
-      "html-aam",
-      "wai-aria",
-      "core-aam",
-      "wai-aria-practices",
       "accname",
+      "core-aam",
+      "dpub-aam",
+      "dpub-aria",
       "graphics-aam",
       "graphics-aria",
-      "using-aria",
-      "svg-aam",
-      "dpub-aria",
-      "dpub-aam",
-      "wai-aria-implementation",
+      "html-aam",
+      "html-aria",
       "role-attribute",
+      "svg-aam",
+      "using-aria",
+      "wai-aria",
+      "wai-aria-implementation",
+      "wai-aria-practices",
       "wai-aria-roadmap"
     ]
   },
   {
     "name": "WCAG",
     "series": [
+      "UNDERSTANDING-WCAG",
       "WCAG",
+      "WCAG-CORE-TECHS",
+      "WCAG-EM",
+      "WCAG-TECHS",
       "accessibility-conformance-challenges",
       "coga-gap-analysis",
-      "UNDERSTANDING-WCAG",
-      "WCAG-TECHS",
-      "wcag-ext-req",
       "mobile-accessibility-mapping",
-      "WCAG-EM",
-      "wcag2ict",
       "wai-age-literature",
+      "wcag-ext-req",
       "wcag-requirements",
-      "WCAG-CORE-TECHS"
+      "wcag2ict"
     ]
   },
   {
@@ -1874,14 +1874,14 @@
     "series": [
       "sawsdl",
       "sawsdl-guide",
-      "wsdlelementidentifiers",
+      "wsdl",
+      "wsdl-additional-meps",
+      "wsdl-adjuncts",
+      "wsdl-altschemalangs",
       "wsdl-primer",
       "wsdl-rdf",
-      "wsdl",
       "wsdl-soap-binding",
-      "wsdl-adjuncts",
-      "wsdl-additional-meps",
-      "wsdl-altschemalangs"
+      "wsdlelementidentifiers"
     ]
   },
   {
@@ -1900,10 +1900,10 @@
     "name": "Web Annotations",
     "series": [
       "annotation-html",
-      "selectors-states",
       "annotation-model",
       "annotation-protocol",
-      "annotation-vocab"
+      "annotation-vocab",
+      "selectors-states"
     ]
   },
   {
@@ -1921,19 +1921,19 @@
   {
     "name": "Web Architecture",
     "series": [
+      "WCA",
+      "api-design",
+      "capability-urls",
+      "cooluris",
       "design-principles",
       "fingerprinting-guidance",
-      "capability-urls",
-      "urls-in-data",
-      "publishing-linking",
       "fragid-best-practices",
-      "api-design",
-      "cooluris",
-      "xmlschema-guide2versioning",
       "namespaceState",
-      "webarch",
+      "publishing-linking",
       "uri-clarification",
-      "WCA"
+      "urls-in-data",
+      "webarch",
+      "xmlschema-guide2versioning"
     ]
   },
   {
@@ -1965,8 +1965,8 @@
   {
     "name": "Web Payments",
     "series": [
-      "merchant-validation",
       "htr",
+      "merchant-validation",
       "payment-handler",
       "payment-method-id",
       "payment-method-manifest",
@@ -1976,54 +1976,54 @@
   {
     "name": "Web Publications",
     "series": [
+      "dpub-annotation-uc",
       "pub-manifest",
-      "pwp",
-      "dpub-annotation-uc"
+      "pwp"
     ]
   },
   {
     "name": "Web Security UI",
     "series": [
       "UISecurity",
+      "wsc-threats",
       "wsc-ui",
-      "wsc-usecases",
-      "wsc-threats"
+      "wsc-usecases"
     ]
   },
   {
     "name": "Web Services",
     "series": [
+      "ws-arch",
+      "ws-arch-scenarios",
       "ws-enumeration",
       "ws-event-descriptions",
-      "ws-soap-assertions",
-      "ws-metadata-exchange",
       "ws-eventing",
-      "ws-transfer",
       "ws-fragment",
+      "ws-gloss",
       "ws-i18n-req",
       "ws-i18n-scenarios",
-      "ws-arch-scenarios",
-      "wslc",
+      "ws-metadata-exchange",
+      "ws-soap-assertions",
+      "ws-transfer",
       "wsa-reqs",
-      "ws-gloss",
-      "ws-arch"
+      "wslc"
     ]
   },
   {
     "name": "Web Services Addressing",
     "series": [
-      "ws-addr-metadata",
       "ws-addr-core",
+      "ws-addr-metadata",
       "ws-addr-soap"
     ]
   },
   {
     "name": "Web Services Policy",
     "series": [
-      "ws-policy-guidelines",
-      "ws-policy-primer",
       "ws-policy",
-      "ws-policy-attach"
+      "ws-policy-attach",
+      "ws-policy-guidelines",
+      "ws-policy-primer"
     ]
   },
   {
@@ -2035,13 +2035,13 @@
   {
     "name": "Web of Things",
     "series": [
-      "wot-thing-description",
-      "wot-profile",
       "wot-architecture",
-      "wot-scripting-api",
-      "wot-discovery",
       "wot-binding-templates",
-      "wot-security"
+      "wot-discovery",
+      "wot-profile",
+      "wot-scripting-api",
+      "wot-security",
+      "wot-thing-description"
     ]
   },
   {
@@ -2083,11 +2083,11 @@
     "name": "WebRTC",
     "series": [
       "webrtc",
-      "webrtc-svc",
-      "webrtc-stats",
+      "webrtc-identity",
       "webrtc-nv-use-cases",
       "webrtc-priority",
-      "webrtc-identity"
+      "webrtc-stats",
+      "webrtc-svc"
     ]
   },
   {
@@ -2111,11 +2111,11 @@
   {
     "name": "WebXR",
     "series": [
-      "webxrlayers",
-      "webxr-hand-input",
       "webxr",
       "webxr-ar-module",
-      "webxr-gamepads-module"
+      "webxr-gamepads-module",
+      "webxr-hand-input",
+      "webxrlayers"
     ]
   },
   {
@@ -2127,9 +2127,9 @@
   {
     "name": "Widgets",
     "series": [
-      "widgets-uri",
+      "widgets-land",
       "widgets-reqs",
-      "widgets-land"
+      "widgets-uri"
     ]
   },
   {
@@ -2141,11 +2141,11 @@
   {
     "name": "XForms",
     "series": [
-      "xforms",
-      "xforms-xpath",
       "XForms-for-HTML",
+      "xforms",
+      "xforms-basic",
       "xforms-req",
-      "xforms-basic"
+      "xforms-xpath"
     ]
   },
   {
@@ -2160,29 +2160,29 @@
     "series": [
       "xlink",
       "xlink-ext",
-      "xml-link-style",
-      "xlink2rdf",
+      "xlink-principles",
       "xlink-req",
-      "xlink-principles"
+      "xlink2rdf",
+      "xml-link-style"
     ]
   },
   {
     "name": "XML",
     "series": [
-      "xml-entity-names",
-      "xml-model",
-      "xml-stylesheet",
-      "xml-names",
-      "xmlbase",
-      "xml",
+      "XML-FRAG-REQ",
       "leiri",
+      "schema-arch",
+      "sgml-xml",
+      "xml",
+      "xml-entity-names",
       "xml-id",
       "xml-infoset",
       "xml-infoset-rdfs",
-      "schema-arch",
       "xml-infoset-req",
-      "XML-FRAG-REQ",
-      "sgml-xml"
+      "xml-model",
+      "xml-names",
+      "xml-stylesheet",
+      "xmlbase"
     ]
   },
   {
@@ -2194,116 +2194,116 @@
   {
     "name": "XML Canonicalization",
     "series": [
-      "xml-c14n-testcases",
-      "xml-c14n",
       "C14N-issues",
-      "xml-exc-c14n",
-      "xml-canonical-req"
+      "xml-c14n",
+      "xml-c14n-testcases",
+      "xml-canonical-req",
+      "xml-exc-c14n"
     ]
   },
   {
     "name": "XML Encryption",
     "series": [
-      "xmlenc-transform",
-      "xmlsec-algorithms",
-      "xmlsec-generic-hybrid",
+      "xml-encryption-req",
       "xmlenc-core",
       "xmlenc-core-explain",
       "xmlenc-core-interop",
-      "xml-encryption-req"
+      "xmlenc-transform",
+      "xmlsec-algorithms",
+      "xmlsec-generic-hybrid"
     ]
   },
   {
     "name": "XML Schema",
     "series": [
-      "xmlschema",
-      "xsd-precisionDecimal",
-      "xsd-unicode-blocknames",
-      "xmlschema-ref",
-      "xmlschema-patterns-advanced",
-      "xmlschema-patterns",
       "swbp-xsch-datatypes",
-      "xml-schema-req"
+      "xml-schema-req",
+      "xmlschema",
+      "xmlschema-patterns",
+      "xmlschema-patterns-advanced",
+      "xmlschema-ref",
+      "xsd-precisionDecimal",
+      "xsd-unicode-blocknames"
     ]
   },
   {
     "name": "XML Signature",
     "series": [
-      "xmldsig-core",
-      "xmldsig-properties",
-      "xmldsig-bestpractices",
-      "xmlsec-rngschema",
-      "xmldsig-xpath",
-      "xmldsig-core-explain",
-      "xmlsec-reqs",
-      "xmldsig-core-interop",
-      "xmldsig-simplify",
-      "xmldsiged-tests",
       "DSig-usage",
-      "xkms-pgp",
-      "xkms-wsdl",
       "xkms",
       "xkms-bindings",
+      "xkms-pgp",
       "xkms-req",
+      "xkms-wsdl",
+      "xmldsig-bestpractices",
+      "xmldsig-core",
+      "xmldsig-core-explain",
+      "xmldsig-core-interop",
+      "xmldsig-filter",
+      "xmldsig-properties",
+      "xmldsig-simplify",
+      "xmldsig-xpath",
+      "xmldsiged-tests",
       "xmlenc-decrypt",
-      "xmldsig-filter"
+      "xmlsec-reqs",
+      "xmlsec-rngschema"
     ]
   },
   {
     "name": "XProc",
     "series": [
-      "xproc",
-      "xproc-steps",
+      "proc-model-req",
       "xml-proc-profiles",
+      "xproc",
       "xproc-req",
-      "xproc-template",
       "xproc-requirements",
-      "proc-model-req"
+      "xproc-steps",
+      "xproc-template"
     ]
   },
   {
     "name": "XSL",
     "series": [
+      "xsl",
       "xslfo",
-      "xslfo-req",
-      "xsl"
+      "xslfo-req"
     ]
   },
   {
     "name": "Xpointer",
     "series": [
-      "xptr-framework",
-      "xptr-xmlns",
       "xptr-element",
+      "xptr-framework",
       "xptr-infoset-liaison",
-      "xptr-req"
+      "xptr-req",
+      "xptr-xmlns"
     ]
   },
   {
     "name": "Xquery & XSLT",
     "series": [
+      "xpath",
+      "xpath-datamodel",
+      "xpath-full-text",
+      "xpath-full-text-requirements",
+      "xpath-full-text-requirements-use-cases",
+      "xpath-full-text-use-cases",
+      "xpath-functions",
+      "xquery",
+      "xquery-requirements",
+      "xquery-semantics",
+      "xquery-sx",
       "xquery-sx-requirements",
       "xquery-sx-use-cases",
-      "xslt",
-      "xquery",
-      "xpath",
-      "xslt-xquery-serialization",
-      "xpath-datamodel",
-      "xqueryx",
-      "xpath-functions",
       "xquery-update",
-      "xquery-update-requirements-use-cases",
-      "xquery-requirements",
-      "xpath-full-text-requirements-use-cases",
-      "xpath-full-text",
-      "xquery-sx",
-      "xquery-use-cases",
       "xquery-update-requirements",
-      "xpath-full-text-requirements",
-      "xpath-full-text-use-cases",
+      "xquery-update-requirements-use-cases",
       "xquery-update-use-cases",
-      "xquery-semantics",
-      "xslt-requirements"
+      "xquery-use-cases",
+      "xqueryx",
+      "xslt",
+      "xslt-requirements",
+      "xslt-xquery-serialization"
     ]
   }
 ]
