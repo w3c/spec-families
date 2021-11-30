@@ -1,2310 +1,2309 @@
 [
-    {
-        "name": "CSS Images",
-        "series": [
-            "css-images"
-        ]
-    },
-    {
-        "name": "Media Capture",
-        "series": [
-            "mediacapture-streams",
-            "mediacapture-fromelement",
-            "mst-content-hint",
-            "mediastream-recording",
-            "screen-capture",
-            "image-capture",
-            "mediacapture-depth",
-            "capture-scenarios",
-            "openscreenprotocol"
-        ]
-    },
-    {
-        "name": "DCAT",
-        "series": [
-            "vocab-dcat"
-        ]
-    },
-    {
-        "name": "Web Authentication",
-        "series": [
-            "webauthn"
-        ]
-    },
-    {
-        "name": "CSS Containment",
-        "series": [
-            "css-contain"
-        ]
-    },
-    {
-        "name": "WebRTC",
-        "series": [
-            "webrtc",
-            "webrtc-svc",
-            "webrtc-stats",
-            "webrtc-nv-use-cases",
-            "webrtc-priority",
-            "webrtc-identity"
-        ]
-    },
-    {
-        "name": "DID",
-        "series": [
-            "did-core",
-            "did-use-cases",
-            "did-spec-registries"
-        ]
-    },
-    {
-        "name": "WAI-ARIA",
-        "series": [
-            "html-aria",
-            "html-aam",
-            "wai-aria",
-            "core-aam",
-            "wai-aria-practices",
-            "accname",
-            "graphics-aam",
-            "graphics-aria",
-            "using-aria",
-            "svg-aam",
-            "dpub-aria",
-            "dpub-aam",
-            "wai-aria-implementation",
-            "role-attribute",
-            "wai-aria-roadmap"
-        ]
-    },
-    {
-        "name": "Accessibility User Requirements",
-        "series": [
-            "raur",
-            "xaur",
-            "low-vision-needs",
-            "media-accessibility-reqs",
-            "coga-user-research"
-        ]
-    },
-    {
-        "name": "CSS Custom Highlight API",
-        "series": [
-            "css-highlight-api"
-        ]
-    },
-    {
-        "name": "CSS Conditional Rules",
-        "series": [
-            "css-conditional"
-        ]
-    },
-    {
-        "name": "Web Payments",
-        "series": [
-            "merchant-validation",
-            "htr",
-            "payment-handler",
-            "payment-method-id",
-            "payment-method-manifest",
-            "webpayments-overview"
-        ]
-    },
-    {
-        "name": "Payment Request API",
-        "series": [
-            "payment-request"
-        ]
-    },
-    {
-        "name": "WebXR",
-        "series": [
-            "webxrlayers",
-            "webxr-hand-input",
-            "webxr",
-            "webxr-ar-module",
-            "webxr-gamepads-module"
-        ]
-    },
-    {
-        "name": "Audio Output Devices API",
-        "series": [
-            "audio-output"
-        ]
-    },
-    {
-        "name": "Intersection Observer",
-        "series": [
-            "intersection-observer"
-        ]
-    },
-    {
-        "name": "Web of Things",
-        "series": [
-            "wot-thing-description",
-            "wot-profile",
-            "wot-architecture",
-            "wot-scripting-api",
-            "wot-discovery",
-            "wot-binding-templates",
-            "wot-security"
-        ]
-    },
-    {
-        "name": "CSS Text",
-        "series": [
-            "css-text"
-        ]
-    },
-    {
-        "name": "TTML",
-        "series": [
-            "ttml-profile-registry",
-            "ttml-imsc",
-            "ttml",
-            "imsc-reqs",
-            "ttml-sdp-us",
-            "ttaf-req"
-        ]
-    },
-    {
-        "name": "CSS Lists and Counters",
-        "series": [
-            "css-lists"
-        ]
-    },
-    {
-        "name": "CSS Fonts",
-        "series": [
-            "css-fonts"
-        ]
-    },
-    {
-        "name": "CSS Color",
-        "series": [
-            "css-color"
-        ]
-    },
-    {
-        "name": "CSS Scroll Anchoring",
-        "series": [
-            "css-scroll-anchoring"
-        ]
-    },
-    {
-        "name": "CSS Values and Units",
-        "series": [
-            "css-values"
-        ]
-    },
-    {
-        "name": "Audiobooks",
-        "series": [
-            "audiobooks"
-        ]
-    },
-    {
-        "name": "Web Publications",
-        "series": [
-            "pub-manifest",
-            "pwp",
-            "dpub-annotation-uc"
-        ]
-    },
-    {
-        "name": "Web Architecture",
-        "series": [
-            "design-principles",
-            "fingerprinting-guidance",
-            "capability-urls",
-            "urls-in-data",
-            "publishing-linking",
-            "fragid-best-practices",
-            "api-design",
-            "cooluris",
-            "xmlschema-guide2versioning",
-            "namespaceState",
-            "webarch",
-            "uri-clarification",
-            "WCA"
-        ]
-    },
-    {
-        "name": "CSS Color Adjustment",
-        "series": [
-            "css-color-adjust"
-        ]
-    },
-    {
-        "name": "Presentation API",
-        "series": [
-            "presentation-api"
-        ]
-    },
-    {
-        "name": "JSON-LD",
-        "series": [
-            "json-ld",
-            "json-ld-api",
-            "json-ld-framing",
-            "json-ld-streaming"
-        ]
-    },
-    {
-        "name": "DOM",
-        "series": [
-            "dom",
-            "DOM-Parsing",
-            "DOM-Content-Models-and-Load-Save",
-            "DOM-Val"
-        ]
-    },
-    {
-        "name": "Text Layout Requirements",
-        "series": [
-            "clreq",
-            "jlreq",
-            "mlreq",
-            "tlreq",
-            "ilreq-taml",
-            "simple-ruby",
-            "ilreq",
-            "klreq",
-            "elreq",
-            "alreq",
-            "dpub-latinreq"
-        ]
-    },
-    {
-        "name": "Gamepad",
-        "series": [
-            "gamepad"
-        ]
-    },
-    {
-        "name": "Clipboard API and events",
-        "series": [
-            "clipboard-apis"
-        ]
-    },
-    {
-        "name": "Personalization semantics",
-        "series": [
-            "personalization-semantics-requirements",
-            "personalization-semantics",
-            "personalization-semantics-content",
-            "personalization-semantics-help",
-            "personalization-semantics-tools"
-        ]
-    },
-    {
-        "name": "CSS Box Model",
-        "series": [
-            "css-box"
-        ]
-    },
-    {
-        "name": "CSS Box Sizing",
-        "series": [
-            "css-sizing"
-        ]
-    },
-    {
-        "name": "CSS Grid Layout",
-        "series": [
-            "css-grid"
-        ]
-    },
-    {
-        "name": "Distributed Tracing",
-        "series": [
-            "baggage",
-            "trace-context",
-            "trace-context-protocols-registry"
-        ]
-    },
-    {
-        "name": "Web Share API",
-        "series": [
-            "web-share"
-        ]
-    },
-    {
-        "name": "Web App Manifest",
-        "series": [
-            "manifest-app-info"
-        ]
-    },
-    {
-        "name": "The Screen Orientation API",
-        "series": [
-            "screen-orientation"
-        ]
-    },
-    {
-        "name": "WOFF",
-        "series": [
-            "PFE-evaluation",
-            "WOFF",
-            "WOFFER"
-        ]
-    },
-    {
-        "name": "CSS Properties and Values API",
-        "series": [
-            "css-properties-values-api"
-        ]
-    },
-    {
-        "name": "Language Tags and Locale Identifiers for the World Wide Web",
-        "series": [
-            "ltli"
-        ]
-    },
-    {
-        "name": "Resource Hints",
-        "series": [
-            "resource-hints"
-        ]
-    },
-    {
-        "name": "TBD",
-        "series": [
-            "pointerevents",
-            "COWL",
-            "audioproc",
-            "poi-core",
-            "coga-usable",
-            "webcodecs-codec-registry",
-            "ATAG-wombat",
-            "css-roadmap",
-            "font",
-            "css-border",
-            "css-linebox",
-            "swbp-skos-core-guide",
-            "swbp-skos-core-spec",
-            "rdfa-syntax",
-            "web-forms",
-            "Window",
-            "css-2d-transforms",
-            "SVGCompositing",
-            "css-3d-transforms",
-            "epub-multi-rend",
-            "webgpu",
-            "WGSL",
-            "spoken-html",
-            "wot-usecases",
-            "audio-eq-cookbook",
-            "webnn",
-            "epub-a11y-eaa-mapping",
-            "did-cbor-representation",
-            "i18n-glossary",
-            "viss-core",
-            "viss-transport",
-            "epub-tts",
-            "mathml-core",
-            "localizable-manifests",
-            "virtual-keyboard",
-            "did-rubric",
-            "did-imp-guide",
-            "css-nesting",
-            "webxr-depth-sensing",
-            "webxr-hit-test",
-            "webxr-dom-overlays",
-            "secure-payment-confirmation",
-            "IFT",
-            "webxr-lighting-estimation",
-            "webrtc-encoded-transform",
-            "saur",
-            "naur",
-            "remote-meetings",
-            "epub-ssv",
-            "imsc-hrm"
-        ]
-    },
-    {
-        "name": "Web Annotations",
-        "series": [
-            "annotation-html",
-            "selectors-states",
-            "annotation-model",
-            "annotation-protocol",
-            "annotation-vocab"
-        ]
-    },
-    {
-        "name": "Performance instrumentation",
-        "series": [
-            "hr-time",
-            "navigation-timing",
-            "resource-timing",
-            "user-timing",
-            "server-timing",
-            "performance-timeline",
-            "timing-entrytypes-registry",
-            "reporting",
-            "paint-timing"
-        ]
-    },
-    {
-        "name": "Screen Wake Lock API",
-        "series": [
-            "screen-wake-lock"
-        ]
-    },
-    {
-        "name": "CSS Inline Layout",
-        "series": [
-            "css-inline"
-        ]
-    },
-    {
-        "name": "WebDriver",
-        "series": [
-            "webdriver"
-        ]
-    },
-    {
-        "name": "Selection API",
-        "series": [
-            "selection-api"
-        ]
-    },
-    {
-        "name": "CSS Cascading and Inheritance",
-        "series": [
-            "css-cascade"
-        ]
-    },
-    {
-        "name": "WCAG",
-        "series": [
-            "WCAG",
-            "accessibility-conformance-challenges",
-            "coga-gap-analysis",
-            "UNDERSTANDING-WCAG",
-            "WCAG-TECHS",
-            "wcag-ext-req",
-            "mobile-accessibility-mapping",
-            "WCAG-EM",
-            "wcag2ict",
-            "wai-age-literature",
-            "wcag-requirements",
-            "WCAG-CORE-TECHS"
-        ]
-    },
-    {
-        "name": "Media Queries",
-        "series": [
-            "mediaqueries"
-        ]
-    },
-    {
-        "name": "Permissions",
-        "series": [
-            "permissions"
-        ]
-    },
-    {
-        "name": "Permissions Policy",
-        "series": [
-            "permissions-policy"
-        ]
-    },
-    {
-        "name": "Language Gap Analysis",
-        "series": [
-            "grek-gap",
-            "latn-hu-gap",
-            "latn-nl-gap",
-            "cans-iu-cr-gap",
-            "cher-gap",
-            "geor-gap",
-            "khmr-gap",
-            "gujr-gap",
-            "java-gap",
-            "taml-gap",
-            "thai-gap",
-            "jpan-gap",
-            "clreq-gap",
-            "mong-gap",
-            "beng-gap",
-            "tibt-gap",
-            "deva-gap",
-            "laoo-gap",
-            "guru-gap",
-            "elreq-gap",
-            "typography",
-            "nkoo-gap",
-            "adlm-gap",
-            "alreq-gap",
-            "osge-osa-gap",
-            "hebr-gap",
-            "latn-de-gap",
-            "latn-fr-gap"
-        ]
-    },
-    {
-        "name": "Time Ontology",
-        "series": [
-            "vocab-owl-time-rel",
-            "vocab-owl-time-agg",
-            "owl-time"
-        ]
-    },
-    {
-        "name": "Media Timed Events",
-        "series": [
-            "media-timed-events"
-        ]
-    },
-    {
-        "name": "HTML",
-        "series": [
-            "html",
-            "html-media-capture",
-            "html-imports",
-            "html-bidi",
-            "html-longdesc",
-            "microdata-rdf",
-            "html-diff",
-            "html-templates",
-            "html-ruby-extensions",
-            "respimg-usecases",
-            "ruby-use-cases",
-            "html-author",
-            "html-main-element",
-            "html-markup",
-            "html-data-guide",
-            "html-xml-tf-report",
-            "xhtml-media-types",
-            "offline-webapps",
-            "html-design-principles",
-            "xbl-primer",
-            "backplane",
-            "xml-events",
-            "xhtml-schema",
-            "XHTMLplusSMIL",
-            "CX",
-            "ruby",
-            "html-mobile",
-            "xh",
-            "imagemap",
-            "S6Group2"
-        ]
-    },
-    {
-        "name": "Web Audio API",
-        "series": [
-            "webaudio",
-            "webaudio-usecases"
-        ]
-    },
-    {
-        "name": "CSS Overflow",
-        "series": [
-            "css-overflow"
-        ]
-    },
-    {
-        "name": "Internationalization Best Practices for Spec Developers",
-        "series": [
-            "international-specs"
-        ]
-    },
-    {
-        "name": "Image Resource",
-        "series": [
-            "image-resource"
-        ]
-    },
-    {
-        "name": "CSS Positioned Layout",
-        "series": [
-            "css-position"
-        ]
-    },
-    {
-        "name": "CSS Display",
-        "series": [
-            "css-display"
-        ]
-    },
-    {
-        "name": "Self-Review Questionnaire: Security and Privacy",
-        "series": [
-            "security-privacy-questionnaire"
-        ]
-    },
-    {
-        "name": "CSS Text Decoration",
-        "series": [
-            "css-text-decor"
-        ]
-    },
-    {
-        "name": "CSS Box Alignment",
-        "series": [
-            "css-align"
-        ]
-    },
-    {
-        "name": "Lightweight Packaging Format (LPF)",
-        "series": [
-            "lpf"
-        ]
-    },
-    {
-        "name": "Pronunciation",
-        "series": [
-            "pronunciation-explainer",
-            "pronunciation-gap-analysis-and-use-cases",
-            "pronunciation-user-scenarios"
-        ]
-    },
-    {
-        "name": "CSS Speech",
-        "series": [
-            "css-speech"
-        ]
-    },
-    {
-        "name": "CSS Transforms",
-        "series": [
-            "css-transforms"
-        ]
-    },
-    {
-        "name": "Resize Observer",
-        "series": [
-            "resize-observer"
-        ]
-    },
-    {
-        "name": "Push API",
-        "series": [
-            "push-api"
-        ]
-    },
-    {
-        "name": "Picture-in-Picture",
-        "series": [
-            "picture-in-picture"
-        ]
-    },
-    {
-        "name": "Media Session Standard",
-        "series": [
-            "mediasession"
-        ]
-    },
-    {
-        "name": "Media Capabilities",
-        "series": [
-            "media-capabilities"
-        ]
-    },
-    {
-        "name": "CSS Basic User Interface",
-        "series": [
-            "css-ui"
-        ]
-    },
-    {
-        "name": "Semantic Sensor Network",
-        "series": [
-            "vocab-ssn-ext",
-            "vocab-ssn"
-        ]
-    },
-    {
-        "name": "Fetch Metadata Request Headers",
-        "series": [
-            "fetch-metadata"
-        ]
-    },
-    {
-        "name": "Dataset exchange",
-        "series": [
-            "dx-prof",
-            "dx-prof-conneg",
-            "dcat-ucr",
-            "vocab-adms",
-            "void"
-        ]
-    },
-    {
-        "name": "Sensor API",
-        "series": [
-            "orientation-sensor",
-            "generic-sensor",
-            "gyroscope",
-            "accelerometer",
-            "magnetometer",
-            "ambient-light",
-            "proximity",
-            "geolocation-sensor",
-            "motion-sensors"
-        ]
-    },
-    {
-        "name": "CSS Writing Modes",
-        "series": [
-            "css-writing-modes"
-        ]
-    },
-    {
-        "name": "Inaccessibility of CAPTCHA",
-        "series": [
-            "turingtest"
-        ]
-    },
-    {
-        "name": "WebCGM",
-        "series": [
-            "WebCGM",
-            "cgm"
-        ]
-    },
-    {
-        "name": "WebAssembly",
-        "series": [
-            "wasm-core",
-            "wasm-js-api",
-            "wasm-web-api"
-        ]
-    },
-    {
-        "name": "CSS Spatial Navigation",
-        "series": [
-            "css-nav"
-        ]
-    },
-    {
-        "name": "Verifiable Credentials",
-        "series": [
-            "vc-data-model",
-            "vc-imp-guide",
-            "vc-use-cases"
-        ]
-    },
-    {
-        "name": "Service Workers",
-        "series": [
-            "service-workers"
-        ]
-    },
-    {
-        "name": "Accessibility Conformance Testing",
-        "series": [
-            "act-rules-format",
-            "act-rules-aspects"
-        ]
-    },
-    {
-        "name": "CSS Multi-column Layout",
-        "series": [
-            "css-multicol"
-        ]
-    },
-    {
-        "name": "MiniApp",
-        "series": [
-            "mini-app-white-paper",
-            "miniapp-lifecycle",
-            "miniapp-packaging",
-            "miniapp-manifest"
-        ]
-    },
-    {
-        "name": "File API",
-        "series": [
-            "FileAPI"
-        ]
-    },
-    {
-        "name": "Pointer Lock",
-        "series": [
-            "pointerlock"
-        ]
-    },
-    {
-        "name": "CSS Generated Content",
-        "series": [
-            "css-content"
-        ]
-    },
-    {
-        "name": "CSS Table",
-        "series": [
-            "css-tables"
-        ]
-    },
-    {
-        "name": "CSS Syntax",
-        "series": [
-            "css-syntax"
-        ]
-    },
-    {
-        "name": "Preload",
-        "series": [
-            "preload"
-        ]
-    },
-    {
-        "name": "CSS Animation Worklet API",
-        "series": [
-            "css-animation-worklet"
-        ]
-    },
-    {
-        "name": "Strings on the Web: Language and Direction Metadata",
-        "series": [
-            "string-meta"
-        ]
-    },
-    {
-        "name": "CSS Overscroll Behavior",
-        "series": [
-            "css-overscroll"
-        ]
-    },
-    {
-        "name": "UI Events",
-        "series": [
-            "uievents",
-            "uievents-code",
-            "uievents-key"
-        ]
-    },
-    {
-        "name": "Input Events",
-        "series": [
-            "input-events"
-        ]
-    },
-    {
-        "name": "Character Model for the World Wide Web",
-        "series": [
-            "charmod-norm",
-            "charreq",
-            "charmod"
-        ]
-    },
-    {
-        "name": "CSS Easing Functions",
-        "series": [
-            "css-easing"
-        ]
-    },
-    {
-        "name": "DeviceOrientation Event",
-        "series": [
-            "orientation-event"
-        ]
-    },
-    {
-        "name": "WebVTT",
-        "series": [
-            "webvtt"
-        ]
-    },
-    {
-        "name": "CSS Scroll Snap",
-        "series": [
-            "css-scroll-snap"
-        ]
-    },
-    {
-        "name": "CSS Pseudo-Elements",
-        "series": [
-            "css-pseudo"
-        ]
-    },
-    {
-        "name": "Credential Management",
-        "series": [
-            "credential-management"
-        ]
-    },
-    {
-        "name": "CSS Fragmentation",
-        "series": [
-            "css-break"
-        ]
-    },
-    {
-        "name": "Motion Path",
-        "series": [
-            "motion"
-        ]
-    },
-    {
-        "name": "Filter Effects",
-        "series": [
-            "filter-effects"
-        ]
-    },
-    {
-        "name": "Geometry Interfaces",
-        "series": [
-            "geometry"
-        ]
-    },
-    {
-        "name": "Selectors",
-        "series": [
-            "selectors"
-        ]
-    },
-    {
-        "name": "CSS Flexible Box Layout",
-        "series": [
-            "css-flexbox"
-        ]
-    },
-    {
-        "name": "CSS Shadow Parts",
-        "series": [
-            "css-shadow-parts"
-        ]
-    },
-    {
-        "name": "CSS Paged Media",
-        "series": [
-            "css-page"
-        ]
-    },
-    {
-        "name": "CSP",
-        "series": [
-            "CSP",
-            "csp-embedded-enforcement"
-        ]
-    },
-    {
-        "name": "CSS Transitions",
-        "series": [
-            "css-transitions"
-        ]
-    },
-    {
-        "name": "CSS Animations",
-        "series": [
-            "css-animations"
-        ]
-    },
-    {
-        "name": "Web Animations",
-        "series": [
-            "web-animations"
-        ]
-    },
-    {
-        "name": "SVG",
-        "series": [
-            "SVG",
-            "svg-paths",
-            "svg-markers",
-            "svg-strokes",
-            "svg-integration",
-            "SVGColor",
-            "SVGColorPrimer",
-            "SVGParam",
-            "SVGParamPrimer",
-            "SVG-Transforms",
-            "SVGTiny",
-            "SVGFilter",
-            "SVGFilterPrimer",
-            "rex-reqs",
-            "SVGReqs"
-        ]
-    },
-    {
-        "name": "Reporting",
-        "series": [
-            "network-error-logging"
-        ]
-    },
-    {
-        "name": "CSS Scrollbars",
-        "series": [
-            "css-scrollbars"
-        ]
-    },
-    {
-        "name": "Device Memory",
-        "series": [
-            "device-memory"
-        ]
-    },
-    {
-        "name": "P3P",
-        "series": [
-            "xmldsig-p3p-profile"
-        ]
-    },
-    {
-        "name": "CSS Logical Properties and Values",
-        "series": [
-            "css-logical"
-        ]
-    },
-    {
-        "name": "CSS Painting API",
-        "series": [
-            "css-paint-api"
-        ]
-    },
-    {
-        "name": "EXI",
-        "series": [
-            "exi-for-json",
-            "exi-c14n",
-            "exi-profile",
-            "exi-primer",
-            "exi",
-            "exi-evaluation",
-            "exi-impacts",
-            "exi-best-practices",
-            "exi-measurements",
-            "xbc-characterization",
-            "xbc-measurement",
-            "xbc-properties",
-            "xbc-use-cases"
-        ]
-    },
-    {
-        "name": "CSS Layout API",
-        "series": [
-            "css-layout-api"
-        ]
-    },
-    {
-        "name": "CSSOM",
-        "series": [
-            "css-typed-om",
-            "cssom",
-            "cssom-view"
-        ]
-    },
-    {
-        "name": "ODRL",
-        "series": [
-            "odrl-model",
-            "odrl-vocab"
-        ]
-    },
-    {
-        "name": "Vehicle Information Service Specification",
-        "series": [
-            "vehicle-information-service"
-        ]
-    },
-    {
-        "name": "Indexed Database API",
-        "series": [
-            "IndexedDB"
-        ]
-    },
-    {
-        "name": "IndieAuth",
-        "series": [
-            "indieauth"
-        ]
-    },
-    {
-        "name": "ActivityPub",
-        "series": [
-            "activitypub"
-        ]
-    },
-    {
-        "name": "WebSub",
-        "series": [
-            "websub"
-        ]
-    },
-    {
-        "name": "Social Web",
-        "series": [
-            "post-type-discovery",
-            "jf2",
-            "social-web-protocols"
-        ]
-    },
-    {
-        "name": "CSS Counter Styles",
-        "series": [
-            "css-counter-styles"
-        ]
-    },
-    {
-        "name": "Clear Site Data",
-        "series": [
-            "clear-site-data"
-        ]
-    },
-    {
-        "name": "Remote Playback API",
-        "series": [
-            "remote-playback"
-        ]
-    },
-    {
-        "name": "Page Visibility",
-        "series": [
-            "page-visibility"
-        ]
-    },
-    {
-        "name": "CSS Backgrounds and Borders",
-        "series": [
-            "css-backgrounds"
-        ]
-    },
-    {
-        "name": "Cooperative Scheduling of Background Tasks",
-        "series": [
-            "requestidlecallback"
-        ]
-    },
-    {
-        "name": "Geospatial data",
-        "series": [
-            "eo-qb",
-            "sdw-bp",
-            "qb4st",
-            "covjson-overview",
-            "sdw-ucr"
-        ]
-    },
-    {
-        "name": "EME",
-        "series": [
-            "encrypted-media",
-            "eme-stream-mp4",
-            "eme-stream-registry",
-            "eme-initdata-cenc",
-            "eme-initdata-keyids",
-            "eme-initdata-registry"
-        ]
-    },
-    {
-        "name": "PNG",
-        "series": [
-            "png-hdr-pq",
-            "PNG"
-        ]
-    },
-    {
-        "name": "Long Tasks API",
-        "series": [
-            "longtasks"
-        ]
-    },
-    {
-        "name": "SHACL",
-        "series": [
-            "shacl-ucr",
-            "shacl",
-            "shacl-af",
-            "shacl-js"
-        ]
-    },
-    {
-        "name": "Geolocation API",
-        "series": [
-            "geolocation"
-        ]
-    },
-    {
-        "name": "Xquery & XSLT",
-        "series": [
-            "xquery-sx-requirements",
-            "xquery-sx-use-cases",
-            "xslt",
-            "xquery",
-            "xpath",
-            "xslt-xquery-serialization",
-            "xpath-datamodel",
-            "xqueryx",
-            "xpath-functions",
-            "xquery-update",
-            "xquery-update-requirements-use-cases",
-            "xquery-requirements",
-            "xpath-full-text-requirements-use-cases",
-            "xpath-full-text",
-            "xquery-sx",
-            "xquery-use-cases",
-            "xquery-update-requirements",
-            "xpath-full-text-requirements",
-            "xpath-full-text-use-cases",
-            "xquery-update-use-cases",
-            "xquery-semantics",
-            "xslt-requirements"
-        ]
-    },
-    {
-        "name": "Cloud Browser Architecture",
-        "series": [
-            "cloud-browser-arch"
-        ]
-    },
-    {
-        "name": "Activity Streams",
-        "series": [
-            "activitystreams-core",
-            "activitystreams-vocabulary"
-        ]
-    },
-    {
-        "name": "Micropub",
-        "series": [
-            "micropub"
-        ]
-    },
-    {
-        "name": "Linked Data Platform",
-        "series": [
-            "ldn",
-            "ldpatch",
-            "ldp-paging",
-            "ldp-primer",
-            "ldp",
-            "ldp-acr",
-            "ldp-bp",
-            "ldp-ucr"
-        ]
-    },
-    {
-        "name": "Beacon",
-        "series": [
-            "beacon"
-        ]
-    },
-    {
-        "name": "CSS Fill and Stroke",
-        "series": [
-            "fill-stroke"
-        ]
-    },
-    {
-        "name": "CSS Rhythmic Sizing",
-        "series": [
-            "css-rhythm"
-        ]
-    },
-    {
-        "name": "ITS",
-        "series": [
-            "its"
-        ]
-    },
-    {
-        "name": "POE",
-        "series": [
-            "poe-ucr"
-        ]
-    },
-    {
-        "name": "Internationalization for HTML",
-        "series": [
-            "predefined-counter-styles",
-            "i18n-html-tech-lang",
-            "i18n-html-tech-bidi"
-        ]
-    },
-    {
-        "name": "EARL",
-        "series": [
-            "Content-in-RDF",
-            "HTTP-in-RDF",
-            "WAET",
-            "EARL-Guide",
-            "Pointers-in-RDF",
-            "EARL-Requirements",
-            "EARL-Schema",
-            "accessibility-metrics-report"
-        ]
-    },
-    {
-        "name": "EMMA",
-        "series": [
-            "emma",
-            "emma-usecases",
-            "EMMAreqs"
-        ]
-    },
-    {
-        "name": "Data on the Web Best Practices",
-        "series": [
-            "dwbp",
-            "vocab-dqv",
-            "vocab-duv",
-            "dwbp-ucr"
-        ]
-    },
-    {
-        "name": "Web Crypto",
-        "series": [
-            "WebCryptoAPI",
-            "webcrypto-usecases"
-        ]
-    },
-    {
-        "name": "Referrer Policy",
-        "series": [
-            "referrer-policy"
-        ]
-    },
-    {
-        "name": "Webmention",
-        "series": [
-            "webmention"
-        ]
-    },
-    {
-        "name": "CSS Round Display",
-        "series": [
-            "css-round-display"
-        ]
-    },
-    {
-        "name": "WebIDL",
-        "series": [
-            "WebIDL",
-            "WebIDL-Java"
-        ]
-    },
-    {
-        "name": "MSE",
-        "series": [
-            "media-source",
-            "mse-byte-stream-format-isobmff",
-            "mse-byte-stream-format-mp2t",
-            "mse-byte-stream-format-mpeg-audio",
-            "mse-byte-stream-format-registry",
-            "mse-byte-stream-format-webm",
-            "eme-initdata-webm",
-            "eme-stream-webm"
-        ]
-    },
-    {
-        "name": "Vibration API",
-        "series": [
-            "vibration"
-        ]
-    },
-    {
-        "name": "Secure Contexts",
-        "series": [
-            "secure-contexts"
-        ]
-    },
-    {
-        "name": "Mixed Content",
-        "series": [
-            "mixed-content"
-        ]
-    },
-    {
-        "name": "XInclude",
-        "series": [
-            "xinclude",
-            "xinclude-requirements"
-        ]
-    },
-    {
-        "name": "XProc",
-        "series": [
-            "xproc",
-            "xproc-steps",
-            "xml-proc-profiles",
-            "xproc-req",
-            "xproc-template",
-            "xproc-requirements",
-            "proc-model-req"
-        ]
-    },
-    {
-        "name": "Battery Status API",
-        "series": [
-            "battery-status"
-        ]
-    },
-    {
-        "name": "Subresource Integrity",
-        "series": [
-            "SRI"
-        ]
-    },
-    {
-        "name": "Web Security UI",
-        "series": [
-            "UISecurity",
-            "wsc-ui",
-            "wsc-usecases",
-            "wsc-threats"
-        ]
-    },
-    {
-        "name": "Digital Publishing",
-        "series": [
-            "dpub-accessibility",
-            "dpub-css-priorities",
-            "dpub-metadata"
-        ]
-    },
-    {
-        "name": "CSS Device Adaptation",
-        "series": [
-            "css-device-adapt"
-        ]
-    },
-    {
-        "name": "Tabular Data",
-        "series": [
-            "csvw-html",
-            "tabular-data-primer",
-            "csvw-ucr",
-            "csv2json",
-            "csv2rdf",
-            "tabular-data-model",
-            "tabular-metadata"
-        ]
-    },
-    {
-        "name": "UAAG",
-        "series": [
-            "UAAG",
-            "UAAG-Reference",
-            "UAAG-requirements",
-            "UAAG-TECHS"
-        ]
-    },
-    {
-        "name": "CSS Custom Properties for Cascading Variables",
-        "series": [
-            "css-variables"
-        ]
-    },
-    {
-        "name": "CSS Will Change",
-        "series": [
-            "css-will-change"
-        ]
-    },
-    {
-        "name": "Upgrade Insecure Requests",
-        "series": [
-            "upgrade-insecure-requests"
-        ]
-    },
-    {
-        "name": "ATAG",
-        "series": [
-            "ATAG",
-            "IMPLEMENTING-ATAG"
-        ]
-    },
-    {
-        "name": "CSS Page Floats",
-        "series": [
-            "css-page-floats"
-        ]
-    },
-    {
-        "name": "SCXML",
-        "series": [
-            "scxml",
-            "scxml-dom-iop",
-            "scxml-xpath-dm"
-        ]
-    },
-    {
-        "name": "XML Signature",
-        "series": [
-            "xmldsig-core",
-            "xmldsig-properties",
-            "xmldsig-bestpractices",
-            "xmlsec-rngschema",
-            "xmldsig-xpath",
-            "xmldsig-core-explain",
-            "xmlsec-reqs",
-            "xmldsig-core-interop",
-            "xmldsig-simplify",
-            "xmldsiged-tests",
-            "DSig-usage",
-            "xkms-pgp",
-            "xkms-wsdl",
-            "xkms",
-            "xkms-bindings",
-            "xkms-req",
-            "xmlenc-decrypt",
-            "xmldsig-filter"
-        ]
-    },
-    {
-        "name": "HCLS",
-        "series": [
-            "hcls-dataset",
-            "hcls-orb",
-            "hcls-sioc",
-            "hcls-swan",
-            "hcls-swansioc",
-            "hcls-kb",
-            "hcls-senselab"
-        ]
-    },
-    {
-        "name": "IndieUI",
-        "series": [
-            "indie-ui-context",
-            "indie-ui-events",
-            "indie-ui-requirements"
-        ]
-    },
-    {
-        "name": "CSS Template Layout",
-        "series": [
-            "css-template"
-        ]
-    },
-    {
-        "name": "RDFa",
-        "series": [
-            "rdfa-core",
-            "html-rdfa",
-            "xhtml-rdfa",
-            "rdfa-lite",
-            "rdfa-primer"
-        ]
-    },
-    {
-        "name": "Web MIDI API",
-        "series": [
-            "webmidi"
-        ]
-    },
-    {
-        "name": "CSS Exclusions",
-        "series": [
-            "css-exclusions"
-        ]
-    },
-    {
-        "name": "Compositing and Blending",
-        "series": [
-            "compositing"
-        ]
-    },
-    {
-        "name": "CSS Regions",
-        "series": [
-            "css-regions"
-        ]
-    },
-    {
-        "name": "CSS Line Grid",
-        "series": [
-            "css-line-grid"
-        ]
-    },
-    {
-        "name": "CSS Masking",
-        "series": [
-            "css-masking"
-        ]
-    },
-    {
-        "name": "Wake lock",
-        "series": [
-            "wake-lock-use-cases"
-        ]
-    },
-    {
-        "name": "RDF",
-        "series": [
-            "rdf-primer",
-            "rdf-mt",
-            "rdf-datasets",
-            "n-triples",
-            "rdf-concepts",
-            "rdf-new",
-            "rdf-syntax-grammar",
-            "rdf-schema",
-            "rdf-testcases",
-            "turtle",
-            "trig",
-            "n-quads",
-            "rdf-json",
-            "ld-glossary",
-            "rdf-plain-literal",
-            "swbp-vocab-pub",
-            "swbp-n-aryRelations",
-            "sw-oosd-primer",
-            "rdftm-survey",
-            "swbp-classes-as-values",
-            "rdf-uml"
-        ]
-    },
-    {
-        "name": "CSS Font Loading",
-        "series": [
-            "css-font-loading"
-        ]
-    },
-    {
-        "name": "EmotionML",
-        "series": [
-            "emotionml",
-            "emotion-voc"
-        ]
-    },
-    {
-        "name": "RDF Vocabulary",
-        "series": [
-            "vcard-rdf",
-            "vocab-data-cube",
-            "vocab-org",
-            "vocab-regorg",
-            "vocab-data-cube-use-cases",
-            "vocab-people",
-            "rdfcal"
-        ]
-    },
-    {
-        "name": "CSS Generated Content for Paged Media",
-        "series": [
-            "css-gcpm"
-        ]
-    },
-    {
-        "name": "MathML",
-        "series": [
-            "MathML",
-            "mathml-for-css",
-            "arabic-math",
-            "mathml-bvar",
-            "mathml-types",
-            "mathml-units"
-        ]
-    },
-    {
-        "name": "XML",
-        "series": [
-            "xml-entity-names",
-            "xml-model",
-            "xml-stylesheet",
-            "xml-names",
-            "xmlbase",
-            "xml",
-            "leiri",
-            "xml-id",
-            "xml-infoset",
-            "xml-infoset-rdfs",
-            "schema-arch",
-            "xml-infoset-req",
-            "XML-FRAG-REQ",
-            "sgml-xml"
-        ]
-    },
-    {
-        "name": "MBUI",
-        "series": [
-            "mbui-glossary",
-            "mbui-intro"
-        ]
-    },
-    {
-        "name": "CSS Scoping",
-        "series": [
-            "css-scoping"
-        ]
-    },
-    {
-        "name": "Device API",
-        "series": [
-            "netinfo-usecases",
-            "hnreq",
-            "dap-policy-reqs",
-            "dap-privacy-reqs",
-            "dap-api-reqs"
-        ]
-    },
-    {
-        "name": "CSS Shapes",
-        "series": [
-            "css-shapes"
-        ]
-    },
-    {
-        "name": "CSS Namespaces",
-        "series": [
-            "css-namespaces"
-        ]
-    },
-    {
-        "name": "Media Resources",
-        "series": [
-            "mediaont-api",
-            "mediaont",
-            "media-annot-reqs"
-        ]
-    },
-    {
-        "name": "Best Practices for Publishing Linked Data",
-        "series": [
-            "ld-bp"
-        ]
-    },
-    {
-        "name": "CSS Style Attributes",
-        "series": [
-            "css-style-attr"
-        ]
-    },
-    {
-        "name": "Touch Events",
-        "series": [
-            "touch-events"
-        ]
-    },
-    {
-        "name": "XML Canonicalization",
-        "series": [
-            "xml-c14n-testcases",
-            "xml-c14n",
-            "C14N-issues",
-            "xml-exc-c14n",
-            "xml-canonical-req"
-        ]
-    },
-    {
-        "name": "Widgets",
-        "series": [
-            "widgets-uri",
-            "widgets-reqs",
-            "widgets-land"
-        ]
-    },
-    {
-        "name": "PROV",
-        "series": [
-            "prov-primer",
-            "prov-dm",
-            "prov-sem",
-            "prov-implementations",
-            "prov-xml",
-            "prov-links",
-            "prov-aq",
-            "prov-n",
-            "prov-constraints",
-            "prov-o",
-            "prov-dc",
-            "prov-overview",
-            "prov-dictionary"
-        ]
-    },
-    {
-        "name": "XML Encryption",
-        "series": [
-            "xmlenc-transform",
-            "xmlsec-algorithms",
-            "xmlsec-generic-hybrid",
-            "xmlenc-core",
-            "xmlenc-core-explain",
-            "xmlenc-core-interop",
-            "xml-encryption-req"
-        ]
-    },
-    {
-        "name": "SPARQL",
-        "series": [
-            "rdf-sparql-XMLres",
-            "sparql-protocol",
-            "sparql-query",
-            "sparql-entailment",
-            "sparql-results-csv-tsv",
-            "sparql-federated-query",
-            "sparql-results-json",
-            "sparql-http-rdf-update",
-            "sparql-service-description",
-            "sparql-overview",
-            "sparql-update",
-            "sparql-property-paths",
-            "sparql-features",
-            "rdf-sparql-protocol",
-            "rdf-sparql-query",
-            "rdf-sparql-json-res"
-        ]
-    },
-    {
-        "name": "RIF",
-        "series": [
-            "rif-in-rdf",
-            "rif-ucr",
-            "rif-overview",
-            "rif-xml-data",
-            "rif-bld",
-            "rif-prd",
-            "rif-core",
-            "rif-primer",
-            "rif-dtb",
-            "rif-rdf-owl",
-            "rif-fld",
-            "rif-test"
-        ]
-    },
-    {
-        "name": "OWL",
-        "series": [
-            "rif-owl-rl",
-            "owl-overview",
-            "owl-primer",
-            "owl-direct-semantics",
-            "owl-profiles",
-            "owl-syntax",
-            "owl-conformance",
-            "owl-quick-reference",
-            "owl-dr-linear",
-            "owl-rdf-based-semantics",
-            "owl-manchester-syntax",
-            "owl-xml-serialization",
-            "owl-new-features",
-            "owl-mapping-to-rdf",
-            "owl-ref",
-            "owl-features",
-            "webont-req",
-            "owl-guide",
-            "owl-parsing",
-            "owl-xmlsyntax",
-            "swbp-specified-values"
-        ]
-    },
-    {
-        "name": "MMI",
-        "series": [
-            "mmi-arch",
-            "mmi-discovery",
-            "mmi-interop",
-            "mmi-mcbp",
-            "mmi-auth",
-            "mmi-suggestions",
-            "mmi-dev-feedback",
-            "modality-interface",
-            "mmi-framework",
-            "mmi-reqs",
-            "mmi-use-cases"
-        ]
-    },
-    {
-        "name": "RDB2RDF",
-        "series": [
-            "rdb-direct-mapping",
-            "r2rml",
-            "rdb2rdf-implementations",
-            "rdb2rdf-test-cases",
-            "rdb2rdf-ucr"
-        ]
-    },
-    {
-        "name": "Media Fragments",
-        "series": [
-            "media-frags",
-            "media-frags-recipes",
-            "media-frags-reqs"
-        ]
-    },
-    {
-        "name": "XForms",
-        "series": [
-            "xforms",
-            "xforms-xpath",
-            "XForms-for-HTML",
-            "xforms-req",
-            "xforms-basic"
-        ]
-    },
-    {
-        "name": "Web Application Privacy Best Practices",
-        "series": [
-            "app-privacy-bp"
-        ]
-    },
-    {
-        "name": "Web Services",
-        "series": [
-            "ws-enumeration",
-            "ws-event-descriptions",
-            "ws-soap-assertions",
-            "ws-metadata-exchange",
-            "ws-eventing",
-            "ws-transfer",
-            "ws-fragment",
-            "ws-i18n-req",
-            "ws-i18n-scenarios",
-            "ws-arch-scenarios",
-            "wslc",
-            "wsa-reqs",
-            "ws-gloss",
-            "ws-arch"
-        ]
-    },
-    {
-        "name": "XML Schema",
-        "series": [
-            "xmlschema",
-            "xsd-precisionDecimal",
-            "xsd-unicode-blocknames",
-            "xmlschema-ref",
-            "xmlschema-patterns-advanced",
-            "xmlschema-patterns",
-            "swbp-xsch-datatypes",
-            "xml-schema-req"
-        ]
-    },
-    {
-        "name": "SMIL",
-        "series": [
-            "smil",
-            "smil-animation",
-            "SYMM-modules"
-        ]
-    },
-    {
-        "name": "SOAP",
-        "series": [
-            "soapjms",
-            "SOAP",
-            "soap-testcollection",
-            "soap-ror-httpbinding",
-            "xml-media-types",
-            "xop",
-            "soap-rep",
-            "soap-mtom",
-            "xopinc-FAQ",
-            "soap-af",
-            "soap-n11n",
-            "xmlp-scenarios",
-            "xmlp-reqs",
-            "soap-email"
-        ]
-    },
-    {
-        "name": "XSL",
-        "series": [
-            "xslfo",
-            "xslfo-req",
-            "xsl"
-        ]
-    },
-    {
-        "name": "InkML",
-        "series": [
-            "InkML",
-            "inkreqs"
-        ]
-    },
-    {
-        "name": "CCXML",
-        "series": [
-            "ccxml"
-        ]
-    },
-    {
-        "name": "Working with Time Zones",
-        "series": [
-            "timezone"
-        ]
-    },
-    {
-        "name": "Voice Browsers",
-        "series": [
-            "voicexml",
-            "vxmlreqs",
-            "voice"
-        ]
-    },
-    {
-        "name": "Mobile Best Practices",
-        "series": [
-            "mwabp",
-            "ct-landscape",
-            "powder-dr",
-            "powder-formal",
-            "powder-grouping",
-            "mobileOK",
-            "mwbp-wcag",
-            "di-testing",
-            "mobileOK-basic-tests",
-            "mobile-bp",
-            "mobile-bp-scope"
-        ]
-    },
-    {
-        "name": "SSML",
-        "series": [
-            "speech-synthesis",
-            "ssmlreqs",
-            "ssml-sayas"
-        ]
-    },
-    {
-        "name": "WICD",
-        "series": [
-            "CDFReqs",
-            "CDRReqs"
-        ]
-    },
-    {
-        "name": "CC/PP",
-        "series": [
-            "CCPP-struct-vocab",
-            "CCPP-COORDINATION",
-            "CCPP"
-        ]
-    },
-    {
-        "name": "XLink",
-        "series": [
-            "xlink",
-            "xlink-ext",
-            "xml-link-style",
-            "xlink2rdf",
-            "xlink-req",
-            "xlink-principles"
-        ]
-    },
-    {
-        "name": "QA Framework",
-        "series": [
-            "test-methodology",
-            "test-metadata",
-            "qa-handbook",
-            "spec-variability",
-            "qaframe-spec"
-        ]
-    },
-    {
-        "name": "Mobile Web for Social Development",
-        "series": [
-            "mw4d-roadmap"
-        ]
-    },
-    {
-        "name": "PICS",
-        "series": [
-            "PICS-labels",
-            "DSig-label",
-            "PICS-services",
-            "PICSRules"
-        ]
-    },
-    {
-        "name": "SML",
-        "series": [
-            "sml-xlink-ref-scheme",
-            "sml-epr-ref-scheme",
-            "sml",
-            "sml-if"
-        ]
-    },
-    {
-        "name": "POWDER",
-        "series": [
-            "powder-test",
-            "powder-primer",
-            "powder-use-cases"
-        ]
-    },
-    {
-        "name": "egov",
-        "series": [
-            "gov-data",
-            "egov-improving"
-        ]
-    },
-    {
-        "name": "SKOS",
-        "series": [
-            "skos-reference",
-            "skos-ucr",
-            "skos-primer"
-        ]
-    },
-    {
-        "name": "Device Description",
-        "series": [
-            "dd-structures",
-            "DDR-Simple-API",
-            "ddr-core-vocabulary",
-            "DDR-requirements",
-            "dd-landscape",
-            "dd-ecosystem"
-        ]
-    },
-    {
-        "name": "PLS",
-        "series": [
-            "pronunciation-lexicon"
-        ]
-    },
-    {
-        "name": "Best Practices for XML Internationalization",
-        "series": [
-            "xml-i18n-bp"
-        ]
-    },
-    {
-        "name": "Web Services Policy",
-        "series": [
-            "ws-policy-guidelines",
-            "ws-policy-primer",
-            "ws-policy",
-            "ws-policy-attach"
-        ]
-    },
-    {
-        "name": "GRDDL",
-        "series": [
-            "grddl",
-            "grddl-tests",
-            "grddl-primer",
-            "grddl-scenarios"
-        ]
-    },
-    {
-        "name": "Web Services Addressing",
-        "series": [
-            "ws-addr-metadata",
-            "ws-addr-core",
-            "ws-addr-soap"
-        ]
-    },
-    {
-        "name": "WSDL",
-        "series": [
-            "sawsdl",
-            "sawsdl-guide",
-            "wsdlelementidentifiers",
-            "wsdl-primer",
-            "wsdl-rdf",
-            "wsdl",
-            "wsdl-soap-binding",
-            "wsdl-adjuncts",
-            "wsdl-additional-meps",
-            "wsdl-altschemalangs"
-        ]
-    },
-    {
-        "name": "SISR",
-        "series": [
-            "semantic-interpretation"
-        ]
-    },
-    {
-        "name": "Device Independence",
-        "series": [
-            "di-dco",
-            "di-atdi",
-            "acdi",
-            "di-princ"
-        ]
-    },
-    {
-        "name": "SRGS",
-        "series": [
-            "speech-grammar"
-        ]
-    },
-    {
-        "name": "LBase: Semantics for Languages of the Semantic Web",
-        "series": [
-            "lbase"
-        ]
-    },
-    {
-        "name": "Xpointer",
-        "series": [
-            "xptr-framework",
-            "xptr-xmlns",
-            "xptr-element",
-            "xptr-infoset-liaison",
-            "xptr-req"
-        ]
-    },
-    {
-        "name": "XML Accessibility Guidelines",
-        "series": [
-            "xag"
-        ]
-    },
-    {
-        "name": "TV Broadcast URI Schemes Requirements",
-        "series": [
-            "TVWeb-URI-Requirements"
-        ]
-    },
-    {
-        "name": "WebCodecs",
-        "series": [
-            "webcodecs",
-            "webcodecs-avc-codec-registration"
-        ]
-    },
-    {
-        "name": "WebTransport",
-        "series": [
-            "webtransport"
-        ]
-    },
-    {
-        "name": "Manifest",
-        "series": [
-            "appmanifest"
-        ]
-    },
-    {
-        "name": "EPUB",
-        "series": [
-            "epub",
-            "epub-rs",
-            "epub-a11y",
-            "epub-a11y-tech",
-            "epub-overview"
-        ]
-    },
-    {
-        "name": "Device Posture",
-        "series": [
-            "device-posture"
-        ]
-    },
-    {
-        "name": "Post-Spectre",
-        "series": [
-            "post-spectre-webdev"
-        ]
-    },
-    {
-        "name": "CSS Ruby",
-        "series": [
-            "css-ruby"
-        ]
-    },
-    {
-        "name": "Spatial Data",
-        "series": [
-            "responsible-use-spatial"
-        ]
-    },
-    {
-        "name": "CSS",
-        "series": [
-            "CSS"
-        ]
-    }
+  {
+    "name": "ATAG",
+    "series": [
+      "ATAG",
+      "IMPLEMENTING-ATAG"
+    ]
+  },
+  {
+    "name": "Accessibility Conformance Testing",
+    "series": [
+      "act-rules-format",
+      "act-rules-aspects"
+    ]
+  },
+  {
+    "name": "Accessibility User Requirements",
+    "series": [
+      "raur",
+      "xaur",
+      "low-vision-needs",
+      "media-accessibility-reqs",
+      "coga-user-research"
+    ]
+  },
+  {
+    "name": "Activity Streams",
+    "series": [
+      "activitystreams-core",
+      "activitystreams-vocabulary"
+    ]
+  },
+  {
+    "name": "ActivityPub",
+    "series": [
+      "activitypub"
+    ]
+  },
+  {
+    "name": "Audio Output Devices API",
+    "series": [
+      "audio-output"
+    ]
+  },
+  {
+    "name": "Audiobooks",
+    "series": [
+      "audiobooks"
+    ]
+  },
+  {
+    "name": "Battery Status API",
+    "series": [
+      "battery-status"
+    ]
+  },
+  {
+    "name": "Beacon",
+    "series": [
+      "beacon"
+    ]
+  },
+  {
+    "name": "Best Practices for Publishing Linked Data",
+    "series": [
+      "ld-bp"
+    ]
+  },
+  {
+    "name": "Best Practices for XML Internationalization",
+    "series": [
+      "xml-i18n-bp"
+    ]
+  },
+  {
+    "name": "CC/PP",
+    "series": [
+      "CCPP-struct-vocab",
+      "CCPP-COORDINATION",
+      "CCPP"
+    ]
+  },
+  {
+    "name": "CCXML",
+    "series": [
+      "ccxml"
+    ]
+  },
+  {
+    "name": "CSP",
+    "series": [
+      "CSP",
+      "csp-embedded-enforcement"
+    ]
+  },
+  {
+    "name": "CSS",
+    "series": [
+      "CSS"
+    ]
+  },
+  {
+    "name": "CSS Animation Worklet API",
+    "series": [
+      "css-animation-worklet"
+    ]
+  },
+  {
+    "name": "CSS Animations",
+    "series": [
+      "css-animations"
+    ]
+  },
+  {
+    "name": "CSS Backgrounds and Borders",
+    "series": [
+      "css-backgrounds"
+    ]
+  },
+  {
+    "name": "CSS Basic User Interface",
+    "series": [
+      "css-ui"
+    ]
+  },
+  {
+    "name": "CSS Box Alignment",
+    "series": [
+      "css-align"
+    ]
+  },
+  {
+    "name": "CSS Box Model",
+    "series": [
+      "css-box"
+    ]
+  },
+  {
+    "name": "CSS Box Sizing",
+    "series": [
+      "css-sizing"
+    ]
+  },
+  {
+    "name": "CSS Cascading and Inheritance",
+    "series": [
+      "css-cascade"
+    ]
+  },
+  {
+    "name": "CSS Color",
+    "series": [
+      "css-color"
+    ]
+  },
+  {
+    "name": "CSS Color Adjustment",
+    "series": [
+      "css-color-adjust"
+    ]
+  },
+  {
+    "name": "CSS Conditional Rules",
+    "series": [
+      "css-conditional"
+    ]
+  },
+  {
+    "name": "CSS Containment",
+    "series": [
+      "css-contain"
+    ]
+  },
+  {
+    "name": "CSS Counter Styles",
+    "series": [
+      "css-counter-styles"
+    ]
+  },
+  {
+    "name": "CSS Custom Highlight API",
+    "series": [
+      "css-highlight-api"
+    ]
+  },
+  {
+    "name": "CSS Custom Properties for Cascading Variables",
+    "series": [
+      "css-variables"
+    ]
+  },
+  {
+    "name": "CSS Device Adaptation",
+    "series": [
+      "css-device-adapt"
+    ]
+  },
+  {
+    "name": "CSS Display",
+    "series": [
+      "css-display"
+    ]
+  },
+  {
+    "name": "CSS Easing Functions",
+    "series": [
+      "css-easing"
+    ]
+  },
+  {
+    "name": "CSS Exclusions",
+    "series": [
+      "css-exclusions"
+    ]
+  },
+  {
+    "name": "CSS Fill and Stroke",
+    "series": [
+      "fill-stroke"
+    ]
+  },
+  {
+    "name": "CSS Flexible Box Layout",
+    "series": [
+      "css-flexbox"
+    ]
+  },
+  {
+    "name": "CSS Font Loading",
+    "series": [
+      "css-font-loading"
+    ]
+  },
+  {
+    "name": "CSS Fonts",
+    "series": [
+      "css-fonts"
+    ]
+  },
+  {
+    "name": "CSS Fragmentation",
+    "series": [
+      "css-break"
+    ]
+  },
+  {
+    "name": "CSS Generated Content",
+    "series": [
+      "css-content"
+    ]
+  },
+  {
+    "name": "CSS Generated Content for Paged Media",
+    "series": [
+      "css-gcpm"
+    ]
+  },
+  {
+    "name": "CSS Grid Layout",
+    "series": [
+      "css-grid"
+    ]
+  },
+  {
+    "name": "CSS Images",
+    "series": [
+      "css-images"
+    ]
+  },
+  {
+    "name": "CSS Inline Layout",
+    "series": [
+      "css-inline"
+    ]
+  },
+  {
+    "name": "CSS Layout API",
+    "series": [
+      "css-layout-api"
+    ]
+  },
+  {
+    "name": "CSS Line Grid",
+    "series": [
+      "css-line-grid"
+    ]
+  },
+  {
+    "name": "CSS Lists and Counters",
+    "series": [
+      "css-lists"
+    ]
+  },
+  {
+    "name": "CSS Logical Properties and Values",
+    "series": [
+      "css-logical"
+    ]
+  },
+  {
+    "name": "CSS Masking",
+    "series": [
+      "css-masking"
+    ]
+  },
+  {
+    "name": "CSS Multi-column Layout",
+    "series": [
+      "css-multicol"
+    ]
+  },
+  {
+    "name": "CSS Namespaces",
+    "series": [
+      "css-namespaces"
+    ]
+  },
+  {
+    "name": "CSS Overflow",
+    "series": [
+      "css-overflow"
+    ]
+  },
+  {
+    "name": "CSS Overscroll Behavior",
+    "series": [
+      "css-overscroll"
+    ]
+  },
+  {
+    "name": "CSS Page Floats",
+    "series": [
+      "css-page-floats"
+    ]
+  },
+  {
+    "name": "CSS Paged Media",
+    "series": [
+      "css-page"
+    ]
+  },
+  {
+    "name": "CSS Painting API",
+    "series": [
+      "css-paint-api"
+    ]
+  },
+  {
+    "name": "CSS Positioned Layout",
+    "series": [
+      "css-position"
+    ]
+  },
+  {
+    "name": "CSS Properties and Values API",
+    "series": [
+      "css-properties-values-api"
+    ]
+  },
+  {
+    "name": "CSS Pseudo-Elements",
+    "series": [
+      "css-pseudo"
+    ]
+  },
+  {
+    "name": "CSS Regions",
+    "series": [
+      "css-regions"
+    ]
+  },
+  {
+    "name": "CSS Rhythmic Sizing",
+    "series": [
+      "css-rhythm"
+    ]
+  },
+  {
+    "name": "CSS Round Display",
+    "series": [
+      "css-round-display"
+    ]
+  },
+  {
+    "name": "CSS Ruby",
+    "series": [
+      "css-ruby"
+    ]
+  },
+  {
+    "name": "CSS Scoping",
+    "series": [
+      "css-scoping"
+    ]
+  },
+  {
+    "name": "CSS Scroll Anchoring",
+    "series": [
+      "css-scroll-anchoring"
+    ]
+  },
+  {
+    "name": "CSS Scroll Snap",
+    "series": [
+      "css-scroll-snap"
+    ]
+  },
+  {
+    "name": "CSS Scrollbars",
+    "series": [
+      "css-scrollbars"
+    ]
+  },
+  {
+    "name": "CSS Shadow Parts",
+    "series": [
+      "css-shadow-parts"
+    ]
+  },
+  {
+    "name": "CSS Shapes",
+    "series": [
+      "css-shapes"
+    ]
+  },
+  {
+    "name": "CSS Spatial Navigation",
+    "series": [
+      "css-nav"
+    ]
+  },
+  {
+    "name": "CSS Speech",
+    "series": [
+      "css-speech"
+    ]
+  },
+  {
+    "name": "CSS Style Attributes",
+    "series": [
+      "css-style-attr"
+    ]
+  },
+  {
+    "name": "CSS Syntax",
+    "series": [
+      "css-syntax"
+    ]
+  },
+  {
+    "name": "CSS Table",
+    "series": [
+      "css-tables"
+    ]
+  },
+  {
+    "name": "CSS Template Layout",
+    "series": [
+      "css-template"
+    ]
+  },
+  {
+    "name": "CSS Text",
+    "series": [
+      "css-text"
+    ]
+  },
+  {
+    "name": "CSS Text Decoration",
+    "series": [
+      "css-text-decor"
+    ]
+  },
+  {
+    "name": "CSS Transforms",
+    "series": [
+      "css-transforms"
+    ]
+  },
+  {
+    "name": "CSS Transitions",
+    "series": [
+      "css-transitions"
+    ]
+  },
+  {
+    "name": "CSS Values and Units",
+    "series": [
+      "css-values"
+    ]
+  },
+  {
+    "name": "CSS Will Change",
+    "series": [
+      "css-will-change"
+    ]
+  },
+  {
+    "name": "CSS Writing Modes",
+    "series": [
+      "css-writing-modes"
+    ]
+  },
+  {
+    "name": "CSSOM",
+    "series": [
+      "css-typed-om",
+      "cssom",
+      "cssom-view"
+    ]
+  },
+  {
+    "name": "Character Model for the World Wide Web",
+    "series": [
+      "charmod-norm",
+      "charreq",
+      "charmod"
+    ]
+  },
+  {
+    "name": "Clear Site Data",
+    "series": [
+      "clear-site-data"
+    ]
+  },
+  {
+    "name": "Clipboard API and events",
+    "series": [
+      "clipboard-apis"
+    ]
+  },
+  {
+    "name": "Cloud Browser Architecture",
+    "series": [
+      "cloud-browser-arch"
+    ]
+  },
+  {
+    "name": "Compositing and Blending",
+    "series": [
+      "compositing"
+    ]
+  },
+  {
+    "name": "Cooperative Scheduling of Background Tasks",
+    "series": [
+      "requestidlecallback"
+    ]
+  },
+  {
+    "name": "Credential Management",
+    "series": [
+      "credential-management"
+    ]
+  },
+  {
+    "name": "DCAT",
+    "series": [
+      "vocab-dcat"
+    ]
+  },
+  {
+    "name": "DID",
+    "series": [
+      "did-core",
+      "did-use-cases",
+      "did-spec-registries"
+    ]
+  },
+  {
+    "name": "DOM",
+    "series": [
+      "dom",
+      "DOM-Parsing",
+      "DOM-Content-Models-and-Load-Save",
+      "DOM-Val"
+    ]
+  },
+  {
+    "name": "Data on the Web Best Practices",
+    "series": [
+      "dwbp",
+      "vocab-dqv",
+      "vocab-duv",
+      "dwbp-ucr"
+    ]
+  },
+  {
+    "name": "Dataset exchange",
+    "series": [
+      "dx-prof",
+      "dx-prof-conneg",
+      "dcat-ucr",
+      "vocab-adms",
+      "void"
+    ]
+  },
+  {
+    "name": "Device API",
+    "series": [
+      "netinfo-usecases",
+      "hnreq",
+      "dap-policy-reqs",
+      "dap-privacy-reqs",
+      "dap-api-reqs"
+    ]
+  },
+  {
+    "name": "Device Description",
+    "series": [
+      "dd-structures",
+      "DDR-Simple-API",
+      "ddr-core-vocabulary",
+      "DDR-requirements",
+      "dd-landscape",
+      "dd-ecosystem"
+    ]
+  },
+  {
+    "name": "Device Independence",
+    "series": [
+      "di-dco",
+      "di-atdi",
+      "acdi",
+      "di-princ"
+    ]
+  },
+  {
+    "name": "Device Memory",
+    "series": [
+      "device-memory"
+    ]
+  },
+  {
+    "name": "Device Posture",
+    "series": [
+      "device-posture"
+    ]
+  },
+  {
+    "name": "DeviceOrientation Event",
+    "series": [
+      "orientation-event"
+    ]
+  },
+  {
+    "name": "Digital Publishing",
+    "series": [
+      "dpub-accessibility",
+      "dpub-css-priorities",
+      "dpub-metadata"
+    ]
+  },
+  {
+    "name": "Distributed Tracing",
+    "series": [
+      "baggage",
+      "trace-context",
+      "trace-context-protocols-registry"
+    ]
+  },
+  {
+    "name": "EARL",
+    "series": [
+      "Content-in-RDF",
+      "HTTP-in-RDF",
+      "WAET",
+      "EARL-Guide",
+      "Pointers-in-RDF",
+      "EARL-Requirements",
+      "EARL-Schema",
+      "accessibility-metrics-report"
+    ]
+  },
+  {
+    "name": "egov",
+    "series": [
+      "gov-data",
+      "egov-improving"
+    ]
+  },
+  {
+    "name": "EME",
+    "series": [
+      "encrypted-media",
+      "eme-stream-mp4",
+      "eme-stream-registry",
+      "eme-initdata-cenc",
+      "eme-initdata-keyids",
+      "eme-initdata-registry"
+    ]
+  },
+  {
+    "name": "EMMA",
+    "series": [
+      "emma",
+      "emma-usecases",
+      "EMMAreqs"
+    ]
+  },
+  {
+    "name": "EPUB",
+    "series": [
+      "epub",
+      "epub-rs",
+      "epub-a11y",
+      "epub-a11y-tech",
+      "epub-overview"
+    ]
+  },
+  {
+    "name": "EXI",
+    "series": [
+      "exi-for-json",
+      "exi-c14n",
+      "exi-profile",
+      "exi-primer",
+      "exi",
+      "exi-evaluation",
+      "exi-impacts",
+      "exi-best-practices",
+      "exi-measurements",
+      "xbc-characterization",
+      "xbc-measurement",
+      "xbc-properties",
+      "xbc-use-cases"
+    ]
+  },
+  {
+    "name": "EmotionML",
+    "series": [
+      "emotionml",
+      "emotion-voc"
+    ]
+  },
+  {
+    "name": "Fetch Metadata Request Headers",
+    "series": [
+      "fetch-metadata"
+    ]
+  },
+  {
+    "name": "File API",
+    "series": [
+      "FileAPI"
+    ]
+  },
+  {
+    "name": "Filter Effects",
+    "series": [
+      "filter-effects"
+    ]
+  },
+  {
+    "name": "GRDDL",
+    "series": [
+      "grddl",
+      "grddl-tests",
+      "grddl-primer",
+      "grddl-scenarios"
+    ]
+  },
+  {
+    "name": "Gamepad",
+    "series": [
+      "gamepad"
+    ]
+  },
+  {
+    "name": "Geolocation API",
+    "series": [
+      "geolocation"
+    ]
+  },
+  {
+    "name": "Geometry Interfaces",
+    "series": [
+      "geometry"
+    ]
+  },
+  {
+    "name": "Geospatial data",
+    "series": [
+      "eo-qb",
+      "sdw-bp",
+      "qb4st",
+      "covjson-overview",
+      "sdw-ucr"
+    ]
+  },
+  {
+    "name": "HCLS",
+    "series": [
+      "hcls-dataset",
+      "hcls-orb",
+      "hcls-sioc",
+      "hcls-swan",
+      "hcls-swansioc",
+      "hcls-kb",
+      "hcls-senselab"
+    ]
+  },
+  {
+    "name": "HTML",
+    "series": [
+      "html",
+      "html-media-capture",
+      "html-imports",
+      "html-bidi",
+      "html-longdesc",
+      "microdata-rdf",
+      "html-diff",
+      "html-templates",
+      "html-ruby-extensions",
+      "respimg-usecases",
+      "ruby-use-cases",
+      "html-author",
+      "html-main-element",
+      "html-markup",
+      "html-data-guide",
+      "html-xml-tf-report",
+      "xhtml-media-types",
+      "offline-webapps",
+      "html-design-principles",
+      "xbl-primer",
+      "backplane",
+      "xml-events",
+      "xhtml-schema",
+      "XHTMLplusSMIL",
+      "CX",
+      "ruby",
+      "html-mobile",
+      "xh",
+      "imagemap",
+      "S6Group2"
+    ]
+  },
+  {
+    "name": "ITS",
+    "series": [
+      "its"
+    ]
+  },
+  {
+    "name": "Image Resource",
+    "series": [
+      "image-resource"
+    ]
+  },
+  {
+    "name": "Inaccessibility of CAPTCHA",
+    "series": [
+      "turingtest"
+    ]
+  },
+  {
+    "name": "Indexed Database API",
+    "series": [
+      "IndexedDB"
+    ]
+  },
+  {
+    "name": "IndieAuth",
+    "series": [
+      "indieauth"
+    ]
+  },
+  {
+    "name": "IndieUI",
+    "series": [
+      "indie-ui-context",
+      "indie-ui-events",
+      "indie-ui-requirements"
+    ]
+  },
+  {
+    "name": "InkML",
+    "series": [
+      "InkML",
+      "inkreqs"
+    ]
+  },
+  {
+    "name": "Input Events",
+    "series": [
+      "input-events"
+    ]
+  },
+  {
+    "name": "Internationalization Best Practices for Spec Developers",
+    "series": [
+      "international-specs"
+    ]
+  },
+  {
+    "name": "Internationalization for HTML",
+    "series": [
+      "predefined-counter-styles",
+      "i18n-html-tech-lang",
+      "i18n-html-tech-bidi"
+    ]
+  },
+  {
+    "name": "Intersection Observer",
+    "series": [
+      "intersection-observer"
+    ]
+  },
+  {
+    "name": "JSON-LD",
+    "series": [
+      "json-ld",
+      "json-ld-api",
+      "json-ld-framing",
+      "json-ld-streaming"
+    ]
+  },
+  {
+    "name": "LBase: Semantics for Languages of the Semantic Web",
+    "series": [
+      "lbase"
+    ]
+  },
+  {
+    "name": "Language Gap Analysis",
+    "series": [
+      "grek-gap",
+      "latn-hu-gap",
+      "latn-nl-gap",
+      "cans-iu-cr-gap",
+      "cher-gap",
+      "geor-gap",
+      "khmr-gap",
+      "gujr-gap",
+      "java-gap",
+      "taml-gap",
+      "thai-gap",
+      "jpan-gap",
+      "clreq-gap",
+      "mong-gap",
+      "beng-gap",
+      "tibt-gap",
+      "deva-gap",
+      "laoo-gap",
+      "guru-gap",
+      "elreq-gap",
+      "typography",
+      "nkoo-gap",
+      "adlm-gap",
+      "alreq-gap",
+      "osge-osa-gap",
+      "hebr-gap",
+      "latn-de-gap",
+      "latn-fr-gap"
+    ]
+  },
+  {
+    "name": "Language Tags and Locale Identifiers for the World Wide Web",
+    "series": [
+      "ltli"
+    ]
+  },
+  {
+    "name": "Lightweight Packaging Format (LPF)",
+    "series": [
+      "lpf"
+    ]
+  },
+  {
+    "name": "Linked Data Platform",
+    "series": [
+      "ldn",
+      "ldpatch",
+      "ldp-paging",
+      "ldp-primer",
+      "ldp",
+      "ldp-acr",
+      "ldp-bp",
+      "ldp-ucr"
+    ]
+  },
+  {
+    "name": "Long Tasks API",
+    "series": [
+      "longtasks"
+    ]
+  },
+  {
+    "name": "MBUI",
+    "series": [
+      "mbui-glossary",
+      "mbui-intro"
+    ]
+  },
+  {
+    "name": "MMI",
+    "series": [
+      "mmi-arch",
+      "mmi-discovery",
+      "mmi-interop",
+      "mmi-mcbp",
+      "mmi-auth",
+      "mmi-suggestions",
+      "mmi-dev-feedback",
+      "modality-interface",
+      "mmi-framework",
+      "mmi-reqs",
+      "mmi-use-cases"
+    ]
+  },
+  {
+    "name": "MSE",
+    "series": [
+      "media-source",
+      "mse-byte-stream-format-isobmff",
+      "mse-byte-stream-format-mp2t",
+      "mse-byte-stream-format-mpeg-audio",
+      "mse-byte-stream-format-registry",
+      "mse-byte-stream-format-webm",
+      "eme-initdata-webm",
+      "eme-stream-webm"
+    ]
+  },
+  {
+    "name": "Manifest",
+    "series": [
+      "appmanifest"
+    ]
+  },
+  {
+    "name": "MathML",
+    "series": [
+      "MathML",
+      "mathml-for-css",
+      "arabic-math",
+      "mathml-bvar",
+      "mathml-types",
+      "mathml-units"
+    ]
+  },
+  {
+    "name": "Media Capabilities",
+    "series": [
+      "media-capabilities"
+    ]
+  },
+  {
+    "name": "Media Capture",
+    "series": [
+      "mediacapture-streams",
+      "mediacapture-fromelement",
+      "mst-content-hint",
+      "mediastream-recording",
+      "screen-capture",
+      "image-capture",
+      "mediacapture-depth",
+      "capture-scenarios",
+      "openscreenprotocol"
+    ]
+  },
+  {
+    "name": "Media Fragments",
+    "series": [
+      "media-frags",
+      "media-frags-recipes",
+      "media-frags-reqs"
+    ]
+  },
+  {
+    "name": "Media Queries",
+    "series": [
+      "mediaqueries"
+    ]
+  },
+  {
+    "name": "Media Resources",
+    "series": [
+      "mediaont-api",
+      "mediaont",
+      "media-annot-reqs"
+    ]
+  },
+  {
+    "name": "Media Session Standard",
+    "series": [
+      "mediasession"
+    ]
+  },
+  {
+    "name": "Media Timed Events",
+    "series": [
+      "media-timed-events"
+    ]
+  },
+  {
+    "name": "Micropub",
+    "series": [
+      "micropub"
+    ]
+  },
+  {
+    "name": "MiniApp",
+    "series": [
+      "mini-app-white-paper",
+      "miniapp-lifecycle",
+      "miniapp-packaging",
+      "miniapp-manifest"
+    ]
+  },
+  {
+    "name": "Mixed Content",
+    "series": [
+      "mixed-content"
+    ]
+  },
+  {
+    "name": "Mobile Best Practices",
+    "series": [
+      "mwabp",
+      "ct-landscape",
+      "powder-dr",
+      "powder-formal",
+      "powder-grouping",
+      "mobileOK",
+      "mwbp-wcag",
+      "di-testing",
+      "mobileOK-basic-tests",
+      "mobile-bp",
+      "mobile-bp-scope"
+    ]
+  },
+  {
+    "name": "Mobile Web for Social Development",
+    "series": [
+      "mw4d-roadmap"
+    ]
+  },
+  {
+    "name": "Motion Path",
+    "series": [
+      "motion"
+    ]
+  },
+  {
+    "name": "ODRL",
+    "series": [
+      "odrl-model",
+      "odrl-vocab"
+    ]
+  },
+  {
+    "name": "OWL",
+    "series": [
+      "rif-owl-rl",
+      "owl-overview",
+      "owl-primer",
+      "owl-direct-semantics",
+      "owl-profiles",
+      "owl-syntax",
+      "owl-conformance",
+      "owl-quick-reference",
+      "owl-dr-linear",
+      "owl-rdf-based-semantics",
+      "owl-manchester-syntax",
+      "owl-xml-serialization",
+      "owl-new-features",
+      "owl-mapping-to-rdf",
+      "owl-ref",
+      "owl-features",
+      "webont-req",
+      "owl-guide",
+      "owl-parsing",
+      "owl-xmlsyntax",
+      "swbp-specified-values"
+    ]
+  },
+  {
+    "name": "P3P",
+    "series": [
+      "xmldsig-p3p-profile"
+    ]
+  },
+  {
+    "name": "PICS",
+    "series": [
+      "PICS-labels",
+      "DSig-label",
+      "PICS-services",
+      "PICSRules"
+    ]
+  },
+  {
+    "name": "PLS",
+    "series": [
+      "pronunciation-lexicon"
+    ]
+  },
+  {
+    "name": "PNG",
+    "series": [
+      "png-hdr-pq",
+      "PNG"
+    ]
+  },
+  {
+    "name": "POE",
+    "series": [
+      "poe-ucr"
+    ]
+  },
+  {
+    "name": "POWDER",
+    "series": [
+      "powder-test",
+      "powder-primer",
+      "powder-use-cases"
+    ]
+  },
+  {
+    "name": "PROV",
+    "series": [
+      "prov-primer",
+      "prov-dm",
+      "prov-sem",
+      "prov-implementations",
+      "prov-xml",
+      "prov-links",
+      "prov-aq",
+      "prov-n",
+      "prov-constraints",
+      "prov-o",
+      "prov-dc",
+      "prov-overview",
+      "prov-dictionary"
+    ]
+  },
+  {
+    "name": "Page Visibility",
+    "series": [
+      "page-visibility"
+    ]
+  },
+  {
+    "name": "Payment Request API",
+    "series": [
+      "payment-request"
+    ]
+  },
+  {
+    "name": "Performance instrumentation",
+    "series": [
+      "hr-time",
+      "navigation-timing",
+      "resource-timing",
+      "user-timing",
+      "server-timing",
+      "performance-timeline",
+      "timing-entrytypes-registry",
+      "reporting",
+      "paint-timing"
+    ]
+  },
+  {
+    "name": "Permissions",
+    "series": [
+      "permissions"
+    ]
+  },
+  {
+    "name": "Permissions Policy",
+    "series": [
+      "permissions-policy"
+    ]
+  },
+  {
+    "name": "Personalization semantics",
+    "series": [
+      "personalization-semantics-requirements",
+      "personalization-semantics",
+      "personalization-semantics-content",
+      "personalization-semantics-help",
+      "personalization-semantics-tools"
+    ]
+  },
+  {
+    "name": "Picture-in-Picture",
+    "series": [
+      "picture-in-picture"
+    ]
+  },
+  {
+    "name": "Pointer Lock",
+    "series": [
+      "pointerlock"
+    ]
+  },
+  {
+    "name": "Post-Spectre",
+    "series": [
+      "post-spectre-webdev"
+    ]
+  },
+  {
+    "name": "Preload",
+    "series": [
+      "preload"
+    ]
+  },
+  {
+    "name": "Presentation API",
+    "series": [
+      "presentation-api"
+    ]
+  },
+  {
+    "name": "Pronunciation",
+    "series": [
+      "pronunciation-explainer",
+      "pronunciation-gap-analysis-and-use-cases",
+      "pronunciation-user-scenarios"
+    ]
+  },
+  {
+    "name": "Push API",
+    "series": [
+      "push-api"
+    ]
+  },
+  {
+    "name": "QA Framework",
+    "series": [
+      "test-methodology",
+      "test-metadata",
+      "qa-handbook",
+      "spec-variability",
+      "qaframe-spec"
+    ]
+  },
+  {
+    "name": "RDB2RDF",
+    "series": [
+      "rdb-direct-mapping",
+      "r2rml",
+      "rdb2rdf-implementations",
+      "rdb2rdf-test-cases",
+      "rdb2rdf-ucr"
+    ]
+  },
+  {
+    "name": "RDF",
+    "series": [
+      "rdf-primer",
+      "rdf-mt",
+      "rdf-datasets",
+      "n-triples",
+      "rdf-concepts",
+      "rdf-new",
+      "rdf-syntax-grammar",
+      "rdf-schema",
+      "rdf-testcases",
+      "turtle",
+      "trig",
+      "n-quads",
+      "rdf-json",
+      "ld-glossary",
+      "rdf-plain-literal",
+      "swbp-vocab-pub",
+      "swbp-n-aryRelations",
+      "sw-oosd-primer",
+      "rdftm-survey",
+      "swbp-classes-as-values",
+      "rdf-uml"
+    ]
+  },
+  {
+    "name": "RDF Vocabulary",
+    "series": [
+      "vcard-rdf",
+      "vocab-data-cube",
+      "vocab-org",
+      "vocab-regorg",
+      "vocab-data-cube-use-cases",
+      "vocab-people",
+      "rdfcal"
+    ]
+  },
+  {
+    "name": "RDFa",
+    "series": [
+      "rdfa-core",
+      "html-rdfa",
+      "xhtml-rdfa",
+      "rdfa-lite",
+      "rdfa-primer"
+    ]
+  },
+  {
+    "name": "RIF",
+    "series": [
+      "rif-in-rdf",
+      "rif-ucr",
+      "rif-overview",
+      "rif-xml-data",
+      "rif-bld",
+      "rif-prd",
+      "rif-core",
+      "rif-primer",
+      "rif-dtb",
+      "rif-rdf-owl",
+      "rif-fld",
+      "rif-test"
+    ]
+  },
+  {
+    "name": "Referrer Policy",
+    "series": [
+      "referrer-policy"
+    ]
+  },
+  {
+    "name": "Remote Playback API",
+    "series": [
+      "remote-playback"
+    ]
+  },
+  {
+    "name": "Reporting",
+    "series": [
+      "network-error-logging"
+    ]
+  },
+  {
+    "name": "Resize Observer",
+    "series": [
+      "resize-observer"
+    ]
+  },
+  {
+    "name": "Resource Hints",
+    "series": [
+      "resource-hints"
+    ]
+  },
+  {
+    "name": "SCXML",
+    "series": [
+      "scxml",
+      "scxml-dom-iop",
+      "scxml-xpath-dm"
+    ]
+  },
+  {
+    "name": "SHACL",
+    "series": [
+      "shacl-ucr",
+      "shacl",
+      "shacl-af",
+      "shacl-js"
+    ]
+  },
+  {
+    "name": "SISR",
+    "series": [
+      "semantic-interpretation"
+    ]
+  },
+  {
+    "name": "SKOS",
+    "series": [
+      "skos-reference",
+      "skos-ucr",
+      "skos-primer"
+    ]
+  },
+  {
+    "name": "SMIL",
+    "series": [
+      "smil",
+      "smil-animation",
+      "SYMM-modules"
+    ]
+  },
+  {
+    "name": "SML",
+    "series": [
+      "sml-xlink-ref-scheme",
+      "sml-epr-ref-scheme",
+      "sml",
+      "sml-if"
+    ]
+  },
+  {
+    "name": "SOAP",
+    "series": [
+      "soapjms",
+      "SOAP",
+      "soap-testcollection",
+      "soap-ror-httpbinding",
+      "xml-media-types",
+      "xop",
+      "soap-rep",
+      "soap-mtom",
+      "xopinc-FAQ",
+      "soap-af",
+      "soap-n11n",
+      "xmlp-scenarios",
+      "xmlp-reqs",
+      "soap-email"
+    ]
+  },
+  {
+    "name": "SPARQL",
+    "series": [
+      "rdf-sparql-XMLres",
+      "sparql-protocol",
+      "sparql-query",
+      "sparql-entailment",
+      "sparql-results-csv-tsv",
+      "sparql-federated-query",
+      "sparql-results-json",
+      "sparql-http-rdf-update",
+      "sparql-service-description",
+      "sparql-overview",
+      "sparql-update",
+      "sparql-property-paths",
+      "sparql-features",
+      "rdf-sparql-protocol",
+      "rdf-sparql-query",
+      "rdf-sparql-json-res"
+    ]
+  },
+  {
+    "name": "SRGS",
+    "series": [
+      "speech-grammar"
+    ]
+  },
+  {
+    "name": "SSML",
+    "series": [
+      "speech-synthesis",
+      "ssmlreqs",
+      "ssml-sayas"
+    ]
+  },
+  {
+    "name": "SVG",
+    "series": [
+      "SVG",
+      "svg-paths",
+      "svg-markers",
+      "svg-strokes",
+      "svg-integration",
+      "SVGColor",
+      "SVGColorPrimer",
+      "SVGParam",
+      "SVGParamPrimer",
+      "SVG-Transforms",
+      "SVGTiny",
+      "SVGFilter",
+      "SVGFilterPrimer",
+      "rex-reqs",
+      "SVGReqs"
+    ]
+  },
+  {
+    "name": "Screen Wake Lock API",
+    "series": [
+      "screen-wake-lock"
+    ]
+  },
+  {
+    "name": "Secure Contexts",
+    "series": [
+      "secure-contexts"
+    ]
+  },
+  {
+    "name": "Selection API",
+    "series": [
+      "selection-api"
+    ]
+  },
+  {
+    "name": "Selectors",
+    "series": [
+      "selectors"
+    ]
+  },
+  {
+    "name": "Self-Review Questionnaire: Security and Privacy",
+    "series": [
+      "security-privacy-questionnaire"
+    ]
+  },
+  {
+    "name": "Semantic Sensor Network",
+    "series": [
+      "vocab-ssn-ext",
+      "vocab-ssn"
+    ]
+  },
+  {
+    "name": "Sensor API",
+    "series": [
+      "orientation-sensor",
+      "generic-sensor",
+      "gyroscope",
+      "accelerometer",
+      "magnetometer",
+      "ambient-light",
+      "proximity",
+      "geolocation-sensor",
+      "motion-sensors"
+    ]
+  },
+  {
+    "name": "Service Workers",
+    "series": [
+      "service-workers"
+    ]
+  },
+  {
+    "name": "Social Web",
+    "series": [
+      "post-type-discovery",
+      "jf2",
+      "social-web-protocols"
+    ]
+  },
+  {
+    "name": "Spatial Data",
+    "series": [
+      "responsible-use-spatial"
+    ]
+  },
+  {
+    "name": "Strings on the Web: Language and Direction Metadata",
+    "series": [
+      "string-meta"
+    ]
+  },
+  {
+    "name": "Subresource Integrity",
+    "series": [
+      "SRI"
+    ]
+  },
+  {
+    "name": "TBD",
+    "series": [
+      "pointerevents",
+      "COWL",
+      "audioproc",
+      "poi-core",
+      "coga-usable",
+      "webcodecs-codec-registry",
+      "ATAG-wombat",
+      "css-roadmap",
+      "font",
+      "css-border",
+      "css-linebox",
+      "swbp-skos-core-guide",
+      "swbp-skos-core-spec",
+      "rdfa-syntax",
+      "web-forms",
+      "Window",
+      "css-2d-transforms",
+      "SVGCompositing",
+      "css-3d-transforms",
+      "epub-multi-rend",
+      "webgpu",
+      "WGSL",
+      "spoken-html",
+      "wot-usecases",
+      "audio-eq-cookbook",
+      "webnn",
+      "epub-a11y-eaa-mapping",
+      "did-cbor-representation",
+      "i18n-glossary",
+      "viss-core",
+      "viss-transport",
+      "epub-tts",
+      "mathml-core",
+      "localizable-manifests",
+      "virtual-keyboard",
+      "did-rubric",
+      "did-imp-guide",
+      "css-nesting",
+      "webxr-depth-sensing",
+      "webxr-hit-test",
+      "webxr-dom-overlays",
+      "secure-payment-confirmation",
+      "IFT",
+      "webxr-lighting-estimation",
+      "webrtc-encoded-transform",
+      "saur",
+      "naur",
+      "remote-meetings",
+      "epub-ssv",
+      "imsc-hrm"
+    ]
+  },
+  {
+    "name": "TTML",
+    "series": [
+      "ttml-profile-registry",
+      "ttml-imsc",
+      "ttml",
+      "imsc-reqs",
+      "ttml-sdp-us",
+      "ttaf-req"
+    ]
+  },
+  {
+    "name": "TV Broadcast URI Schemes Requirements",
+    "series": [
+      "TVWeb-URI-Requirements"
+    ]
+  },
+  {
+    "name": "Tabular Data",
+    "series": [
+      "csvw-html",
+      "tabular-data-primer",
+      "csvw-ucr",
+      "csv2json",
+      "csv2rdf",
+      "tabular-data-model",
+      "tabular-metadata"
+    ]
+  },
+  {
+    "name": "Text Layout Requirements",
+    "series": [
+      "clreq",
+      "jlreq",
+      "mlreq",
+      "tlreq",
+      "ilreq-taml",
+      "simple-ruby",
+      "ilreq",
+      "klreq",
+      "elreq",
+      "alreq",
+      "dpub-latinreq"
+    ]
+  },
+  {
+    "name": "The Screen Orientation API",
+    "series": [
+      "screen-orientation"
+    ]
+  },
+  {
+    "name": "Time Ontology",
+    "series": [
+      "vocab-owl-time-rel",
+      "vocab-owl-time-agg",
+      "owl-time"
+    ]
+  },
+  {
+    "name": "Touch Events",
+    "series": [
+      "touch-events"
+    ]
+  },
+  {
+    "name": "UAAG",
+    "series": [
+      "UAAG",
+      "UAAG-Reference",
+      "UAAG-requirements",
+      "UAAG-TECHS"
+    ]
+  },
+  {
+    "name": "UI Events",
+    "series": [
+      "uievents",
+      "uievents-code",
+      "uievents-key"
+    ]
+  },
+  {
+    "name": "Upgrade Insecure Requests",
+    "series": [
+      "upgrade-insecure-requests"
+    ]
+  },
+  {
+    "name": "Vehicle Information Service Specification",
+    "series": [
+      "vehicle-information-service"
+    ]
+  },
+  {
+    "name": "Verifiable Credentials",
+    "series": [
+      "vc-data-model",
+      "vc-imp-guide",
+      "vc-use-cases"
+    ]
+  },
+  {
+    "name": "Vibration API",
+    "series": [
+      "vibration"
+    ]
+  },
+  {
+    "name": "Voice Browsers",
+    "series": [
+      "voicexml",
+      "vxmlreqs",
+      "voice"
+    ]
+  },
+  {
+    "name": "WAI-ARIA",
+    "series": [
+      "html-aria",
+      "html-aam",
+      "wai-aria",
+      "core-aam",
+      "wai-aria-practices",
+      "accname",
+      "graphics-aam",
+      "graphics-aria",
+      "using-aria",
+      "svg-aam",
+      "dpub-aria",
+      "dpub-aam",
+      "wai-aria-implementation",
+      "role-attribute",
+      "wai-aria-roadmap"
+    ]
+  },
+  {
+    "name": "WCAG",
+    "series": [
+      "WCAG",
+      "accessibility-conformance-challenges",
+      "coga-gap-analysis",
+      "UNDERSTANDING-WCAG",
+      "WCAG-TECHS",
+      "wcag-ext-req",
+      "mobile-accessibility-mapping",
+      "WCAG-EM",
+      "wcag2ict",
+      "wai-age-literature",
+      "wcag-requirements",
+      "WCAG-CORE-TECHS"
+    ]
+  },
+  {
+    "name": "WICD",
+    "series": [
+      "CDFReqs",
+      "CDRReqs"
+    ]
+  },
+  {
+    "name": "WOFF",
+    "series": [
+      "PFE-evaluation",
+      "WOFF",
+      "WOFFER"
+    ]
+  },
+  {
+    "name": "WSDL",
+    "series": [
+      "sawsdl",
+      "sawsdl-guide",
+      "wsdlelementidentifiers",
+      "wsdl-primer",
+      "wsdl-rdf",
+      "wsdl",
+      "wsdl-soap-binding",
+      "wsdl-adjuncts",
+      "wsdl-additional-meps",
+      "wsdl-altschemalangs"
+    ]
+  },
+  {
+    "name": "Wake lock",
+    "series": [
+      "wake-lock-use-cases"
+    ]
+  },
+  {
+    "name": "Web Animations",
+    "series": [
+      "web-animations"
+    ]
+  },
+  {
+    "name": "Web Annotations",
+    "series": [
+      "annotation-html",
+      "selectors-states",
+      "annotation-model",
+      "annotation-protocol",
+      "annotation-vocab"
+    ]
+  },
+  {
+    "name": "Web App Manifest",
+    "series": [
+      "manifest-app-info"
+    ]
+  },
+  {
+    "name": "Web Application Privacy Best Practices",
+    "series": [
+      "app-privacy-bp"
+    ]
+  },
+  {
+    "name": "Web Architecture",
+    "series": [
+      "design-principles",
+      "fingerprinting-guidance",
+      "capability-urls",
+      "urls-in-data",
+      "publishing-linking",
+      "fragid-best-practices",
+      "api-design",
+      "cooluris",
+      "xmlschema-guide2versioning",
+      "namespaceState",
+      "webarch",
+      "uri-clarification",
+      "WCA"
+    ]
+  },
+  {
+    "name": "Web Audio API",
+    "series": [
+      "webaudio",
+      "webaudio-usecases"
+    ]
+  },
+  {
+    "name": "Web Authentication",
+    "series": [
+      "webauthn"
+    ]
+  },
+  {
+    "name": "Web Crypto",
+    "series": [
+      "WebCryptoAPI",
+      "webcrypto-usecases"
+    ]
+  },
+  {
+    "name": "Web MIDI API",
+    "series": [
+      "webmidi"
+    ]
+  },
+  {
+    "name": "Web Payments",
+    "series": [
+      "merchant-validation",
+      "htr",
+      "payment-handler",
+      "payment-method-id",
+      "payment-method-manifest",
+      "webpayments-overview"
+    ]
+  },
+  {
+    "name": "Web Publications",
+    "series": [
+      "pub-manifest",
+      "pwp",
+      "dpub-annotation-uc"
+    ]
+  },
+  {
+    "name": "Web Security UI",
+    "series": [
+      "UISecurity",
+      "wsc-ui",
+      "wsc-usecases",
+      "wsc-threats"
+    ]
+  },
+  {
+    "name": "Web Services",
+    "series": [
+      "ws-enumeration",
+      "ws-event-descriptions",
+      "ws-soap-assertions",
+      "ws-metadata-exchange",
+      "ws-eventing",
+      "ws-transfer",
+      "ws-fragment",
+      "ws-i18n-req",
+      "ws-i18n-scenarios",
+      "ws-arch-scenarios",
+      "wslc",
+      "wsa-reqs",
+      "ws-gloss",
+      "ws-arch"
+    ]
+  },
+  {
+    "name": "Web Services Addressing",
+    "series": [
+      "ws-addr-metadata",
+      "ws-addr-core",
+      "ws-addr-soap"
+    ]
+  },
+  {
+    "name": "Web Services Policy",
+    "series": [
+      "ws-policy-guidelines",
+      "ws-policy-primer",
+      "ws-policy",
+      "ws-policy-attach"
+    ]
+  },
+  {
+    "name": "Web Share API",
+    "series": [
+      "web-share"
+    ]
+  },
+  {
+    "name": "Web of Things",
+    "series": [
+      "wot-thing-description",
+      "wot-profile",
+      "wot-architecture",
+      "wot-scripting-api",
+      "wot-discovery",
+      "wot-binding-templates",
+      "wot-security"
+    ]
+  },
+  {
+    "name": "WebAssembly",
+    "series": [
+      "wasm-core",
+      "wasm-js-api",
+      "wasm-web-api"
+    ]
+  },
+  {
+    "name": "WebCGM",
+    "series": [
+      "WebCGM",
+      "cgm"
+    ]
+  },
+  {
+    "name": "WebCodecs",
+    "series": [
+      "webcodecs",
+      "webcodecs-avc-codec-registration"
+    ]
+  },
+  {
+    "name": "WebDriver",
+    "series": [
+      "webdriver"
+    ]
+  },
+  {
+    "name": "WebIDL",
+    "series": [
+      "WebIDL",
+      "WebIDL-Java"
+    ]
+  },
+  {
+    "name": "WebRTC",
+    "series": [
+      "webrtc",
+      "webrtc-svc",
+      "webrtc-stats",
+      "webrtc-nv-use-cases",
+      "webrtc-priority",
+      "webrtc-identity"
+    ]
+  },
+  {
+    "name": "WebSub",
+    "series": [
+      "websub"
+    ]
+  },
+  {
+    "name": "WebTransport",
+    "series": [
+      "webtransport"
+    ]
+  },
+  {
+    "name": "WebVTT",
+    "series": [
+      "webvtt"
+    ]
+  },
+  {
+    "name": "WebXR",
+    "series": [
+      "webxrlayers",
+      "webxr-hand-input",
+      "webxr",
+      "webxr-ar-module",
+      "webxr-gamepads-module"
+    ]
+  },
+  {
+    "name": "Webmention",
+    "series": [
+      "webmention"
+    ]
+  },
+  {
+    "name": "Widgets",
+    "series": [
+      "widgets-uri",
+      "widgets-reqs",
+      "widgets-land"
+    ]
+  },
+  {
+    "name": "Working with Time Zones",
+    "series": [
+      "timezone"
+    ]
+  },
+  {
+    "name": "XForms",
+    "series": [
+      "xforms",
+      "xforms-xpath",
+      "XForms-for-HTML",
+      "xforms-req",
+      "xforms-basic"
+    ]
+  },
+  {
+    "name": "XInclude",
+    "series": [
+      "xinclude",
+      "xinclude-requirements"
+    ]
+  },
+  {
+    "name": "XLink",
+    "series": [
+      "xlink",
+      "xlink-ext",
+      "xml-link-style",
+      "xlink2rdf",
+      "xlink-req",
+      "xlink-principles"
+    ]
+  },
+  {
+    "name": "XML",
+    "series": [
+      "xml-entity-names",
+      "xml-model",
+      "xml-stylesheet",
+      "xml-names",
+      "xmlbase",
+      "xml",
+      "leiri",
+      "xml-id",
+      "xml-infoset",
+      "xml-infoset-rdfs",
+      "schema-arch",
+      "xml-infoset-req",
+      "XML-FRAG-REQ",
+      "sgml-xml"
+    ]
+  },
+  {
+    "name": "XML Accessibility Guidelines",
+    "series": [
+      "xag"
+    ]
+  },
+  {
+    "name": "XML Canonicalization",
+    "series": [
+      "xml-c14n-testcases",
+      "xml-c14n",
+      "C14N-issues",
+      "xml-exc-c14n",
+      "xml-canonical-req"
+    ]
+  },
+  {
+    "name": "XML Encryption",
+    "series": [
+      "xmlenc-transform",
+      "xmlsec-algorithms",
+      "xmlsec-generic-hybrid",
+      "xmlenc-core",
+      "xmlenc-core-explain",
+      "xmlenc-core-interop",
+      "xml-encryption-req"
+    ]
+  },
+  {
+    "name": "XML Schema",
+    "series": [
+      "xmlschema",
+      "xsd-precisionDecimal",
+      "xsd-unicode-blocknames",
+      "xmlschema-ref",
+      "xmlschema-patterns-advanced",
+      "xmlschema-patterns",
+      "swbp-xsch-datatypes",
+      "xml-schema-req"
+    ]
+  },
+  {
+    "name": "XML Signature",
+    "series": [
+      "xmldsig-core",
+      "xmldsig-properties",
+      "xmldsig-bestpractices",
+      "xmlsec-rngschema",
+      "xmldsig-xpath",
+      "xmldsig-core-explain",
+      "xmlsec-reqs",
+      "xmldsig-core-interop",
+      "xmldsig-simplify",
+      "xmldsiged-tests",
+      "DSig-usage",
+      "xkms-pgp",
+      "xkms-wsdl",
+      "xkms",
+      "xkms-bindings",
+      "xkms-req",
+      "xmlenc-decrypt",
+      "xmldsig-filter"
+    ]
+  },
+  {
+    "name": "XProc",
+    "series": [
+      "xproc",
+      "xproc-steps",
+      "xml-proc-profiles",
+      "xproc-req",
+      "xproc-template",
+      "xproc-requirements",
+      "proc-model-req"
+    ]
+  },
+  {
+    "name": "XSL",
+    "series": [
+      "xslfo",
+      "xslfo-req",
+      "xsl"
+    ]
+  },
+  {
+    "name": "Xpointer",
+    "series": [
+      "xptr-framework",
+      "xptr-xmlns",
+      "xptr-element",
+      "xptr-infoset-liaison",
+      "xptr-req"
+    ]
+  },
+  {
+    "name": "Xquery & XSLT",
+    "series": [
+      "xquery-sx-requirements",
+      "xquery-sx-use-cases",
+      "xslt",
+      "xquery",
+      "xpath",
+      "xslt-xquery-serialization",
+      "xpath-datamodel",
+      "xqueryx",
+      "xpath-functions",
+      "xquery-update",
+      "xquery-update-requirements-use-cases",
+      "xquery-requirements",
+      "xpath-full-text-requirements-use-cases",
+      "xpath-full-text",
+      "xquery-sx",
+      "xquery-use-cases",
+      "xquery-update-requirements",
+      "xpath-full-text-requirements",
+      "xpath-full-text-use-cases",
+      "xquery-update-use-cases",
+      "xquery-semantics",
+      "xslt-requirements"
+    ]
+  }
 ]
-
