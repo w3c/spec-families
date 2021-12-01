@@ -3,6 +3,7 @@
     "name": "ATAG",
     "series": [
       "ATAG",
+      "ATAG-wombat",
       "IMPLEMENTING-ATAG"
     ]
   },
@@ -19,21 +20,34 @@
       "coga-user-research",
       "low-vision-needs",
       "media-accessibility-reqs",
+      "naur",
       "raur",
+      "saur",
       "xaur"
     ]
   },
   {
-    "name": "Activity Streams",
+    "name": "Accessibility of content",
     "series": [
-      "activitystreams-core",
-      "activitystreams-vocabulary"
+      "UNDERSTANDING-WCAG",
+      "WCAG",
+      "WCAG-CORE-TECHS",
+      "WCAG-EM",
+      "WCAG-TECHS",
+      "accessibility-conformance-challenges",
+      "coga-gap-analysis",
+      "coga-usable",
+      "mobile-accessibility-mapping",
+      "wai-age-literature",
+      "wcag-ext-req",
+      "wcag-requirements",
+      "wcag2ict"
     ]
   },
   {
-    "name": "ActivityPub",
+    "name": "Accessibility of Remote Meetings",
     "series": [
-      "activitypub"
+      "remote-meetings"
     ]
   },
   {
@@ -67,12 +81,6 @@
     ]
   },
   {
-    "name": "Best Practices for XML Internationalization",
-    "series": [
-      "xml-i18n-bp"
-    ]
-  },
-  {
     "name": "CC/PP",
     "series": [
       "CCPP",
@@ -87,6 +95,12 @@
     ]
   },
   {
+    "name": "COWL",
+    "series": [
+      "COWL"
+    ]
+  },
+  {
     "name": "CSP",
     "series": [
       "CSP",
@@ -96,7 +110,8 @@
   {
     "name": "CSS",
     "series": [
-      "CSS"
+      "CSS",
+      "css-roadmap"
     ]
   },
   {
@@ -114,7 +129,8 @@
   {
     "name": "CSS Backgrounds and Borders",
     "series": [
-      "css-backgrounds"
+      "css-backgrounds",
+      "css-border"
     ]
   },
   {
@@ -234,7 +250,8 @@
   {
     "name": "CSS Fonts",
     "series": [
-      "css-fonts"
+      "css-fonts",
+      "font"
     ]
   },
   {
@@ -270,7 +287,8 @@
   {
     "name": "CSS Inline Layout",
     "series": [
-      "css-inline"
+      "css-inline",
+      "css-linebox"
     ]
   },
   {
@@ -444,6 +462,7 @@
   {
     "name": "CSS Syntax",
     "series": [
+      "css-nesting",
       "css-syntax"
     ]
   },
@@ -474,6 +493,8 @@
   {
     "name": "CSS Transforms",
     "series": [
+      "css-2d-transforms",
+      "css-3d-transforms",
       "css-transforms"
     ]
   },
@@ -556,13 +577,18 @@
   {
     "name": "DCAT",
     "series": [
+      "dcat-ucr",
+      "vocab-adms",
       "vocab-dcat"
     ]
   },
   {
     "name": "DID",
     "series": [
+      "did-cbor-representation",
       "did-core",
+      "did-imp-guide",
+      "did-rubric",
       "did-spec-registries",
       "did-use-cases"
     ]
@@ -588,15 +614,13 @@
   {
     "name": "Dataset exchange",
     "series": [
-      "dcat-ucr",
       "dx-prof",
       "dx-prof-conneg",
-      "vocab-adms",
       "void"
     ]
   },
   {
-    "name": "Device API",
+    "name": "Device API Requirements",
     "series": [
       "dap-api-reqs",
       "dap-policy-reqs",
@@ -647,6 +671,7 @@
     "name": "Digital Publishing",
     "series": [
       "dpub-accessibility",
+      "dpub-annotation-uc",
       "dpub-css-priorities",
       "dpub-metadata"
     ]
@@ -685,8 +710,10 @@
       "eme-initdata-cenc",
       "eme-initdata-keyids",
       "eme-initdata-registry",
+      "eme-initdata-webm",
       "eme-stream-mp4",
       "eme-stream-registry",
+      "eme-stream-webm",
       "encrypted-media"
     ]
   },
@@ -703,9 +730,13 @@
     "series": [
       "epub",
       "epub-a11y",
+      "epub-a11y-eaa-mapping",
       "epub-a11y-tech",
+      "epub-multi-rend",
       "epub-overview",
-      "epub-rs"
+      "epub-rs",
+      "epub-ssv",
+      "epub-tts"
     ]
   },
   {
@@ -783,7 +814,9 @@
     "series": [
       "covjson-overview",
       "eo-qb",
+      "poi-core",
       "qb4st",
+      "responsible-use-spatial",
       "sdw-bp",
       "sdw-ucr"
     ]
@@ -806,6 +839,7 @@
       "CX",
       "S6Group2",
       "XHTMLplusSMIL",
+      "Window",
       "backplane",
       "html",
       "html-author",
@@ -828,6 +862,7 @@
       "respimg-usecases",
       "ruby",
       "ruby-use-cases",
+      "web-forms",
       "xbl-primer",
       "xh",
       "xhtml-media-types",
@@ -851,6 +886,13 @@
     "name": "Inaccessibility of CAPTCHA",
     "series": [
       "turingtest"
+    ]
+  },
+  {
+    "name": "Incremental Font Transfer",
+    "series": [
+      "IFT",
+      "PFE-evaluation"
     ]
   },
   {
@@ -887,9 +929,14 @@
     ]
   },
   {
-    "name": "Internationalization Best Practices for Spec Developers",
+    "name": "Internationalization for Spec Developers",
     "series": [
-      "international-specs"
+      "i18n-glossary",
+      "international-specs",
+      "localizable-manifests",
+      "ltli",
+      "string-meta",
+      "xml-i18n-bp"
     ]
   },
   {
@@ -955,12 +1002,6 @@
     ]
   },
   {
-    "name": "Language Tags and Locale Identifiers for the World Wide Web",
-    "series": [
-      "ltli"
-    ]
-  },
-  {
     "name": "Lightweight Packaging Format (LPF)",
     "series": [
       "lpf"
@@ -969,7 +1010,6 @@
   {
     "name": "Linked Data Platform",
     "series": [
-      "ldn",
       "ldp",
       "ldp-acr",
       "ldp-bp",
@@ -977,12 +1017,6 @@
       "ldp-primer",
       "ldp-ucr",
       "ldpatch"
-    ]
-  },
-  {
-    "name": "Long Tasks API",
-    "series": [
-      "longtasks"
     ]
   },
   {
@@ -1011,8 +1045,6 @@
   {
     "name": "MSE",
     "series": [
-      "eme-initdata-webm",
-      "eme-stream-webm",
       "media-source",
       "mse-byte-stream-format-isobmff",
       "mse-byte-stream-format-mp2t",
@@ -1033,6 +1065,7 @@
       "MathML",
       "arabic-math",
       "mathml-bvar",
+      "mathml-core",
       "mathml-for-css",
       "mathml-types",
       "mathml-units"
@@ -1054,7 +1087,6 @@
       "mediacapture-streams",
       "mediastream-recording",
       "mst-content-hint",
-      "openscreenprotocol",
       "screen-capture"
     ]
   },
@@ -1081,7 +1113,7 @@
     ]
   },
   {
-    "name": "Media Session Standard",
+    "name": "Media Session",
     "series": [
       "mediasession"
     ]
@@ -1090,12 +1122,6 @@
     "name": "Media Timed Events",
     "series": [
       "media-timed-events"
-    ]
-  },
-  {
-    "name": "Micropub",
-    "series": [
-      "micropub"
     ]
   },
   {
@@ -1110,7 +1136,8 @@
   {
     "name": "Mixed Content",
     "series": [
-      "mixed-content"
+      "mixed-content",
+      "upgrade-insecure-requests"
     ]
   },
   {
@@ -1123,10 +1150,7 @@
       "mobileOK",
       "mobileOK-basic-tests",
       "mwabp",
-      "mwbp-wcag",
-      "powder-dr",
-      "powder-formal",
-      "powder-grouping"
+      "mwbp-wcag"
     ]
   },
   {
@@ -1142,10 +1166,25 @@
     ]
   },
   {
+    "name": "Multi-screen support",
+    "series": [
+      "openscreenprotocol",
+      "presentation-api",
+      "remote-playback"
+    ]
+  },
+  {
+    "name": "Network Error Logging",
+    "series": [
+      "network-error-logging"
+    ]
+  },
+  {
     "name": "ODRL",
     "series": [
       "odrl-model",
-      "odrl-vocab"
+      "odrl-vocab",
+      "poe-ucr"
     ]
   },
   {
@@ -1203,14 +1242,11 @@
     ]
   },
   {
-    "name": "POE",
-    "series": [
-      "poe-ucr"
-    ]
-  },
-  {
     "name": "POWDER",
     "series": [
+      "powder-dr",
+      "powder-formal",
+      "powder-grouping",
       "powder-primer",
       "powder-test",
       "powder-use-cases"
@@ -1241,15 +1277,10 @@
     ]
   },
   {
-    "name": "Payment Request API",
-    "series": [
-      "payment-request"
-    ]
-  },
-  {
     "name": "Performance instrumentation",
     "series": [
       "hr-time",
+      "longtasks",
       "navigation-timing",
       "paint-timing",
       "performance-timeline",
@@ -1263,12 +1294,7 @@
   {
     "name": "Permissions",
     "series": [
-      "permissions"
-    ]
-  },
-  {
-    "name": "Permissions Policy",
-    "series": [
+      "permissions",
       "permissions-policy"
     ]
   },
@@ -1295,29 +1321,16 @@
     ]
   },
   {
+    "name": "Pointer and Touch Events",
+    "series": [
+      "pointerevents",
+      "touch-events"
+    ]
+  },
+  {
     "name": "Post-Spectre",
     "series": [
       "post-spectre-webdev"
-    ]
-  },
-  {
-    "name": "Preload",
-    "series": [
-      "preload"
-    ]
-  },
-  {
-    "name": "Presentation API",
-    "series": [
-      "presentation-api"
-    ]
-  },
-  {
-    "name": "Pronunciation",
-    "series": [
-      "pronunciation-explainer",
-      "pronunciation-gap-analysis-and-use-cases",
-      "pronunciation-user-scenarios"
     ]
   },
   {
@@ -1391,6 +1404,7 @@
       "rdfa-core",
       "rdfa-lite",
       "rdfa-primer",
+      "rdfa-syntax",
       "xhtml-rdfa"
     ]
   },
@@ -1418,18 +1432,6 @@
     ]
   },
   {
-    "name": "Remote Playback API",
-    "series": [
-      "remote-playback"
-    ]
-  },
-  {
-    "name": "Reporting",
-    "series": [
-      "network-error-logging"
-    ]
-  },
-  {
     "name": "Resize Observer",
     "series": [
       "resize-observer"
@@ -1438,6 +1440,7 @@
   {
     "name": "Resource Hints",
     "series": [
+      "preload",
       "resource-hints"
     ]
   },
@@ -1469,7 +1472,9 @@
     "series": [
       "skos-primer",
       "skos-reference",
-      "skos-ucr"
+      "skos-ucr",
+      "swbp-skos-core-guide",
+      "swbp-skos-core-spec"
     ]
   },
   {
@@ -1530,9 +1535,18 @@
     ]
   },
   {
-    "name": "SRGS",
+    "name": "Speech Recognition Grammar",
     "series": [
       "speech-grammar"
+    ]
+  },
+  {
+    "name": "Spoken Presentation in HTML",
+    "series": [
+      "pronunciation-explainer",
+      "pronunciation-gap-analysis-and-use-cases",
+      "pronunciation-user-scenarios",
+      "spoken-html"
     ]
   },
   {
@@ -1550,6 +1564,7 @@
       "SVG-Transforms",
       "SVGColor",
       "SVGColorPrimer",
+      "SVGCompositing",
       "SVGFilter",
       "SVGFilterPrimer",
       "SVGParam",
@@ -1566,7 +1581,8 @@
   {
     "name": "Screen Wake Lock API",
     "series": [
-      "screen-wake-lock"
+      "screen-wake-lock",
+      "wake-lock-use-cases"
     ]
   },
   {
@@ -1621,23 +1637,18 @@
     ]
   },
   {
-    "name": "Social Web",
+    "name": "Social Web Protocols",
     "series": [
+      "activitypub",
+      "activitystreams-core",
+      "activitystreams-vocabulary",
       "jf2",
+      "ldn",
+      "micropub",
       "post-type-discovery",
-      "social-web-protocols"
-    ]
-  },
-  {
-    "name": "Spatial Data",
-    "series": [
-      "responsible-use-spatial"
-    ]
-  },
-  {
-    "name": "Strings on the Web: Language and Direction Metadata",
-    "series": [
-      "string-meta"
+      "social-web-protocols",
+      "webmention",
+      "websub"
     ]
   },
   {
@@ -1647,63 +1658,9 @@
     ]
   },
   {
-    "name": "TBD",
-    "series": [
-      "ATAG-wombat",
-      "COWL",
-      "IFT",
-      "SVGCompositing",
-      "WGSL",
-      "Window",
-      "audio-eq-cookbook",
-      "audioproc",
-      "coga-usable",
-      "css-2d-transforms",
-      "css-3d-transforms",
-      "css-border",
-      "css-linebox",
-      "css-nesting",
-      "css-roadmap",
-      "did-cbor-representation",
-      "did-imp-guide",
-      "did-rubric",
-      "epub-a11y-eaa-mapping",
-      "epub-multi-rend",
-      "epub-ssv",
-      "epub-tts",
-      "font",
-      "i18n-glossary",
-      "imsc-hrm",
-      "localizable-manifests",
-      "mathml-core",
-      "naur",
-      "poi-core",
-      "pointerevents",
-      "rdfa-syntax",
-      "remote-meetings",
-      "saur",
-      "secure-payment-confirmation",
-      "spoken-html",
-      "swbp-skos-core-guide",
-      "swbp-skos-core-spec",
-      "virtual-keyboard",
-      "viss-core",
-      "viss-transport",
-      "web-forms",
-      "webcodecs-codec-registry",
-      "webgpu",
-      "webnn",
-      "webrtc-encoded-transform",
-      "webxr-depth-sensing",
-      "webxr-dom-overlays",
-      "webxr-hit-test",
-      "webxr-lighting-estimation",
-      "wot-usecases"
-    ]
-  },
-  {
     "name": "TTML",
     "series": [
+      "imsc-hrm",
       "imsc-reqs",
       "ttaf-req",
       "ttml",
@@ -1761,12 +1718,6 @@
     ]
   },
   {
-    "name": "Touch Events",
-    "series": [
-      "touch-events"
-    ]
-  },
-  {
     "name": "UAAG",
     "series": [
       "UAAG",
@@ -1784,15 +1735,11 @@
     ]
   },
   {
-    "name": "Upgrade Insecure Requests",
-    "series": [
-      "upgrade-insecure-requests"
-    ]
-  },
-  {
     "name": "Vehicle Information Service Specification",
     "series": [
-      "vehicle-information-service"
+      "vehicle-information-service",
+      "viss-core",
+      "viss-transport"
     ]
   },
   {
@@ -1807,6 +1754,12 @@
     "name": "Vibration API",
     "series": [
       "vibration"
+    ]
+  },
+  {
+    "name": "VirtualKeyboard API",
+    "series": [
+      "virtual-keyboard"
     ]
   },
   {
@@ -1838,23 +1791,6 @@
     ]
   },
   {
-    "name": "WCAG",
-    "series": [
-      "UNDERSTANDING-WCAG",
-      "WCAG",
-      "WCAG-CORE-TECHS",
-      "WCAG-EM",
-      "WCAG-TECHS",
-      "accessibility-conformance-challenges",
-      "coga-gap-analysis",
-      "mobile-accessibility-mapping",
-      "wai-age-literature",
-      "wcag-ext-req",
-      "wcag-requirements",
-      "wcag2ict"
-    ]
-  },
-  {
     "name": "WICD",
     "series": [
       "CDFReqs",
@@ -1864,7 +1800,6 @@
   {
     "name": "WOFF",
     "series": [
-      "PFE-evaluation",
       "WOFF",
       "WOFFER"
     ]
@@ -1882,12 +1817,6 @@
       "wsdl-rdf",
       "wsdl-soap-binding",
       "wsdlelementidentifiers"
-    ]
-  },
-  {
-    "name": "Wake lock",
-    "series": [
-      "wake-lock-use-cases"
     ]
   },
   {
@@ -1939,6 +1868,8 @@
   {
     "name": "Web Audio API",
     "series": [
+      "audio-eq-cookbook",
+      "audioproc",
       "webaudio",
       "webaudio-usecases"
     ]
@@ -1963,6 +1894,12 @@
     ]
   },
   {
+    "name": "Web Neural Network API",
+    "series": [
+      "webnn"
+    ]
+  },
+  {
     "name": "Web Payments",
     "series": [
       "htr",
@@ -1970,13 +1907,14 @@
       "payment-handler",
       "payment-method-id",
       "payment-method-manifest",
+      "payment-request",
+      "secure-payment-confirmation",
       "webpayments-overview"
     ]
   },
   {
     "name": "Web Publications",
     "series": [
-      "dpub-annotation-uc",
       "pub-manifest",
       "pwp"
     ]
@@ -2041,7 +1979,8 @@
       "wot-profile",
       "wot-scripting-api",
       "wot-security",
-      "wot-thing-description"
+      "wot-thing-description",
+      "wot-usecases"
     ]
   },
   {
@@ -2063,13 +2002,21 @@
     "name": "WebCodecs",
     "series": [
       "webcodecs",
-      "webcodecs-avc-codec-registration"
+      "webcodecs-avc-codec-registration",
+      "webcodecs-codec-registry"
     ]
   },
   {
     "name": "WebDriver",
     "series": [
       "webdriver"
+    ]
+  },
+  {
+    "name": "WebGPU",
+    "series": [
+      "webgpu",
+      "WGSL"
     ]
   },
   {
@@ -2083,17 +2030,12 @@
     "name": "WebRTC",
     "series": [
       "webrtc",
+      "webrtc-encoded-transform",
       "webrtc-identity",
       "webrtc-nv-use-cases",
       "webrtc-priority",
       "webrtc-stats",
       "webrtc-svc"
-    ]
-  },
-  {
-    "name": "WebSub",
-    "series": [
-      "websub"
     ]
   },
   {
@@ -2113,15 +2055,13 @@
     "series": [
       "webxr",
       "webxr-ar-module",
+      "webxr-depth-sensing",
+      "webxr-dom-overlays",
       "webxr-gamepads-module",
       "webxr-hand-input",
-      "webxrlayers"
-    ]
-  },
-  {
-    "name": "Webmention",
-    "series": [
-      "webmention"
+      "webxr-hit-test",
+      "webxrlayers",
+      "webxr-lighting-estimation"
     ]
   },
   {
