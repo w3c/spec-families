@@ -37,8 +37,11 @@
       "accessibility-conformance-challenges",
       "coga-gap-analysis",
       "coga-usable",
+      "ctaur",
+      "maturity-model",
       "mobile-accessibility-mapping",
       "wai-age-literature",
+      "wcag-explainer",
       "wcag-ext-req",
       "wcag-requirements",
       "wcag2ict"
@@ -60,6 +63,12 @@
     "name": "Audiobooks",
     "series": [
       "audiobooks"
+    ]
+  },
+  {
+    "name": "Autoplay Policy Detection",
+    "series": [
+      "autoplay-detection"
     ]
   },
   {
@@ -251,7 +260,8 @@
     "name": "CSS Fonts",
     "series": [
       "css-fonts",
-      "font"
+      "font",
+      "font-rationale"
     ]
   },
   {
@@ -511,6 +521,12 @@
     ]
   },
   {
+    "name": "CSS View Transitions",
+    "series": [
+      "css-view-transitions"
+    ]
+  },
+  {
     "name": "CSS Will Change",
     "series": [
       "css-will-change"
@@ -560,6 +576,18 @@
     "name": "Compositing and Blending",
     "series": [
       "compositing"
+    ]
+  },
+  {
+    "name": "Compute Pressure API",
+    "series": [
+      "compute-pressure"
+    ]
+  },
+  {
+    "name": "Contact Picker API",
+    "series": [
+      "contact-picker"
     ]
   },
   {
@@ -702,6 +730,12 @@
     "series": [
       "egov-improving",
       "gov-data"
+    ]
+  },
+  {
+    "name": "Edit Context API",
+    "series": [
+      "edit-context"
     ]
   },
   {
@@ -973,6 +1007,8 @@
     "series": [
       "adlm-gap",
       "alreq-gap",
+      "arab-ks-gap",
+      "arab-ug-gap",
       "beng-gap",
       "cans-iu-cr-gap",
       "cher-gap",
@@ -1067,6 +1103,7 @@
       "mathml-bvar",
       "mathml-core",
       "mathml-for-css",
+      "mathml-media-types",
       "mathml-types",
       "mathml-units"
     ]
@@ -1080,12 +1117,16 @@
   {
     "name": "Media Capture",
     "series": [
+      "capture-handle-identity",
       "capture-scenarios",
       "image-capture",
       "mediacapture-depth",
       "mediacapture-fromelement",
+      "mediacapture-region",
       "mediacapture-streams",
+      "mediacapture-transform",
       "mediastream-recording",
+      "mediastream-viewport",
       "mst-content-hint",
       "screen-capture"
     ]
@@ -1128,9 +1169,11 @@
     "name": "MiniApp",
     "series": [
       "mini-app-white-paper",
+      "miniapp-addressing",
       "miniapp-lifecycle",
       "miniapp-manifest",
-      "miniapp-packaging"
+      "miniapp-packaging",
+      "miniapp-widget-req"
     ]
   },
   {
@@ -1170,7 +1213,8 @@
     "series": [
       "openscreenprotocol",
       "presentation-api",
-      "remote-playback"
+      "remote-playback",
+      "window-placement"
     ]
   },
   {
@@ -1277,9 +1321,17 @@
     ]
   },
   {
+    "name": "Password",
+    "series": [
+      "change-password-url"
+    ]
+  },
+  {
     "name": "Performance instrumentation",
     "series": [
+      "event-timing",
       "hr-time",
+      "largest-contentful-paint",
       "longtasks",
       "navigation-timing",
       "paint-timing",
@@ -1365,6 +1417,7 @@
       "ld-glossary",
       "n-quads",
       "n-triples",
+      "rdf-canon",
       "rdf-concepts",
       "rdf-datasets",
       "rdf-json",
@@ -1586,6 +1639,12 @@
     ]
   },
   {
+    "name": "Scroll-linked Animations",
+    "series": [
+      "scroll-animations"
+    ]
+  },
+  {
     "name": "Secure Contexts",
     "series": [
       "secure-contexts"
@@ -1660,6 +1719,7 @@
   {
     "name": "TTML",
     "series": [
+      "dapt-reqs",
       "imsc-hrm",
       "imsc-reqs",
       "ttaf-req",
@@ -1694,6 +1754,7 @@
       "clreq",
       "dpub-latinreq",
       "elreq",
+      "guru-lreq",
       "ilreq",
       "ilreq-taml",
       "jlreq",
@@ -1715,6 +1776,12 @@
       "owl-time",
       "vocab-owl-time-agg",
       "vocab-owl-time-rel"
+    ]
+  },
+  {
+    "name": "Trusted Types",
+    "series": [
+      "trusted-types"
     ]
   },
   {
@@ -1743,10 +1810,19 @@
     ]
   },
   {
+    "name": "Vehicle Signal Service Specification",
+    "series": [
+      "vsso",
+      "vsso-core"
+    ]
+  },
+  {
     "name": "Verifiable Credentials",
     "series": [
       "vc-data-model",
+      "vc-data-integrity",
       "vc-imp-guide",
+      "vc-jws",
       "vc-use-cases"
     ]
   },
@@ -1768,6 +1844,12 @@
       "voice",
       "voicexml",
       "vxmlreqs"
+    ]
+  },
+  {
+    "name": "W3C Alternative and Augmented Communication Symbol Registry",
+    "series": [
+      "aac-registry"
     ]
   },
   {
@@ -1842,9 +1924,10 @@
     ]
   },
   {
-    "name": "Web Application Privacy Best Practices",
+    "name": "Web Application Privacy",
     "series": [
-      "app-privacy-bp"
+      "app-privacy-bp",
+      "privacy-principles"
     ]
   },
   {
@@ -1885,6 +1968,19 @@
     "series": [
       "WebCryptoAPI",
       "webcrypto-usecases"
+    ]
+  },
+  {
+    "name": "Web Ethics",
+    "series": [
+      "ethical-web-principles",
+      "webmachinelearning-ethics"
+    ]
+  },
+  {
+    "name": "Web Locks API",
+    "series": [
+      "web-locks"
     ]
   },
   {
@@ -2002,8 +2098,20 @@
     "name": "WebCodecs",
     "series": [
       "webcodecs",
+      "webcodecs-aac-codec-registration",
+      "webcodecs-alaw-codec-registration",
+      "webcodecs-av1-codec-registration",
       "webcodecs-avc-codec-registration",
-      "webcodecs-codec-registry"
+      "webcodecs-codec-registry",
+      "webcodecs-flac-codec-registration",
+      "webcodecs-hevc-codec-registration",
+      "webcodecs-mp3-codec-registration",
+      "webcodecs-opus-codec-registration",
+      "webcodecs-pcm-codec-registration",
+      "webcodecs-ulaw-codec-registration",
+      "webcodecs-vorbis-codec-registration",
+      "webcodecs-vp8-codec-registration",
+      "webcodecs-vp9-codec-registration"
     ]
   },
   {
