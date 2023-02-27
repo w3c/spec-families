@@ -1,7 +1,6 @@
-on:
-  push:
-    branches:
-      - main
+name: families validation
+
+on: [push, pull_request_target]
 
 jobs:
   validate:
@@ -14,13 +13,13 @@ jobs:
         uses: actions/setup-node@v2
 
       - run: npm install
-      
+
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./schema.json
           INPUT_JSONS: ./families.json
-      
+
       - name: Validate JSON part 2
         run: node validator.js
         env:
