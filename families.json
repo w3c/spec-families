@@ -926,7 +926,8 @@
     "name": "Incremental Font Transfer",
     "series": [
       "IFT",
-      "PFE-evaluation"
+      "PFE-evaluation",
+      "RangeRequest"
     ]
   },
   {
@@ -976,8 +977,6 @@
   {
     "name": "Internationalization for HTML",
     "series": [
-      "i18n-html-tech-bidi",
-      "i18n-html-tech-lang",
       "predefined-counter-styles"
     ]
   },
@@ -1120,13 +1119,12 @@
       "capture-handle-identity",
       "capture-scenarios",
       "image-capture",
-      "mediacapture-depth",
       "mediacapture-fromelement",
       "mediacapture-region",
       "mediacapture-streams",
       "mediacapture-transform",
+      "mediacapture-viewport",
       "mediastream-recording",
-      "mediastream-viewport",
       "mst-content-hint",
       "screen-capture"
     ]
@@ -1281,7 +1279,7 @@
   {
     "name": "PNG",
     "series": [
-      "PNG",
+      "png",
       "png-hdr-pq"
     ]
   },
@@ -1348,16 +1346,6 @@
     "series": [
       "permissions",
       "permissions-policy"
-    ]
-  },
-  {
-    "name": "Personalization semantics",
-    "series": [
-      "personalization-semantics",
-      "personalization-semantics-content",
-      "personalization-semantics-help",
-      "personalization-semantics-requirements",
-      "personalization-semantics-tools"
     ]
   },
   {
@@ -1493,7 +1481,6 @@
   {
     "name": "Resource Hints",
     "series": [
-      "preload",
       "resource-hints"
     ]
   },
@@ -1730,12 +1717,6 @@
     ]
   },
   {
-    "name": "TV Broadcast URI Schemes Requirements",
-    "series": [
-      "TVWeb-URI-Requirements"
-    ]
-  },
-  {
     "name": "Tabular Data",
     "series": [
       "csv2json",
@@ -1804,7 +1785,6 @@
   {
     "name": "Vehicle Information Service Specification",
     "series": [
-      "vehicle-information-service",
       "viss-core",
       "viss-transport"
     ]
@@ -1868,15 +1848,17 @@
       "using-aria",
       "wai-aria",
       "wai-aria-implementation",
-      "wai-aria-practices",
       "wai-aria-roadmap"
     ]
   },
   {
-    "name": "WICD",
+    "name": "WAI-Adapt module",
     "series": [
-      "CDFReqs",
-      "CDRReqs"
+      "adapt",
+      "adapt-symbols",
+      "adapt-help",
+      "adapt-requirements",
+      "adapt-tools"
     ]
   },
   {
