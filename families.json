@@ -124,18 +124,6 @@
     ]
   },
   {
-    "name": "CSS Animation Worklet API",
-    "series": [
-      "css-animation-worklet"
-    ]
-  },
-  {
-    "name": "CSS Animations",
-    "series": [
-      "css-animations"
-    ]
-  },
-  {
     "name": "CSS Backgrounds and Borders",
     "series": [
       "css-backgrounds",
@@ -1116,17 +1104,13 @@
   {
     "name": "Media Capture",
     "series": [
-      "capture-handle-identity",
       "capture-scenarios",
       "image-capture",
       "mediacapture-fromelement",
-      "mediacapture-region",
       "mediacapture-streams",
       "mediacapture-transform",
-      "mediacapture-viewport",
       "mediastream-recording",
-      "mst-content-hint",
-      "screen-capture"
+      "mst-content-hint"
     ]
   },
   {
@@ -1319,7 +1303,7 @@
     ]
   },
   {
-    "name": "Password",
+    "name": "Password Management",
     "series": [
       "change-password-url"
     ]
@@ -1619,16 +1603,19 @@
     ]
   },
   {
+    "name": "Screen Capture",
+    "series": [
+      "capture-handle-identity",
+      "mediacapture-region",
+      "mediacapture-viewport",
+      "screen-capture"
+    ]
+  },
+  {
     "name": "Screen Wake Lock API",
     "series": [
       "screen-wake-lock",
       "wake-lock-use-cases"
-    ]
-  },
-  {
-    "name": "Scroll-linked Animations",
-    "series": [
-      "scroll-animations"
     ]
   },
   {
@@ -1827,12 +1814,6 @@
     ]
   },
   {
-    "name": "W3C Alternative and Augmented Communication Symbol Registry",
-    "series": [
-      "aac-registry"
-    ]
-  },
-  {
     "name": "WAI-ARIA",
     "series": [
       "accname",
@@ -1854,6 +1835,7 @@
   {
     "name": "WAI-Adapt module",
     "series": [
+      "aac-registry",
       "adapt",
       "adapt-symbols",
       "adapt-help",
@@ -1886,6 +1868,9 @@
   {
     "name": "Web Animations",
     "series": [
+      "css-animations",
+      "css-animation-worklet",
+      "scroll-animations",
       "web-animations"
     ]
   },
@@ -1953,7 +1938,7 @@
     ]
   },
   {
-    "name": "Web Ethics",
+    "name": "Ethics for the Web",
     "series": [
       "ethical-web-principles",
       "webmachinelearning-ethics"
