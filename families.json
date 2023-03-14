@@ -689,7 +689,8 @@
       "dpub-accessibility",
       "dpub-annotation-uc",
       "dpub-css-priorities",
-      "dpub-metadata"
+      "dpub-metadata",
+      "epub-aria-authoring"
     ]
   },
   {
