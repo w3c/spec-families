@@ -1464,12 +1464,6 @@
     ]
   },
   {
-    "name": "Resource Hints",
-    "series": [
-      "resource-hints"
-    ]
-  },
-  {
     "name": "SCXML",
     "series": [
       "scxml",
