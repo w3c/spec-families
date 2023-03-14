@@ -689,7 +689,8 @@
       "dpub-accessibility",
       "dpub-annotation-uc",
       "dpub-css-priorities",
-      "dpub-metadata"
+      "dpub-metadata",
+      "epub-aria-authoring"
     ]
   },
   {
@@ -1460,12 +1461,6 @@
     "name": "Resize Observer",
     "series": [
       "resize-observer"
-    ]
-  },
-  {
-    "name": "Resource Hints",
-    "series": [
-      "resource-hints"
     ]
   },
   {
