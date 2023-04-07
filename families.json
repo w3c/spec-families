@@ -72,6 +72,12 @@
     ]
   },
   {
+    "name": "Badging API",
+    "series": [
+      "badging"
+    ]
+  },
+  {
     "name": "Battery Status API",
     "series": [
       "battery-status"
