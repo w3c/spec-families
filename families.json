@@ -80,7 +80,7 @@
   {
     "name": "Battery Status API",
     "series": [
-      "badging"
+      "battery-status"
     ]
   },
   {
