@@ -1694,6 +1694,7 @@
   {
     "name": "TTML",
     "series": [
+      "dapt",
       "dapt-reqs",
       "imsc-hrm",
       "imsc-reqs",
@@ -1789,6 +1790,8 @@
     "series": [
       "vc-data-model",
       "vc-data-integrity",
+      "vc-di-ecdsa",
+      "vc-di-eddsa",
       "vc-imp-guide",
       "vc-jws",
       "vc-use-cases"
