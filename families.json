@@ -1794,6 +1794,8 @@
       "vc-di-eddsa",
       "vc-imp-guide",
       "vc-jws",
+      "vc-jwt",
+      "vc-status-list",
       "vc-use-cases"
     ]
   },
