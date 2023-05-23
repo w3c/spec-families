@@ -1793,6 +1793,7 @@
       "vc-di-ecdsa",
       "vc-di-eddsa",
       "vc-imp-guide",
+      "vc-json-schema",
       "vc-jws",
       "vc-jwt",
       "vc-status-list",
