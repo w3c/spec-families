@@ -1790,6 +1790,7 @@
     "series": [
       "vc-data-model",
       "vc-data-integrity",
+      "vc-di-bbs",
       "vc-di-ecdsa",
       "vc-di-eddsa",
       "vc-imp-guide",
