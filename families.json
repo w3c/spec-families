@@ -1394,27 +1394,27 @@
     "name": "RDF",
     "series": [
       "ld-glossary",
-      "n-quads",
-      "n-triples",
       "rdf-canon",
       "rdf-concepts",
       "rdf-datasets",
       "rdf-json",
       "rdf-mt",
+      "rdf-n-quads",
+      "rdf-n-triples",
       "rdf-new",
       "rdf-plain-literal",
       "rdf-primer",
       "rdf-schema",
-      "rdf-syntax-grammar",
       "rdf-testcases",
+      "rdf-trig",
+      "rdf-turtle",
       "rdf-uml",
+      "rdf-xml",
       "rdftm-survey",
       "sw-oosd-primer",
       "swbp-classes-as-values",
       "swbp-n-aryRelations",
-      "swbp-vocab-pub",
-      "trig",
-      "turtle"
+      "swbp-vocab-pub"
     ]
   },
   {
@@ -1541,20 +1541,20 @@
   {
     "name": "SPARQL",
     "series": [
-      "rdf-sparql-XMLres",
       "rdf-sparql-json-res",
       "rdf-sparql-protocol",
       "rdf-sparql-query",
       "sparql-entailment",
       "sparql-features",
       "sparql-federated-query",
-      "sparql-http-rdf-update",
+      "sparql-graph-store-protocol",
       "sparql-overview",
       "sparql-property-paths",
       "sparql-protocol",
       "sparql-query",
       "sparql-results-csv-tsv",
       "sparql-results-json",
+      "sparql-results-xml",
       "sparql-service-description",
       "sparql-update"
     ]
