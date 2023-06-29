@@ -130,6 +130,12 @@
     ]
   },
   {
+    "name": "CSS Anchor Positioning",
+    "series": [
+      "css-anchor-position"
+    ]
+  },
+  {
     "name": "CSS Backgrounds and Borders",
     "series": [
       "css-backgrounds",
@@ -876,7 +882,6 @@
       "html-data-guide",
       "html-design-principles",
       "html-diff",
-      "html-imports",
       "html-longdesc",
       "html-main-element",
       "html-markup",
@@ -1542,8 +1547,6 @@
     "name": "SPARQL",
     "series": [
       "rdf-sparql-json-res",
-      "rdf-sparql-protocol",
-      "rdf-sparql-query",
       "sparql-entailment",
       "sparql-features",
       "sparql-federated-query",
