@@ -132,7 +132,7 @@
   {
     "name": "CSS Anchor Positioning",
     "series": [
-      "css-ancho-position"
+      "css-anchor-position"
     ]
   },
   {
@@ -1548,8 +1548,6 @@
     "name": "SPARQL",
     "series": [
       "rdf-sparql-json-res",
-      "rdf-sparql-protocol",
-      "rdf-sparql-query",
       "sparql-entailment",
       "sparql-features",
       "sparql-federated-query",
