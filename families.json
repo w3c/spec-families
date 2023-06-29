@@ -130,6 +130,12 @@
     ]
   },
   {
+    "name": "CSS Anchor Positioning",
+    "series": [
+      "css-ancho-position"
+    ]
+  },
+  {
     "name": "CSS Backgrounds and Borders",
     "series": [
       "css-backgrounds",
