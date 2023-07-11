@@ -1310,12 +1310,6 @@
     ]
   },
   {
-    "name": "Page Visibility",
-    "series": [
-      "page-visibility"
-    ]
-  },
-  {
     "name": "Password Management",
     "series": [
       "change-password-url"
@@ -2110,7 +2104,6 @@
   {
     "name": "WebIDL",
     "series": [
-      "WebIDL",
       "WebIDL-Java"
     ]
   },
