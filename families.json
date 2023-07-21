@@ -1793,9 +1793,9 @@
       "vc-di-ecdsa",
       "vc-di-eddsa",
       "vc-imp-guide",
+      "vc-jose-cose",
       "vc-json-schema",
       "vc-jws",
-      "vc-jwt",
       "vc-status-list",
       "vc-use-cases"
     ]
