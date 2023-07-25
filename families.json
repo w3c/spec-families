@@ -1821,6 +1821,12 @@
     ]
   },
   {
+    "name": "W3C Vision",
+    "series": [
+      "w3c-vision"
+    ]
+  },
+  {
     "name": "WAI-ARIA",
     "series": [
       "accname",
