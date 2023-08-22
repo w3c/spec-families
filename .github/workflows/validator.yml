@@ -22,5 +22,3 @@ jobs:
 
       - name: Validate JSON part 2
         run: node validator.js
-        env:
-          W3CAPIKEY: ${{secrets.W3CAPIKEY}}
