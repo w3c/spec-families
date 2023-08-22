@@ -606,7 +606,6 @@
     "name": "DCAT",
     "series": [
       "dcat-ucr",
-      "vocab-adms",
       "vocab-dcat"
     ]
   },
@@ -1024,6 +1023,7 @@
       "khmr-gap",
       "kore-gap",
       "laoo-gap",
+      "latn-ca-gap",
       "latn-de-gap",
       "latn-fr-gap",
       "latn-hu-gap",
