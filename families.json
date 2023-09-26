@@ -561,6 +561,12 @@
     ]
   },
   {
+    "name": "Client-Edge-Cloud coordination",
+    "series": [
+      "edge-cloud-reqs"
+    ]
+  },
+  {
     "name": "Clipboard API and events",
     "series": [
       "clipboard-apis"
