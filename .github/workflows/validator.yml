@@ -1,6 +1,6 @@
 name: families validation
 
-on: [push]
+on: [push,workflow_dispatch]
 
 jobs:
   validate:
