@@ -1402,6 +1402,7 @@
     "name": "RDF",
     "series": [
       "ld-glossary",
+      "rch-explainer",
       "rdf-canon",
       "rdf-concepts",
       "rdf-datasets",
