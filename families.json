@@ -215,12 +215,6 @@
     ]
   },
   {
-    "name": "CSS Device Adaptation",
-    "series": [
-      "css-device-adapt"
-    ]
-  },
-  {
     "name": "CSS Display",
     "series": [
       "css-display"
@@ -524,6 +518,13 @@
     "name": "CSS View Transitions",
     "series": [
       "css-view-transitions"
+    ]
+  },
+  {
+    "name": "CSS Viewport",
+    "series": [
+      "css-device-adapt",
+      "css-viewport"
     ]
   },
   {
