@@ -125,7 +125,7 @@
   {
     "name": "CSS",
     "series": [
-      "CSS",
+      "css",
       "css-roadmap"
     ]
   },
@@ -212,12 +212,6 @@
     "name": "CSS Custom Properties for Cascading Variables",
     "series": [
       "css-variables"
-    ]
-  },
-  {
-    "name": "CSS Device Adaptation",
-    "series": [
-      "css-device-adapt"
     ]
   },
   {
@@ -524,6 +518,13 @@
     "name": "CSS View Transitions",
     "series": [
       "css-view-transitions"
+    ]
+  },
+  {
+    "name": "CSS Viewport",
+    "series": [
+      "css-device-adapt",
+      "css-viewport"
     ]
   },
   {
