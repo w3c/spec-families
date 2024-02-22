@@ -1781,20 +1781,6 @@
     ]
   },
   {
-    "name": "Vehicle Information Service Specification",
-    "series": [
-      "viss-core",
-      "viss-transport"
-    ]
-  },
-  {
-    "name": "Vehicle Signal Service Specification",
-    "series": [
-      "vsso",
-      "vsso-core"
-    ]
-  },
-  {
     "name": "Verifiable Credentials",
     "series": [
       "vc-bitstring-status-list",
