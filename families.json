@@ -598,6 +598,12 @@
     ]
   },
   {
+    "name": "Controller Documents",
+    "series": [
+      "controller-document"
+    ]
+  },
+  {
     "name": "Cooperative Scheduling of Background Tasks",
     "series": [
       "requestidlecallback"
