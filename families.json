@@ -30,7 +30,6 @@
     "name": "Accessibility of content",
     "series": [
       "UNDERSTANDING-WCAG",
-      "WCAG",
       "WCAG-CORE-TECHS",
       "WCAG-EM",
       "WCAG-TECHS",
@@ -41,6 +40,7 @@
       "maturity-model",
       "mobile-accessibility-mapping",
       "wai-age-literature",
+      "wcag",
       "wcag-explainer",
       "wcag-ext-req",
       "wcag-requirements",
@@ -595,6 +595,12 @@
     "name": "Contact Picker API",
     "series": [
       "contact-picker"
+    ]
+  },
+  {
+    "name": "Controller Documents",
+    "series": [
+      "controller-document"
     ]
   },
   {
@@ -1736,10 +1742,13 @@
       "ilreq",
       "ilreq-taml",
       "jlreq",
+      "khmr-lreq",
       "klreq",
+      "laoo-lreq",
       "mlreq",
       "nkoo-lreq",
       "simple-ruby",
+      "thai-lreq",
       "tlreq"
     ]
   },
