@@ -780,6 +780,7 @@
       "epub-a11y-eaa-mapping",
       "epub-a11y-exemption",
       "epub-a11y-tech",
+      "epub-fxl-a11y",
       "epub-multi-rend",
       "epub-overview",
       "epub-rs",
@@ -1734,6 +1735,7 @@
   {
     "name": "Text Layout Requirements",
     "series": [
+      "adlm-lreq",
       "alreq",
       "clreq",
       "dpub-latinreq",
