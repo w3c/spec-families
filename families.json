@@ -1807,6 +1807,7 @@
       "vc-jose-cose",
       "vc-json-schema",
       "vc-jws",
+      "vc-overview",
       "vc-specs-dir",
       "vc-use-cases"
     ]
