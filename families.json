@@ -1023,6 +1023,7 @@
       "alreq-gap",
       "arab-ks-gap",
       "arab-ug-gap",
+      "arab-ur-gap",
       "beng-gap",
       "cans-iu-cr-gap",
       "cher-gap",
@@ -1806,7 +1807,6 @@
       "vc-imp-guide",
       "vc-jose-cose",
       "vc-json-schema",
-      "vc-jws",
       "vc-overview",
       "vc-specs-dir",
       "vc-use-cases"
@@ -2101,6 +2101,7 @@
       "webcodecs-opus-codec-registration",
       "webcodecs-pcm-codec-registration",
       "webcodecs-ulaw-codec-registration",
+      "webcodecs-video-frame-metadata-registry",
       "webcodecs-vorbis-codec-registration",
       "webcodecs-vp8-codec-registration",
       "webcodecs-vp9-codec-registration"
