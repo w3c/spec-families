@@ -612,7 +612,8 @@
   {
     "name": "Credential Management",
     "series": [
-      "credential-management"
+      "credential-management",
+      "fedcm"
     ]
   },
   {
