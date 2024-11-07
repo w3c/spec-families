@@ -60,6 +60,12 @@
     ]
   },
   {
+    "name": "Audio Session",
+    "series": [
+      "audio-session"
+    ]
+  },
+  {
     "name": "Audiobooks",
     "series": [
       "audiobooks"
