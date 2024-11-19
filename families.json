@@ -634,9 +634,12 @@
     "series": [
       "did-cbor-representation",
       "did-core",
+      "did-extensions",
+      "did-extensions-methods",
+      "did-extensions-properties",
+      "did-extensions-resolution",
       "did-imp-guide",
       "did-rubric",
-      "did-spec-registries",
       "did-use-cases"
     ]
   },
