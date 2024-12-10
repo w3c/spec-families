@@ -959,8 +959,7 @@
     "name": "Incremental Font Transfer",
     "series": [
       "IFT",
-      "PFE-evaluation",
-      "RangeRequest"
+      "PFE-evaluation"
     ]
   },
   {
@@ -1235,7 +1234,8 @@
   {
     "name": "Multi-screen support",
     "series": [
-      "openscreenprotocol",
+      "openscreen-application",
+      "openscreen-network",
       "presentation-api",
       "remote-playback",
       "window-management"
