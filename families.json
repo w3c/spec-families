@@ -191,6 +191,12 @@
     ]
   },
   {
+    "name": "CSS Color HDR",
+    "series": [
+      "css-color-hdr"
+    ]
+  },
+  {
     "name": "CSS Conditional Rules",
     "series": [
       "css-conditional"
