@@ -1009,6 +1009,7 @@
       "localizable-manifests",
       "ltli",
       "string-meta",
+      "string-search",
       "xml-i18n-bp"
     ]
   },
