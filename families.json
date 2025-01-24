@@ -639,7 +639,7 @@
     "name": "DID",
     "series": [
       "did-cbor-representation",
-      "did-core",
+      "did",
       "did-extensions",
       "did-extensions-methods",
       "did-extensions-properties",
