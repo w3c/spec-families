@@ -610,9 +610,9 @@
     ]
   },
   {
-    "name": "Controller Documents",
+    "name": "Controlled Identifiers",
     "series": [
-      "controller-document"
+      "cid"
     ]
   },
   {
@@ -1519,7 +1519,9 @@
     "series": [
       "shacl",
       "shacl-af",
+      "shacl-core",
       "shacl-js",
+      "shacl-sparql",
       "shacl-ucr"
     ]
   },
