@@ -1519,7 +1519,9 @@
     "series": [
       "shacl",
       "shacl-af",
+      "shacl-core",
       "shacl-js",
+      "shacl-sparql",
       "shacl-ucr"
     ]
   },
