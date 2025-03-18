@@ -610,9 +610,9 @@
     ]
   },
   {
-    "name": "Controller Documents",
+    "name": "Controlled Identifiers",
     "series": [
-      "controller-document"
+      "cid"
     ]
   },
   {
