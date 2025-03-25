@@ -271,6 +271,12 @@
     ]
   },
   {
+    "name": "CSS Forms",
+    "series": [
+      "css-forms"
+    ]
+  },
+  {
     "name": "CSS Fragmentation",
     "series": [
       "css-break"
@@ -607,6 +613,12 @@
     "name": "Contact Picker API",
     "series": [
       "contact-picker"
+    ]
+  },
+  {
+    "name": "Content Editable",
+    "series": [
+      "content-editable"
     ]
   },
   {
