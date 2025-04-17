@@ -283,6 +283,12 @@
     ]
   },
   {
+    "name": "CSS Gap Decorations",
+    "series": [
+      "css-gaps"
+    ]
+  },
+  {
     "name": "CSS Generated Content",
     "series": [
       "css-content"
