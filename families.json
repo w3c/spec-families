@@ -1419,6 +1419,12 @@
     ]
   },
   {
+    "name": "Privacy-Preserving Attribution",
+    "series": [
+      "privacy-preserving-attribution"
+    ]
+  },
+  {
     "name": "Push API",
     "series": [
       "push-api"
@@ -1743,7 +1749,7 @@
   {
     "name": "Subresource Integrity",
     "series": [
-      "SRI"
+      "sri"
     ]
   },
   {
