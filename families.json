@@ -622,12 +622,6 @@
     ]
   },
   {
-    "name": "Content Editable",
-    "series": [
-      "content-editable"
-    ]
-  },
-  {
     "name": "Controlled Identifiers",
     "series": [
       "cid"
