@@ -44,7 +44,8 @@
       "wcag-explainer",
       "wcag-ext-req",
       "wcag-requirements",
-      "wcag2ict"
+      "wcag2ict",
+      "wcag2mobile"
     ]
   },
   {
@@ -2014,7 +2015,7 @@
   {
     "name": "Web Crypto",
     "series": [
-      "WebCryptoAPI",
+      "webcrypto",
       "webcrypto-usecases"
     ]
   },
