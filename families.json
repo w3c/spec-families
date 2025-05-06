@@ -2015,7 +2015,7 @@
   {
     "name": "Web Crypto",
     "series": [
-      "WebCryptoAPI",
+      "webcrypto",
       "webcrypto-usecases"
     ]
   },
