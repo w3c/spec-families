@@ -284,6 +284,12 @@
     ]
   },
   {
+    "name": "CSS Functions and Mixins Module",
+    "series": [
+      "css-mixins"
+    ]
+  },
+  {
     "name": "CSS Gap Decorations",
     "series": [
       "css-gaps"
