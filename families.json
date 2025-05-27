@@ -2007,7 +2007,6 @@
     "name": "Web Audio API",
     "series": [
       "audio-eq-cookbook",
-      "audioproc",
       "webaudio",
       "webaudio-usecases"
     ]
