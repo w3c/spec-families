@@ -2242,6 +2242,12 @@
     ]
   },
   {
+    "name": "Writing Effective Explainers",
+    "series": [
+      "explainer-explainer"
+    ]
+  },
+  {
     "name": "XForms",
     "series": [
       "XForms-for-HTML",
