@@ -1110,6 +1110,12 @@
     ]
   },
   {
+    "name": "Linked Web Storage",
+    "series": [
+      "lws-ucs"
+    ]
+  },
+  {
     "name": "MBUI",
     "series": [
       "mbui-glossary",
