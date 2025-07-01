@@ -744,6 +744,12 @@
     ]
   },
   {
+    "name": "Digital Credentials",
+    "series": [
+      "digital-credentials"
+    ]
+  },
+  {
     "name": "Digital Publishing",
     "series": [
       "dpub-accessibility",
