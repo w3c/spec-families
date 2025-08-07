@@ -1643,7 +1643,9 @@
     "name": "Spoken Presentation in HTML",
     "series": [
       "pronunciation-explainer",
+      "pronunciation-gap-analysis",
       "pronunciation-gap-analysis-and-use-cases",
+      "pronunciation-use-cases",
       "pronunciation-user-scenarios",
       "spoken-html"
     ]
