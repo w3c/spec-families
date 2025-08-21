@@ -706,6 +706,12 @@
     ]
   },
   {
+    "name": "Device Bound Session Credentials",
+    "series": [
+      "dbsc"
+    ]
+  },
+  {
     "name": "Device Description",
     "series": [
       "DDR-Simple-API",
@@ -2028,6 +2034,7 @@
   {
     "name": "Web Authentication",
     "series": [
+      "passkey-endpoints",
       "webauthn"
     ]
   },
