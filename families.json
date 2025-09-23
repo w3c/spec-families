@@ -240,6 +240,12 @@
     ]
   },
   {
+    "name": "CSS Environment Variables",
+    "series": [
+      "css-env"
+    ]
+  },
+  {
     "name": "CSS Exclusions",
     "series": [
       "css-exclusions"
