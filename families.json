@@ -1894,6 +1894,7 @@
     "name": "Verifiable Credentials",
     "series": [
       "vc-bitstring-status-list",
+      "vc-confidence-method",
       "vc-data-model",
       "vc-data-integrity",
       "vc-di-bbs",
@@ -1904,6 +1905,7 @@
       "vc-jose-cose",
       "vc-json-schema",
       "vc-overview",
+      "vc-render-method",
       "vc-use-cases"
     ]
   },
