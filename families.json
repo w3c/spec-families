@@ -1726,9 +1726,10 @@
     ]
   },
   {
-    "name": "Self-Review Questionnaire: Security and Privacy",
+    "name": "Self-Review Questionnaire",
     "series": [
-      "security-privacy-questionnaire"
+      "security-privacy-questionnaire",
+      "societal-impact-questionnaire"
     ]
   },
   {
@@ -2159,7 +2160,7 @@
     "name": "Web of Things",
     "series": [
       "wot-architecture",
-      "wot-binding-templates",
+      "wot-binding-registry",
       "wot-discovery",
       "wot-profile",
       "wot-scripting-api",
