@@ -2157,6 +2157,12 @@
     ]
   },
   {
+    "name": "Web User Agents",
+    "series": [
+      "web-user-agents"
+    ]
+  },
+  {
     "name": "Web of Things",
     "series": [
       "wot-architecture",
