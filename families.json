@@ -55,6 +55,12 @@
     ]
   },
   {
+    "name": "Attribution",
+    "series": [
+      "attribution"
+    ]
+  },
+  {
     "name": "Audio Output Devices API",
     "series": [
       "audio-output"
@@ -1441,12 +1447,6 @@
     "name": "Post-Spectre",
     "series": [
       "post-spectre-webdev"
-    ]
-  },
-  {
-    "name": "Privacy-Preserving Attribution",
-    "series": [
-      "privacy-preserving-attribution"
     ]
   },
   {
