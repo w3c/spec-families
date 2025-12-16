@@ -1483,6 +1483,7 @@
       "rdf-canon",
       "rdf-concepts",
       "rdf-datasets",
+      "rdf-interop",
       "rdf-json",
       "rdf-n-quads",
       "rdf-n-triples",
