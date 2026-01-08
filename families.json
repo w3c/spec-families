@@ -1571,6 +1571,7 @@
       "shacl-af",
       "shacl-core",
       "shacl-js",
+      "shacl-node-expr",
       "shacl-rules",
       "shacl-sparql",
       "shacl-ucr"
