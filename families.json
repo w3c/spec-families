@@ -1864,6 +1864,13 @@
     ]
   },
   {
+    "name": "Threat Modeling",
+    "series": [
+      "threat-model-decentralized-credentials",
+      "threat-modeling-guide"
+    ]
+  },
+  {
     "name": "Time Ontology",
     "series": [
       "owl-time",
