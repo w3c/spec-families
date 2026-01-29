@@ -977,6 +977,7 @@
       "offline-webapps",
       "respimg-usecases",
       "ruby",
+      "ruby-tts-req",
       "ruby-use-cases",
       "web-forms",
       "xbl-primer",
@@ -2066,6 +2067,7 @@
   {
     "name": "Web Crypto",
     "series": [
+      "security-guidelines-cryptography",
       "webcrypto",
       "webcrypto-usecases"
     ]
