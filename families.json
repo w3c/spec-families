@@ -1749,7 +1749,6 @@
       "accelerometer",
       "ambient-light",
       "generic-sensor",
-      "geolocation-sensor",
       "gyroscope",
       "magnetometer",
       "motion-sensors",
