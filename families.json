@@ -17,7 +17,12 @@
   {
     "name": "Accessibility User Requirements",
     "series": [
+      "coga-research-modules",
+      "coga-safety",
+      "coga-sdm",
       "coga-user-research",
+      "coga-voice",
+      "coga-wayfinding",
       "low-vision-needs",
       "media-accessibility-reqs",
       "naur",
