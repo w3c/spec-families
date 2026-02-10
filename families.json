@@ -1350,15 +1350,6 @@
     ]
   },
   {
-    "name": "PICS",
-    "series": [
-      "DSig-label",
-      "PICS-labels",
-      "PICS-services",
-      "PICSRules"
-    ]
-  },
-  {
     "name": "PLS",
     "series": [
       "pronunciation-lexicon"
