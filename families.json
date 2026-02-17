@@ -2103,12 +2103,12 @@
     "series": [
       "htr",
       "merchant-validation",
-      "payment-handler",
       "payment-method-id",
       "payment-method-manifest",
       "payment-request",
       "secure-payment-confirmation",
-      "webpayments-overview"
+      "webpayments-overview",
+      "web-based-payment-handler"
     ]
   },
   {
