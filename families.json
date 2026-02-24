@@ -852,6 +852,9 @@
       "epub-a11y-eaa-mapping",
       "epub-a11y-exemption",
       "epub-a11y-tech",
+      "epub-anno",
+      "epub-anno-vocab",
+      "epub-anno-ucr",
       "epub-fxl-a11y",
       "epub-multi-rend",
       "epub-overview",
@@ -1961,7 +1964,6 @@
       "html-aria",
       "role-attribute",
       "svg-aam",
-      "using-aria",
       "wai-aria",
       "wai-aria-implementation",
       "wai-aria-roadmap"
