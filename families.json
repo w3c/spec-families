@@ -1089,7 +1089,8 @@
       "json-ld",
       "json-ld-api",
       "json-ld-framing",
-      "json-ld-streaming"
+      "json-ld-streaming",
+      "yaml-ld"
     ]
   },
   {
