@@ -1132,6 +1132,12 @@
     ]
   },
   {
+    "name": "Large Language Models",
+    "series": [
+      "llms-standards"
+    ]
+  },
+  {
     "name": "Lightweight Packaging Format (LPF)",
     "series": [
       "lpf"
