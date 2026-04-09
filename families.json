@@ -333,6 +333,7 @@
   {
     "name": "CSS Images",
     "series": [
+      "css-image-animation",
       "css-images"
     ]
   },
