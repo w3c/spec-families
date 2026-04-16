@@ -1918,6 +1918,7 @@
   {
     "name": "Verifiable Credentials",
     "series": [
+      "vc-barcodes",
       "vc-bitstring-status-list",
       "vc-confidence-method",
       "vc-data-model",
@@ -1931,7 +1932,8 @@
       "vc-json-schema",
       "vc-overview",
       "vc-render-method",
-      "vc-use-cases"
+      "vc-use-cases",
+      "vcalm"
     ]
   },
   {
