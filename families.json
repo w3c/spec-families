@@ -1159,6 +1159,10 @@
   {
     "name": "Linked Web Storage",
     "series": [
+      "lws-authn-openid",
+      "lws-authn-saml",
+      "lws-authn-ssi-cid",
+      "lws-authn-ssi-did-key",
       "lws-core",
       "lws-ucs"
     ]
