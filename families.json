@@ -1087,6 +1087,7 @@
   {
     "name": "JSON-LD",
     "series": [
+      "cbor-ld",
       "json-ld",
       "json-ld-api",
       "json-ld-framing",
@@ -1425,6 +1426,7 @@
       "event-timing",
       "hr-time",
       "largest-contentful-paint",
+      "long-animation-frames",
       "longtasks",
       "navigation-timing",
       "paint-timing",
