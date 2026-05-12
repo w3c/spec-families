@@ -1937,6 +1937,7 @@
       "vc-jose-cose",
       "vc-json-schema",
       "vc-overview",
+      "vc-recognized-entities",
       "vc-render-method",
       "vc-use-cases",
       "vcalm"
