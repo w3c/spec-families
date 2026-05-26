@@ -1595,7 +1595,8 @@
       "shacl-node-expr",
       "shacl-rules",
       "shacl-sparql",
-      "shacl-ucr"
+      "shacl-ucr",
+      "shacl-ui"
     ]
   },
   {
