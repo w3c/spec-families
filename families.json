@@ -1595,7 +1595,8 @@
       "shacl-node-expr",
       "shacl-rules",
       "shacl-sparql",
-      "shacl-ucr"
+      "shacl-ucr",
+      "shacl-ui"
     ]
   },
   {
@@ -1887,6 +1888,7 @@
     "name": "Threat Modeling",
     "series": [
       "threat-model-decentralized-credentials",
+      "threat-model-web",
       "threat-modeling-guide"
     ]
   },
