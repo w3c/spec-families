@@ -1888,6 +1888,7 @@
     "name": "Threat Modeling",
     "series": [
       "threat-model-decentralized-credentials",
+      "threat-model-web",
       "threat-modeling-guide"
     ]
   },
