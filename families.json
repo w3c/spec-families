@@ -1934,6 +1934,7 @@
       "vc-di-bbs",
       "vc-di-ecdsa",
       "vc-di-eddsa",
+      "vc-di-quantum-resistant",
       "vc-extensions",
       "vc-imp-guide",
       "vc-jose-cose",
