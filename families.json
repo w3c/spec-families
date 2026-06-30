@@ -1936,6 +1936,7 @@
       "vc-di-eddsa",
       "vc-di-quantum-resistant",
       "vc-extensions",
+      "vc-forgery-defense",
       "vc-imp-guide",
       "vc-jose-cose",
       "vc-json-schema",
@@ -1970,6 +1971,12 @@
     "name": "W3C Vision",
     "series": [
       "w3c-vision"
+    ]
+  },
+  {
+    "name": "W3C Standards Vulnerability Disclosure",
+    "series": [
+      "security-disclosure"
     ]
   },
   {
