@@ -1593,6 +1593,7 @@
       "shacl-core",
       "shacl-js",
       "shacl-node-expr",
+      "shacl-profiling",
       "shacl-rules",
       "shacl-sparql",
       "shacl-ucr",
