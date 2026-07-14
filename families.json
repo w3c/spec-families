@@ -357,6 +357,12 @@
     ]
   },
   {
+    "name": "CSS Linked Parameters",
+    "series": [
+      "css-link-params"
+    ]
+  },
+  {
     "name": "CSS Lists and Counters",
     "series": [
       "css-lists"
@@ -1165,7 +1171,8 @@
       "lws-authn-ssi-cid",
       "lws-authn-ssi-did-key",
       "lws-core",
-      "lws-ucs"
+      "lws-ucs",
+      "lws-vocab"
     ]
   },
   {
@@ -1660,6 +1667,7 @@
       "sparql-features",
       "sparql-federated-query",
       "sparql-graph-store-protocol",
+      "sparql-new",
       "sparql-overview",
       "sparql-property-paths",
       "sparql-protocol",
