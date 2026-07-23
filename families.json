@@ -36,7 +36,6 @@
     "series": [
       "UNDERSTANDING-WCAG",
       "WCAG-CORE-TECHS",
-      "WCAG-EM",
       "WCAG-TECHS",
       "accessibility-conformance-challenges",
       "coga-gap-analysis",
@@ -46,6 +45,7 @@
       "mobile-accessibility-mapping",
       "wai-age-literature",
       "wcag",
+      "wcag-em",
       "wcag-explainer",
       "wcag-ext-req",
       "wcag-requirements",
