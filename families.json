@@ -1282,17 +1282,6 @@
     ]
   },
   {
-    "name": "MiniApp",
-    "series": [
-      "mini-app-white-paper",
-      "miniapp-addressing",
-      "miniapp-lifecycle",
-      "miniapp-manifest",
-      "miniapp-packaging",
-      "miniapp-widget-req"
-    ]
-  },
-  {
     "name": "Mixed Content",
     "series": [
       "mixed-content",
