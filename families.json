@@ -1806,7 +1806,8 @@
   {
     "name": "Sustainability",
     "series": [
-      "web-sustainability-guidelines"
+      "web-sustainability-guidelines",
+      "wsg-ir"
     ]
   },
   {
