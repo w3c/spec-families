@@ -1591,7 +1591,6 @@
       "shacl-js",
       "shacl-node-expr",
       "shacl-profiling",
-      "shacl-rules",
       "shacl-sparql",
       "shacl-ucr",
       "shacl-ui"
@@ -1665,6 +1664,7 @@
       "sparql-results-csv-tsv",
       "sparql-results-json",
       "sparql-results-xml",
+      "sparql-rl",
       "sparql-service-description",
       "sparql-update"
     ]
