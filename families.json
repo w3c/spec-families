@@ -1588,6 +1588,7 @@
       "shacl",
       "shacl-af",
       "shacl-core",
+      "shacl-inference-rules",
       "shacl-js",
       "shacl-node-expr",
       "shacl-profiling",
