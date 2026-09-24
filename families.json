@@ -1931,6 +1931,7 @@
       "vc-bitstring-status-list",
       "vc-confidence-method",
       "vc-data-model",
+      "vc-data-model-threat-model",
       "vc-data-integrity",
       "vc-di-bbs",
       "vc-di-ecdsa",
