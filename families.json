@@ -1927,11 +1927,13 @@
     "name": "Verifiable Credentials",
     "series": [
       "vc-barcodes",
+      "vc-barcodes-threat-model",
       "vc-bitstring-status-list",
       "vc-confidence-method",
       "vc-data-model",
       "vc-data-model-threat-model",
       "vc-data-integrity",
+      "vc-data-integrity-threat-model",
       "vc-di-bbs",
       "vc-di-ecdsa",
       "vc-di-eddsa",
@@ -1943,9 +1945,12 @@
       "vc-json-schema",
       "vc-overview",
       "vc-recognized-entities",
+      "vc-recognized-entities-threat-model",
       "vc-render-method",
+      "vc-render-method-threat-model",
       "vc-use-cases",
-      "vcalm"
+      "vcalm",
+      "vcalm-threat-model"
     ]
   },
   {
