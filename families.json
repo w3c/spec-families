@@ -60,6 +60,12 @@
     ]
   },
   {
+    "name": "Animation triggers",
+    "series": [
+      "animation-triggers"
+    ]
+  },
+  {
     "name": "Attribution",
     "series": [
       "attribution"
@@ -756,12 +762,6 @@
     ]
   },
   {
-    "name": "Device Memory",
-    "series": [
-      "device-memory"
-    ]
-  },
-  {
     "name": "Device Posture",
     "series": [
       "device-posture"
@@ -1423,7 +1423,6 @@
       "hr-time",
       "largest-contentful-paint",
       "long-animation-frames",
-      "longtasks",
       "navigation-timing",
       "paint-timing",
       "performance-timeline",
