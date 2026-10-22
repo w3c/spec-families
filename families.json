@@ -1923,6 +1923,12 @@
     ]
   },
   {
+    "name": "User Agents",
+    "series": [
+      "user-agents"
+    ]
+  },
+  {
     "name": "Verifiable Credentials",
     "series": [
       "vc-barcodes",
@@ -2203,12 +2209,6 @@
     "name": "Web Share API",
     "series": [
       "web-share"
-    ]
-  },
-  {
-    "name": "Web User Agents",
-    "series": [
-      "web-user-agents"
     ]
   },
   {
