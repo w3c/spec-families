@@ -1460,6 +1460,12 @@
     ]
   },
   {
+    "name": "Pointer-driven Animations",
+    "series": [
+      "pointer-animations"
+    ]
+  },
+  {
     "name": "Post-Spectre",
     "series": [
       "post-spectre-webdev"
